@@ -13,8 +13,8 @@ except ImportError:
     import requests
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), '..', 'data', 'news.json')
-MAX_NEWS = 30
-MAX_VIDEOS_PER_CHANNEL = 6
+MAX_NEWS = 45
+MAX_VIDEOS_PER_CHANNEL = 8
 
 YOUTUBE_API_KEY = os.environ.get('YT_API_KEY', 'AIzaSyBU7SK3OcfBkYuPtPiK9_XZ8xo5wXb_jSs')
 YOUTUBE_CHANNELS = {
@@ -27,16 +27,35 @@ RSS_FEEDS = [
     'https://news.google.com/rss/search?q=GTA+6+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-BR',
     'https://news.google.com/rss/search?q=Grand+Theft+Auto+VI+lan%C3%A7amento&hl=pt-BR&gl=BR&ceid=BR:pt-BR',
     'https://news.google.com/rss/search?q=GTA+VI+not%C3%ADcias&hl=pt-BR&gl=BR&ceid=BR:pt-BR',
+    'https://news.google.com/rss/search?q=PlayStation+5+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-BR',
+    'https://news.google.com/rss/search?q=Xbox+Series+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-BR',
+    'https://news.google.com/rss/search?q=PlayStation+Brasil+games&hl=pt-BR&gl=BR&ceid=BR:pt-BR',
+    'https://news.google.com/rss/search?q=Xbox+Brasil+games&hl=pt-BR&gl=BR&ceid=BR:pt-BR',
     'https://br.ign.com/feeds/rss/gta-6',
+    'https://br.ign.com/feeds/rss/ps5',
+    'https://br.ign.com/feeds/rss/xbox',
     'https://meups.com.br/feed/',
     'https://www.tecmundo.com.br/feed/',
     'https://www.adrenaline.com.br/feed/',
 ]
 
-GTA_KEYWORDS = [
+KEYWORDS_GTA = [
     'gta 6', 'gta vi', 'gta6', 'grand theft auto vi', 'grand theft auto 6',
     'rockstar games', 'vice city', 'leonida', 'gta online',
     'gta 6 lançamento', 'gta 6 trailer', 'gta 6 gameplay',
+]
+
+KEYWORDS_PS = [
+    'playstation', 'ps5', 'playstation 5', 'ps4', 'playstation 4',
+    'sony', 'playstation plus', 'ps plus', 'playstation store',
+    'playstation vr', 'ps vr', 'dualsense', 'playstation network',
+]
+
+KEYWORDS_XBOX = [
+    'xbox', 'xbox series', 'xbox series x', 'xbox series s', 'xbox one',
+    'microsoft', 'xbox game pass', 'game pass', 'xbox live',
+    'xcloud', 'xbox cloud', 'bethesda', 'activision',
+    'xbox wire', 'xbox series',
 ]
 
 WIKI_GTA_IMAGES = None
@@ -155,17 +174,30 @@ def parse_date(date_str):
         return f'{match.group(3)}-{match.group(2)}-{match.group(1)}'
     return date_str[:10]
 
-def is_gta_related(text):
+def is_relevant(text):
     text_lower = text.lower()
-    for kw in GTA_KEYWORDS:
+    for kw in KEYWORDS_GTA + KEYWORDS_PS + KEYWORDS_XBOX:
         if kw in text_lower:
             return True
     return False
 
+def get_category(text):
+    text_lower = text.lower()
+    for kw in KEYWORDS_GTA:
+        if kw in text_lower:
+            return 'GTA 6'
+    for kw in KEYWORDS_PS:
+        if kw in text_lower:
+            return 'PlayStation'
+    for kw in KEYWORDS_XBOX:
+        if kw in text_lower:
+            return 'Xbox'
+    return 'Games'
+
 def clean_source_name(url, source_tag):
     name = source_tag or urllib.parse.urlparse(url).netloc.replace('www.', '').split('.')[0].upper()
     if 'google' in name.lower() or 'news' in name.lower():
-        return 'GTA 6 BR'
+        return 'Games BR'
     mapping = {
         'br': 'IGN BR', 'meups': 'MeuPS', 'tecmundo': 'TecMundo',
         'adrenaline': 'Adrenaline', 'hardware': 'Hardware BR',
@@ -208,8 +240,11 @@ def fetch_rss(url):
             source_name = clean_source_name(url, source_tag)
 
             text_content = f'{title} {desc}'
-            if not is_gta_related(text_content):
+            if not is_relevant(text_content):
                 continue
+
+            category = get_category(text_content)
+            source_display = f'{source_name} • {category}'
 
             media = ''
             media_el = entry.find('enclosure')
@@ -250,7 +285,7 @@ def fetch_rss(url):
                     'link': link,
                     'description': desc.strip()[:200],
                     'date': pub_date,
-                    'source': source_name,
+                    'source': source_display,
                     'image': media,
                 })
         return items
@@ -310,7 +345,7 @@ def main():
     print('Buscando imagens do Wikipedia (GTA VI)...')
     get_wiki_images()
 
-    print('\nBuscando notícias em Português (BR)...')
+    print('\nBuscando notícias em Português (GTA 6 + PS5 + Xbox)...')
     all_news = []
     for feed in RSS_FEEDS:
         items = fetch_rss(feed)
@@ -340,7 +375,7 @@ def main():
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f'\n Total notícias (PT-BR): {len(all_news)}')
+    print(f'\n Total notícias (GTA 6 + PS + Xbox): {len(all_news)}')
     print(f' Total vídeos: {len(all_videos)}')
     print(f' Arquivo salvo: {DATA_FILE}')
 
