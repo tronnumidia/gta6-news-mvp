@@ -39,18 +39,50 @@ GTA_KEYWORDS = [
     'gta 6 lançamento', 'gta 6 trailer', 'gta 6 gameplay',
 ]
 
+GTA_IMAGES = [
+    'https://placehold.co/600x340/1a0030/a855f7?text=GTA+VI',
+    'https://placehold.co/600x340/0a0015/ff007f?text=GTA+6',
+    'https://placehold.co/600x340/1a0030/00f0ff?text=Vice+City',
+    'https://placehold.co/600x340/0a0015/facc15?text=GTA+VI',
+    'https://placehold.co/600x340/1a0030/ff6b00?text=GTA+6',
+]
+
+img_index = 0
+
+def next_fallback():
+    global img_index
+    url = GTA_IMAGES[img_index % len(GTA_IMAGES)]
+    img_index += 1
+    return url
+
 def extract_img_from_html(html):
     match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html, re.I)
     if match:
         src = match.group(1)
         if src.startswith('//'):
             src = 'https:' + src
-        return src
+        if src.startswith('http') and not src.startswith('https://placehold.co'):
+            return src
     return ''
 
-def fetch_og_image(url):
+def fetch_og_image_microlink(url):
     try:
-        resp = requests.get(url, timeout=8, headers={
+        api_url = f'https://api.microlink.io/?url={urllib.parse.quote(url)}&video=false&audio=false'
+        resp = requests.get(api_url, timeout=8, headers={'User-Agent': 'Mozilla/5.0'})
+        resp.raise_for_status()
+        data = resp.json()
+        if data.get('status') == 'success' and data.get('data', {}).get('image', {}).get('url'):
+            img = data['data']['image']['url']
+            if not img.startswith('http'):
+                img = 'https://' + img.lstrip('//')
+            return img
+    except:
+        pass
+    return ''
+
+def fetch_og_image_direct(url):
+    try:
+        resp = requests.get(url, timeout=6, headers={
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         })
         resp.raise_for_status()
@@ -63,19 +95,6 @@ def fetch_og_image(url):
     except:
         pass
     return ''
-
-def generate_thumbnail(source, title):
-    colors = [
-        ('1a0030', 'ff007f', 'GTA+VI'),
-        ('0a0015', '00f0ff', 'GTA+6'),
-        ('1a0030', 'a855f7', 'GTA'),
-        ('0a0015', 'facc15', 'GTA+VI'),
-        ('1a0030', 'ff6b00', 'GTA+6'),
-    ]
-    import hashlib
-    idx = hashlib.md5(title.encode()).digest()[0] % len(colors)
-    bg, fg, label = colors[idx]
-    return f'https://placehold.co/600x340/{bg}/{fg}?text={label}'
 
 def parse_date(date_str):
     meses_en = {
@@ -156,26 +175,31 @@ def fetch_rss(url):
             media_el = entry.find('enclosure')
             if media_el is not None:
                 media = media_el.get('url', '')
-            media_content = entry.find('media:content', ns)
-            if media_content is not None:
-                media = media_content.get('url', '')
-            media_group = entry.find('media:group', ns)
-            if media_group is not None:
-                mc = media_group.find('media:content', ns)
+            if not media:
+                mc = entry.find('media:content', ns)
                 if mc is not None:
                     media = mc.get('url', '')
-            media_thumbnail = entry.find('media:thumbnail', ns)
-            if media_thumbnail is not None:
-                media = media_thumbnail.get('url', '')
+            if not media:
+                mg = entry.find('media:group', ns)
+                if mg is not None:
+                    mc = mg.find('media:content', ns)
+                    if mc is not None:
+                        media = mc.get('url', '')
+            if not media:
+                mt = entry.find('media:thumbnail', ns)
+                if mt is not None:
+                    media = mt.get('url', '')
 
             if not media:
                 media = extract_img_from_html(raw_desc)
 
             if not media and link and link != '#':
-                media = fetch_og_image(link)
+                media = fetch_og_image_microlink(link)
+                if not media:
+                    media = fetch_og_image_direct(link)
 
             if not media:
-                media = generate_thumbnail(source_name, title)
+                media = next_fallback()
 
             if title and link:
                 items.append({
