@@ -39,8 +39,32 @@ GTA_KEYWORDS = [
     'gta 6 lançamento', 'gta 6 trailer', 'gta 6 gameplay',
 ]
 
+def extract_img_from_html(html):
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html, re.I)
+    if match:
+        src = match.group(1)
+        if src.startswith('//'):
+            src = 'https:' + src
+        return src
+    return ''
+
+def fetch_og_image(url):
+    try:
+        resp = requests.get(url, timeout=8, headers={
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        })
+        resp.raise_for_status()
+        match = re.search(r'<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', resp.text, re.I)
+        if match:
+            return match.group(1)
+        match = re.search(r'<meta\s+content=["\']([^"\']+)["\']\s+property=["\']og:image["\']', resp.text, re.I)
+        if match:
+            return match.group(1)
+    except:
+        pass
+    return ''
+
 def generate_thumbnail(source, title):
-    text = urllib.parse.quote(title[:40])
     colors = [
         ('1a0030', 'ff007f', 'GTA+VI'),
         ('0a0015', '00f0ff', 'GTA+6'),
@@ -79,6 +103,26 @@ def is_gta_related(text):
             return True
     return False
 
+def clean_source_name(url, source_tag):
+    name = source_tag or urllib.parse.urlparse(url).netloc.replace('www.', '').split('.')[0].upper()
+    if 'google' in name.lower() or 'news' in name.lower():
+        return 'GTA 6 BR'
+    mapping = {
+        'br': 'IGN BR', 'meups': 'MeuPS', 'tecmundo': 'TecMundo',
+        'adrenaline': 'Adrenaline', 'hardware': 'Hardware BR',
+        'tudocelular': 'TudoCelular', 'canaltech': 'Canaltech',
+        'olhardigital': 'Olhar Digital', 'd24horas': 'Diário 24h',
+        'ultimaficha': 'Última Ficha', 'jornadageek': 'Jornada Geek',
+        'transmissao': 'Trans. Política', 'notebookcheck': 'Notebook Check',
+        'jornalcorreio': 'Jornal Correio', 'dol': 'DOL',
+        'portal': 'Portal BR', 'fastcompany': 'Fast Company',
+        'ncnews': 'NC News', 'investing': 'Investing BR',
+    }
+    for key, val in mapping.items():
+        if key in name.lower():
+            return val
+    return name
+
 def fetch_rss(url):
     try:
         resp = requests.get(url, timeout=15, headers={
@@ -97,20 +141,12 @@ def fetch_rss(url):
             link = ''
             if link_el is not None:
                 link = link_el.get('href', '') or link_el.text or ''
-            desc = entry.findtext('description', '') or entry.findtext('summary', '') or ''
-            desc = re.sub(r'<[^>]+>', '', desc)[:300]
+            raw_desc = entry.findtext('description', '') or entry.findtext('summary', '') or ''
+            desc = re.sub(r'<[^>]+>', '', raw_desc)[:300]
             pub_date = entry.findtext('pubDate', '') or entry.findtext('published', '') or ''
             pub_date = parse_date(pub_date)
             source_tag = entry.findtext('source', '') or ''
-            source_name = source_tag or urllib.parse.urlparse(url).netloc.replace('www.', '').split('.')[0].upper()
-            if 'google' in source_name.lower():
-                source_name = 'GTA 6 BR'
-            source_name = {
-                'br': 'IGN BR',
-                'meups': 'MeuPS',
-                'tecmundo': 'TecMundo',
-                'adrenaline': 'Adrenaline',
-            }.get(source_name.lower(), source_name)
+            source_name = clean_source_name(url, source_tag)
 
             text_content = f'{title} {desc}'
             if not is_gta_related(text_content):
@@ -131,6 +167,12 @@ def fetch_rss(url):
             media_thumbnail = entry.find('media:thumbnail', ns)
             if media_thumbnail is not None:
                 media = media_thumbnail.get('url', '')
+
+            if not media:
+                media = extract_img_from_html(raw_desc)
+
+            if not media and link and link != '#':
+                media = fetch_og_image(link)
 
             if not media:
                 media = generate_thumbnail(source_name, title)

@@ -23,9 +23,27 @@ updateCountdown();
 setInterval(updateCountdown, 1000);
 
 function fallbackImg(img) {
-    if (!img.src || img.src.includes('placehold.co')) return;
+    const colors = [
+        ['#1a0030', '#ff007f', 'GTA VI'],
+        ['#0a0015', '#00f0ff', 'GTA 6'],
+        ['#1a0030', '#a855f7', 'GAME'],
+        ['#0a0015', '#facc15', 'GTA VI'],
+        ['#1a0030', '#ff6b00', 'GTA 6'],
+    ];
+    const idx = Math.floor(Math.random() * colors.length);
+    const [bg, fg, label] = colors[idx];
     img.src = 'data:image/svg+xml,' + encodeURIComponent(
-        '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340"><rect fill="#0f0020" width="600" height="340"/><text fill="#a855f7" x="300" y="170" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="22" font-weight="bold">GTA VI</text></svg>'
+        `<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340">
+            <defs>
+                <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" style="stop-color:${bg};stop-opacity:1"/>
+                    <stop offset="100%" style="stop-color:#0a0015;stop-opacity:1"/>
+                </linearGradient>
+            </defs>
+            <rect fill="url(#g)" width="600" height="340"/>
+            <text fill="${fg}" x="300" y="160" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="36" font-weight="bold" opacity="0.9">${label}</text>
+            <text fill="#8a7aa0" x="300" y="200" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="14" opacity="0.5">WK GAMES NEWS</text>
+        </svg>`
     );
 }
 
@@ -57,7 +75,7 @@ async function loadData() {
         if (data.videos && data.videos.length) {
             videoGrid.innerHTML = data.videos.map(v => `
                 <a class="video-card" href="${v.link}" target="_blank" rel="noopener">
-                    <img class="video-thumb" src="${v.thumbnail || ''}" alt="${v.title}" loading="lazy" onerror="fallbackImg(this)">
+                    <img class="video-thumb" src="${v.thumbnail || ''}" alt="${v.title}" loading="lazy" onerror="this.src='data:image/svg+xml,'+encodeURIComponent('<svg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'600\\' height=\\'340\\'><rect fill=\\'#0f0020\\' width=\\'600\\' height=\\'340\\'/><text fill=\\'#ff007f\\' x=\\'300\\' y=\\'170\\' text-anchor=\\'middle\\' dominant-baseline=\\'middle\\' font-family=\\'monospace\\' font-size=\\'22\\' font-weight=\\'bold\\'>WK Video</text></svg>')">
                     <div class="video-body">
                         <div class="video-channel">${v.channel || 'YouTube'}</div>
                         <h3 class="video-title">${v.title}</h3>
