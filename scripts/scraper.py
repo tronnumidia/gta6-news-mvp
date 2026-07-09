@@ -39,59 +39,99 @@ GTA_KEYWORDS = [
     'gta 6 lançamento', 'gta 6 trailer', 'gta 6 gameplay',
 ]
 
-GTA_IMAGES = [
-    'https://placehold.co/600x340/1a0030/a855f7?text=GTA+VI',
-    'https://placehold.co/600x340/0a0015/ff007f?text=GTA+6',
-    'https://placehold.co/600x340/1a0030/00f0ff?text=Vice+City',
-    'https://placehold.co/600x340/0a0015/facc15?text=GTA+VI',
-    'https://placehold.co/600x340/1a0030/ff6b00?text=GTA+6',
-]
+WIKI_GTA_IMAGES = None
 
-img_index = 0
+def get_wiki_images():
+    global WIKI_GTA_IMAGES
+    if WIKI_GTA_IMAGES is not None:
+        return WIKI_GTA_IMAGES
+    try:
+        url = 'https://en.wikipedia.org/w/api.php?action=query&titles=Grand_Theft_Auto_VI&prop=images&format=json&imlimit=20'
+        resp = requests.get(url, timeout=10)
+        data = resp.json()
+        pages = data.get('query', {}).get('pages', {})
+        images = []
+        for pid, page in pages.items():
+            for img in page.get('images', []):
+                title = img.get('title', '')
+                if any(x in title.lower() for x in ['.jpg', '.png', '.webp']):
+                    img_url = f"https://en.wikipedia.org/w/api.php?action=query&titles={urllib.parse.quote(title)}&prop=imageinfo&iiprop=url&format=json"
+                    img_resp = requests.get(img_url, timeout=10)
+                    img_data = img_resp.json()
+                    for pid2, page2 in img_data.get('query', {}).get('pages', {}).items():
+                        info = page2.get('imageinfo', [])
+                        if info and info[0].get('url'):
+                            images.append(info[0]['url'])
+        WIKI_GTA_IMAGES = images[:10]
+        if WIKI_GTA_IMAGES:
+            print(f'  Wikipedia: {len(WIKI_GTA_IMAGES)} imagens do GTA VI')
+    except:
+        WIKI_GTA_IMAGES = []
+    if not WIKI_GTA_IMAGES:
+        WIKI_GTA_IMAGES = [
+            'https://upload.wikimedia.org/wikipedia/en/4/4c/GTA_VI_cover.jpg',
+            'https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/GTA_VI_cover.jpg/640px-GTA_VI_cover.jpg',
+        ]
+    return WIKI_GTA_IMAGES
+
+img_fallback_index = 0
 
 def next_fallback():
-    global img_index
-    url = GTA_IMAGES[img_index % len(GTA_IMAGES)]
-    img_index += 1
+    global img_fallback_index
+    images = get_wiki_images()
+    url = images[img_fallback_index % len(images)]
+    img_fallback_index += 1
     return url
 
 def extract_img_from_html(html):
+    if not html:
+        return ''
+    match = re.search(r'<img[^>]+src=["\'](https?://[^"\']+\.(?:jpg|jpeg|png|webp)[^"\']*)["\']', html, re.I)
+    if match:
+        return match.group(1)
     match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html, re.I)
     if match:
         src = match.group(1)
         if src.startswith('//'):
             src = 'https:' + src
-        if src.startswith('http') and not src.startswith('https://placehold.co'):
+        if src.startswith('http') and 'placehold.co' not in src:
             return src
+    match = re.search(r'srcset=["\']([^"\']+)["\']', html, re.I)
+    if match:
+        parts = match.group(1).split(',')
+        for part in parts:
+            urls = re.findall(r'(https?://[^\s]+)', part)
+            if urls:
+                return urls[0]
     return ''
 
-def fetch_og_image_microlink(url):
+def fetch_og_image(url):
     try:
-        api_url = f'https://api.microlink.io/?url={urllib.parse.quote(url)}&video=false&audio=false'
-        resp = requests.get(api_url, timeout=8, headers={'User-Agent': 'Mozilla/5.0'})
+        api = f'https://api.microlink.io/?url={urllib.parse.quote(url)}&video=false&audio=false&screenshot=false'
+        resp = requests.get(api, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
         resp.raise_for_status()
         data = resp.json()
-        if data.get('status') == 'success' and data.get('data', {}).get('image', {}).get('url'):
-            img = data['data']['image']['url']
-            if not img.startswith('http'):
-                img = 'https://' + img.lstrip('//')
-            return img
+        if data.get('status') == 'success':
+            img = data.get('data', {}).get('image', {})
+            if img and img.get('url'):
+                return img['url']
     except:
         pass
-    return ''
-
-def fetch_og_image_direct(url):
     try:
         resp = requests.get(url, timeout=6, headers={
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         })
         resp.raise_for_status()
-        match = re.search(r'<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', resp.text, re.I)
-        if match:
-            return match.group(1)
-        match = re.search(r'<meta\s+content=["\']([^"\']+)["\']\s+property=["\']og:image["\']', resp.text, re.I)
-        if match:
-            return match.group(1)
+        text = resp.text
+        for pattern in [
+            r'<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']',
+            r'<meta\s+content=["\']([^"\']+)["\']\s+property=["\']og:image["\']',
+            r'<meta\s+name=["\']twitter:image["\']\s+content=["\']([^"\']+)["\']',
+            r'<meta\s+content=["\']([^"\']+)["\']\s+name=["\']twitter:image["\']',
+        ]:
+            match = re.search(pattern, text, re.I)
+            if match:
+                return match.group(1)
     except:
         pass
     return ''
@@ -144,7 +184,7 @@ def clean_source_name(url, source_tag):
 
 def fetch_rss(url):
     try:
-        resp = requests.get(url, timeout=15, headers={
+        resp = requests.get(url, timeout=20, headers={
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         })
         resp.raise_for_status()
@@ -194,9 +234,12 @@ def fetch_rss(url):
                 media = extract_img_from_html(raw_desc)
 
             if not media and link and link != '#':
-                media = fetch_og_image_microlink(link)
-                if not media:
-                    media = fetch_og_image_direct(link)
+                print(f'  Buscando imagem: {title[:40]}...')
+                media = fetch_og_image(link)
+                if media:
+                    print(f'    OK')
+                else:
+                    print(f'    Sem imagem OG')
 
             if not media:
                 media = next_fallback()
@@ -264,7 +307,10 @@ def deduplicate(items, key='link'):
     return unique
 
 def main():
-    print('Buscando notícias em Português (BR)...')
+    print('Buscando imagens do Wikipedia (GTA VI)...')
+    get_wiki_images()
+
+    print('\nBuscando notícias em Português (BR)...')
     all_news = []
     for feed in RSS_FEEDS:
         items = fetch_rss(feed)
