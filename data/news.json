@@ -1,30 +1,246 @@
 {
   "news": [
     {
-      "title": "🔥 Bem-vindo ao WK Games News!",
-      "link": "#",
-      "description": "Site automatizado com as últimas notícias sobre GTA 6 e o mundo gamer. As atualizações acontecem automaticamente todos os dias via GitHub Actions. Aguarde as primeiras notícias serem carregadas pelo robô.",
-      "date": "2026-07-09",
-      "source": "WK Games",
-      "image": "https://placehold.co/600x340/13131a/00ff88?text=GTA+6"
+      "title": "Does the PS Plus Boycott Threaten GTA 6 or Just Sony Subscriptions",
+      "link": "https://www.gtaboom.com/will-the-ps-plus-protest-actually-affect-gta-6-baf8",
+      "description": "",
+      "date": "Wed, 08 Jul 2026 23:26:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
     },
     {
-      "title": "🎮 GTA 6 - A ascensão",
-      "link": "#",
-      "description": "O jogo mais aguardado da década. Fique por dentro de todas as novidades, trailers, gameplays e teorias. Nosso robô busca informações automaticamente todos os dias.",
-      "date": "2026-07-09",
-      "source": "WK Games",
-      "image": "https://placehold.co/600x340/13131a/ff0066?text=GTA+VI"
-    }
-  ],
-  "videos": [
+      "title": "Grove Street Games CEO Admits GTA Trilogy Definitive Edition Failures",
+      "link": "https://www.gtaboom.com/gta-trilogy-studio-boss-finally-admits-to-remaster-failure-7dea",
+      "description": "",
+      "date": "Wed, 08 Jul 2026 22:23:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
     {
-      "title": "WK Games News - Canal Automático",
-      "link": "https://youtube.com/@wkgamesnews",
-      "thumbnail": "https://placehold.co/600x340/13131a/00ff88?text=WK+Games",
-      "channel": "WK Games News",
-      "date": "2026-07-09"
+      "title": "GTA Trilogy remaster boss understands fan anger but says 'a lot of people were playing them and really enjoying them'",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-trilogy-remaster-boss-understands-fan-anger-but-says-a-lot-of-people-were-playing-them-and-really-enjoying-them/",
+      "description": "The remasters were, you might say, busted.",
+      "date": "Wed, 08 Jul 2026 13:16:18 +0000",
+      "source": "www.pcgamer.com",
+      "image": "https://cdn.mos.cms.futurecdn.net/cVzUV3aBTPFKdcwDyzb7Ki-1280-80.jpg"
+    },
+    {
+      "title": "Dutch Lawsuit Claims Sony Disc Phase Out Could Raise GTA 6 Prices",
+      "link": "https://www.gtaboom.com/why-the-sony-disc-ban-could-mean-a-more-expensive-gta-6-b7ed",
+      "description": "",
+      "date": "Wed, 08 Jul 2026 03:17:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "GTA 6 Pre Orders Are Reportedly Crushing Every Sales Record Already",
+      "link": "https://www.gtaboom.com/gta-6-pre-orders-are-on-track-to-shatter-every-record-e016",
+      "description": "",
+      "date": "Wed, 01 Jul 2026 23:52:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "How Millie Bobby Brown Plays GTA Without Breaking Any Rules",
+      "link": "https://www.gtaboom.com/a-stranger-things-star-plays-gta-in-the-most-wholesome-way-possible-bc19",
+      "description": "",
+      "date": "Wed, 01 Jul 2026 23:15:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Sony Just Killed Any Hope for a Physical GTA 6 Disc For Good",
+      "link": "https://www.gtaboom.com/why-gta-6-going-digital-is-bigger-than-losing-a-disc-5ae1",
+      "description": "",
+      "date": "Wed, 01 Jul 2026 17:44:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Is FiveM Coming to GTA V Enhanced? Latest Update Details",
+      "link": "https://www.gtaboom.com/fivem-for-gta-v-enhanced-gets-huge-development-update-fb6f",
+      "description": "",
+      "date": "Wed, 01 Jul 2026 16:12:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "GTA 6 Ban Status Explained by Country and Region",
+      "link": "https://www.gtaboom.com/the-gta-6-ban-explained-where-it-is-actually-banned-and-where-it-just-looks-that-way-52f2",
+      "description": "",
+      "date": "Tue, 07 Jul 2026 23:02:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Report Says Sony Did Not Warn Partners on Disc Ban Amid GTA 6 Launch",
+      "link": "https://www.gtaboom.com/report-sony-blindsided-partners-on-the-controversial-disc-ban-6ca1",
+      "description": "",
+      "date": "Tue, 07 Jul 2026 20:55:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Sony Goes Silent on Disc Backlash While GTA 6 Buyers Foot the Bill",
+      "link": "https://www.gtaboom.com/sony-has-gone-silent-on-the-disc-backlash-and-gta-6-buyers-are-left-holding-the-box-a00e",
+      "description": "",
+      "date": "Tue, 07 Jul 2026 05:20:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Target Student Discount Drops GTA 6 Price to $60",
+      "link": "https://www.gtaboom.com/how-students-can-get-gta-6-cheap-at-target-6e4e",
+      "description": "",
+      "date": "Tue, 07 Jul 2026 04:42:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Why GTA 6 Costs $80 Even Though Fans and Shareholders Both Object",
+      "link": "https://www.gtaboom.com/the-gta-6-price-upset-everyone-and-that-is-the-point-9fd9",
+      "description": "",
+      "date": "Tue, 07 Jul 2026 02:48:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Brazilian Regulator Says Sony Must Respect Consumer Rights Amid GTA 6 Disc Fallout",
+      "link": "https://www.gtaboom.com/why-this-brazilian-ruling-on-sony-matters-for-gta-6-owners-6317",
+      "description": "",
+      "date": "Thu, 09 Jul 2026 03:22:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Obsession Star Inde Navarrette Talks GTA 6 Excitement",
+      "link": "https://www.gtaboom.com/obsession-star-inde-navarrette-is-geeking-out-over-gta-6-and-she-actually-means-it-cba9",
+      "description": "",
+      "date": "Thu, 09 Jul 2026 00:11:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "French Presidential Candidate Cites GTA 6 Disc Removal to Push Game Ownership Rights",
+      "link": "https://www.gtaboom.com/a-french-presidential-candidate-just-used-gta-6-to-make-a-point-about-owning-your-games-f1ed",
+      "description": "",
+      "date": "Thu, 02 Jul 2026 23:47:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "GTA 6 Michael De Santa Return Rumor Debunked, Ned Luke Explains",
+      "link": "https://www.gtaboom.com/no-ned-luke-did-not-confirm-michael-is-returning-in-gta-6-9788",
+      "description": "",
+      "date": "Thu, 02 Jul 2026 23:12:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "GTA Online Free Bunker and Discount List for the Independence Day Sale",
+      "link": "https://www.gtaboom.com/gta-online-independence-day-update-2026",
+      "description": "",
+      "date": "Thu, 02 Jul 2026 16:47:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "GTA 6 Fever Is So Real a Couple Made an Actual Contract for It",
+      "link": "https://www.gtaboom.com/the-internet-is-loving-this-gta-6-launch-week-contract-a45f",
+      "description": "",
+      "date": "Thu, 02 Jul 2026 08:58:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "When Is GTA 6 Trailer 3 Coming? Likely Dates Explained",
+      "link": "https://www.gtaboom.com/when-is-gta-6-trailer-3-coming-the-window-is-clearer-19a0",
+      "description": "",
+      "date": "Thu, 02 Jul 2026 08:12:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Why the GTA 6 Ultimate Edition Boycott Is Already Doomed to Fail",
+      "link": "https://www.gtaboom.com/the-gta-6-boycott-will-fail-and-rockstar-knows-it-3b62",
+      "description": "",
+      "date": "Sun, 05 Jul 2026 22:13:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Before 3 Months At Sea, This Redditor Pledged 20 Free GTA 6 Ultimate Copies",
+      "link": "https://www.gtaboom.com/this-sailor-is-promising-20-free-gta-6-ultimate-copies-5241",
+      "description": "",
+      "date": "Sun, 05 Jul 2026 19:59:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "How One Player Pre Ordered GTA 6 For Roughly $2 Using Best Buy Rewards",
+      "link": "https://www.gtaboom.com/how-this-gta-6-pre-order-only-cost-two-dollars-7f25",
+      "description": "",
+      "date": "Sun, 05 Jul 2026 05:55:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Why GitHub and Xbox Are Mocking Sony Over the Physical Disc Controversy",
+      "link": "https://www.gtaboom.com/github-just-joined-xbox-in-trolling-sony-over-physical-disc-decision-9735",
+      "description": "",
+      "date": "Sat, 04 Jul 2026 18:27:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Clair Obscur Director Guillaume Broche Says Hes Not Excited for GTA 6",
+      "link": "https://www.gtaboom.com/this-award-winning-video-game-director-thinks-gta-is-boring-4983",
+      "description": "",
+      "date": "Sat, 04 Jul 2026 16:20:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "What Xbox's Job Cuts and Crisis Mean for GTA 6 at Launch",
+      "link": "https://www.gtaboom.com/what-a-struggling-xbox-means-for-gta-6-at-launch-2316",
+      "description": "",
+      "date": "Mon, 06 Jul 2026 23:31:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "ESA Calling Community Servers Illegal Matters for GTA Online Players",
+      "link": "https://www.gtaboom.com/why-esa-calling-community-servers-illegal-should-worry-gta-online-players-b6e1",
+      "description": "",
+      "date": "Mon, 06 Jul 2026 04:48:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Sony's Physical Disc Ban Announcement Views Surpass GTA 6 Trailer Views",
+      "link": "https://www.gtaboom.com/sony-disc-ban-backlash-dwarfs-gta-6-hype-6795",
+      "description": "",
+      "date": "Mon, 06 Jul 2026 03:29:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Sony Ends GTA 6 PlayStation App Branding After One Week",
+      "link": "https://www.gtaboom.com/sony-has-already-ended-its-gta-6-playstation-takeover-3e6c",
+      "description": "",
+      "date": "Fri, 03 Jul 2026 23:45:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
+    },
+    {
+      "title": "Xbox Takes Aim at Sony Over the GTA 6 Disc Fallout",
+      "link": "https://www.gtaboom.com/xbox-takes-aim-at-sony-over-the-gta-6-disc-fallout-922b",
+      "description": "",
+      "date": "Fri, 03 Jul 2026 22:48:00 GMT",
+      "source": "www.gtaboom.com",
+      "image": ""
     }
   ],
-  "updated_at": "2026-07-09T03:00:00Z"
+  "videos": [],
+  "updated_at": "2026-07-09T06:48:12.175090+00:00"
 }
