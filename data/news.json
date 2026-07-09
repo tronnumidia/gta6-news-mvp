@@ -1,0 +1,30 @@
+{
+  "news": [
+    {
+      "title": "🔥 Bem-vindo ao WK Games News!",
+      "link": "#",
+      "description": "Site automatizado com as últimas notícias sobre GTA 6 e o mundo gamer. As atualizações acontecem automaticamente todos os dias via GitHub Actions. Aguarde as primeiras notícias serem carregadas pelo robô.",
+      "date": "2026-07-09",
+      "source": "WK Games",
+      "image": "https://placehold.co/600x340/13131a/00ff88?text=GTA+6"
+    },
+    {
+      "title": "🎮 GTA 6 - A ascensão",
+      "link": "#",
+      "description": "O jogo mais aguardado da década. Fique por dentro de todas as novidades, trailers, gameplays e teorias. Nosso robô busca informações automaticamente todos os dias.",
+      "date": "2026-07-09",
+      "source": "WK Games",
+      "image": "https://placehold.co/600x340/13131a/ff0066?text=GTA+VI"
+    }
+  ],
+  "videos": [
+    {
+      "title": "WK Games News - Canal Automático",
+      "link": "https://youtube.com/@wkgamesnews",
+      "thumbnail": "https://placehold.co/600x340/13131a/00ff88?text=WK+Games",
+      "channel": "WK Games News",
+      "date": "2026-07-09"
+    }
+  ],
+  "updated_at": "2026-07-09T03:00:00Z"
+}

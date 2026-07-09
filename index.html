@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WK Games News - GTA 6 & Mundo Geek</title>
+    <link rel="stylesheet" href="assets/style.css" />
+    <meta name="description" content="Todas as notícias sobre GTA 6, lançamento, ascensão e o mundo gamer atualizado automaticamente todos os dias." />
+    <meta name="keywords" content="GTA 6, GTA VI, Grand Theft Auto, games, notícias, gaming, geek" />
+</head>
+<body>
+    <div class="bg-animated"></div>
+
+    <header>
+        <div class="container header-content">
+            <div class="logo">
+                <h1>WK <span>GAMES NEWS</span></h1>
+                <p class="subtitle">GTA 6 • Mundo Geek • Automático</p>
+            </div>
+            <nav>
+                <a href="#noticias" class="active">Notícias</a>
+                <a href="#videos">Vídeos</a>
+                <a href="#sobre">Sobre</a>
+            </nav>
+            <div class="update-badge">
+                <span class="dot"></span>
+                <span id="updateCounter">Atualizado hoje</span>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h2>GTA 6: <span id="countdown-title">Tudo sobre o lançamento</span></h2>
+            <div class="countdown" id="countdown">
+                <div class="count-item"><span id="days">00</span><small>Dias</small></div>
+                <div class="count-item"><span id="hours">00</span><small>Horas</small></div>
+                <div class="count-item"><span id="minutes">00</span><small>Min</small></div>
+                <div class="count-item"><span id="seconds">00</span><small>Seg</small></div>
+            </div>
+        </div>
+    </section>
+
+    <main class="container">
+        <section id="noticias">
+            <div class="section-header">
+                <h2>Últimas Notícias</h2>
+                <span class="badge">Atualizado automaticamente</span>
+            </div>
+            <div class="news-grid" id="newsGrid">
+                <div class="loading">Carregando notícias...</div>
+            </div>
+        </section>
+
+        <section id="videos">
+            <div class="section-header">
+                <h2>Vídeos em Destaque</h2>
+                <span class="badge">YouTube</span>
+            </div>
+            <div class="video-grid" id="videoGrid">
+                <div class="loading">Carregando vídeos...</div>
+            </div>
+        </section>
+
+        <section id="sobre">
+            <div class="card sobre-card">
+                <h2>Sobre o Projeto</h2>
+                <p>Site automatizado que reúne as principais notícias sobre <strong>GTA 6</strong> e o mundo geek/gamer. As atualizações ocorrem automaticamente todos os dias via GitHub Actions.</p>
+                <p>Fonte: RSS feeds, YouTube Data API e scraping inteligente.</p>
+                <p class="tech-stack">Feito com ❤️ usando GitHub Pages + Python + GitHub Actions</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="year"></span> WK GAMES NEWS. Atualização automática diária.</p>
+        </div>
+    </footer>
+
+    <script src="assets/main.js"></script>
+</body>
+</html>
