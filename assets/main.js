@@ -23,26 +23,18 @@ updateCountdown();
 setInterval(updateCountdown, 1000);
 
 function fallbackImg(img) {
+    if (img.src && img.src.includes('placehold.co')) return;
     const colors = [
-        ['#1a0030', '#ff007f', 'GTA VI'],
-        ['#0a0015', '#00f0ff', 'GTA 6'],
-        ['#1a0030', '#a855f7', 'GAME'],
-        ['#0a0015', '#facc15', 'GTA VI'],
-        ['#1a0030', '#ff6b00', 'GTA 6'],
+        ['15152a', 'a855f7', 'GTA VI'],
+        ['15152a', 'ff007f', 'GTA 6'],
+        ['15152a', '00f0ff', 'GAME'],
     ];
     const idx = Math.floor(Math.random() * colors.length);
     const [bg, fg, label] = colors[idx];
     img.src = 'data:image/svg+xml,' + encodeURIComponent(
         `<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340">
-            <defs>
-                <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" style="stop-color:${bg};stop-opacity:1"/>
-                    <stop offset="100%" style="stop-color:#0a0015;stop-opacity:1"/>
-                </linearGradient>
-            </defs>
-            <rect fill="url(#g)" width="600" height="340"/>
-            <text fill="${fg}" x="300" y="160" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="36" font-weight="bold" opacity="0.9">${label}</text>
-            <text fill="#8a7aa0" x="300" y="200" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="14" opacity="0.5">WK GAMES NEWS</text>
+            <rect fill="#${bg}" width="600" height="340"/>
+            <text fill="#${fg}" x="300" y="170" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="28" font-weight="bold">${label}</text>
         </svg>`
     );
 }
@@ -52,43 +44,45 @@ async function loadData() {
     const videoGrid = document.getElementById('videoGrid');
     try {
         const res = await fetch('data/news.json?' + Date.now());
-        if (!res.ok) throw new Error('Sem dados');
+        if (!res.ok) throw new Error();
         const data = await res.json();
 
         if (data.news && data.news.length) {
             newsGrid.innerHTML = data.news.map(item => `
                 <article class="news-card">
-                    <img class="news-img" src="${item.image || ''}" alt="${item.title}" loading="lazy" onerror="fallbackImg(this)">
+                    <img class="news-img" src="${item.image || ''}" alt="" loading="lazy" onerror="fallbackImg(this)">
                     <div class="news-body">
-                        <div class="news-source">${item.source || 'WK Games'}</div>
+                        <div class="news-source">${item.source || 'WK'}</div>
                         <h3 class="news-title">${item.title}</h3>
                         <p class="news-desc">${item.description || ''}</p>
-                        <div class="news-date">${item.date || ''}</div>
-                        <a class="news-link" href="${item.link}" target="_blank" rel="noopener">Ler mais →</a>
+                        <div class="news-meta">
+                            <span class="news-date">${item.date || ''}</span>
+                            <a class="news-link" href="${item.link}" target="_blank" rel="noopener">Ler →</a>
+                        </div>
                     </div>
                 </article>
             `).join('');
         } else {
-            newsGrid.innerHTML = '<div class="loading">Aguardando primeira atualização do robô...</div>';
+            newsGrid.innerHTML = '<div class="loading">Aguardando primeira atualização...</div>';
         }
 
         if (data.videos && data.videos.length) {
             videoGrid.innerHTML = data.videos.map(v => `
                 <a class="video-card" href="${v.link}" target="_blank" rel="noopener">
-                    <img class="video-thumb" src="${v.thumbnail || ''}" alt="${v.title}" loading="lazy" onerror="this.src='data:image/svg+xml,'+encodeURIComponent('<svg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'600\\' height=\\'340\\'><rect fill=\\'#0f0020\\' width=\\'600\\' height=\\'340\\'/><text fill=\\'#ff007f\\' x=\\'300\\' y=\\'170\\' text-anchor=\\'middle\\' dominant-baseline=\\'middle\\' font-family=\\'monospace\\' font-size=\\'22\\' font-weight=\\'bold\\'>WK Video</text></svg>')">
+                    <img class="video-thumb" src="${v.thumbnail || ''}" alt="" loading="lazy" onerror="this.src='data:image/svg+xml,'+encodeURIComponent('<svg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'600\\' height=\\'340\\'><rect fill=\\'#15152a\\' width=\\'600\\' height=\\'340\\'/><text fill=\\'#ff007f\\' x=\\'300\\' y=\\'170\\' text-anchor=\\'middle\\' dominant-baseline=\\'middle\\' font-family=\\'sans-serif\\' font-size=\\'22\\' font-weight=\\'bold\\'>WK</text></svg>')">
                     <div class="video-body">
-                        <div class="video-channel">${v.channel || 'YouTube'}</div>
-                        <h3 class="video-title">${v.title}</h3>
-                        <div class="news-date">${v.date || ''}</div>
+                        <div class="video-channel">${v.channel || ''}</div>
+                        <div class="video-title">${v.title}</div>
+                        <div class="video-date">${v.date || ''}</div>
                     </div>
                 </a>
             `).join('');
         } else {
-            videoGrid.innerHTML = '<div class="loading">Buscando vídeos dos canais...</div>';
+            videoGrid.innerHTML = '<div class="loading">Buscando vídeos...</div>';
         }
     } catch {
-        newsGrid.innerHTML = '<div class="loading">Aguardando notícias em português...</div>';
-        videoGrid.innerHTML = '<div class="loading">Buscando vídeos...</div>';
+        newsGrid.innerHTML = '<div class="loading">Carregando notícias...</div>';
+        videoGrid.innerHTML = '<div class="loading">Carregando vídeos...</div>';
     }
 }
 
