@@ -1,11 +1,43 @@
 {
   "news": [
     {
+      "title": "Marvel’s Wolverine: conheça Lady Letal, nova vilã do jogo",
+      "link": "https://meups.com.br/noticias/marvels-wolverine-quem-e-lady-letal/",
+      "description": "O novo trailer de Marvel's Wolverine, revelado pela PlayStation nesta quinta-feira (16), confirmou a presença da Lady Letal no jogo!",
+      "date": "2026-07-17",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/07/Captura-de-Tela-2026-07-17-as-00.02.19-1920x1070.png"
+    },
+    {
+      "title": "Microsoft encerrará suporte ao OneDrive em versões antigas do Windows 10",
+      "link": "https://www.adrenaline.com.br/microsoft/windows/microsoft-encerrara-suporte-ao-onedrive-em-versoes-antigas-do-windows-10/",
+      "description": "OneDrive perderá suporte para Windows 10 22H1 em 15 de agosto. Atualize para o 22H2 e mantenha a sincronização de arquivos",
+      "date": "2026-07-17",
+      "source": "Adrenaline • Xbox",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/microsoft-encerrara-suporte-ao-onedrive-em-versoes-antigas-do-windows-10-cover-640x400.jpg"
+    },
+    {
+      "title": "GTA 6 pode faturar US$ 5,2 bilhões na estreia - einerd.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1YjQwZzlLdzJFeElxc2VOYkhXNzVjOTVmeTZnR0hzbFpjS1ZwRm5wZUZpaFFXVW9WTTg1NUd2RFZnT2FSZVRYRXc3RDRkNHpWU3RNdU9IWFE3Z3NVbzNsbXBxY1M2ZzVjbTRCRW40MTEtdw?oc=5",
+      "description": "GTA 6 pode faturar US$ 5,2 bilhões na estreia&nbsp;&nbsp;einerd.com",
+      "date": "2026-07-16",
+      "source": "einerd.com • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "GTA Online: Rockstar libera acesso sem assinatura no PlayStation e XBOX por tempo limitado - TudoCelular.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTA1U21saGhXT29KS29IU241TzdpNXYxQm5kZngyeDM1RndwcldWUTFjbXVoakVPeUl4SEVqVkxQTFA2cGxQNmpfNGFQRU1fV01JYnRrWHN1UzJzYmZJbDNWZHVSR2dkN0VmbVZCMmFqZ2pSSy11N0hUUDk4eExFcU5RZW94MkFqX2txeXNtWlp4UFZxSGZtM0JjbmswQ2d4TE1V?oc=5",
       "description": "GTA Online: Rockstar libera acesso sem assinatura no PlayStation e XBOX por tempo limitado&nbsp;&nbsp;TudoCelular.com",
       "date": "2026-07-16",
       "source": "TudoCelular • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "\"Não tenho medo de GTA VI\", diz chefe da Infinity Ward sobre COD: Modern Warfare 4 - vzone.gg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0ZjRDc4aUZzeXpFUjU4elZhMklxaTA2VzFwOTVfdTNQd1ZnSWVTckdXQnppUE1WUldMWjlreG15UXRvUlJiMk9wVF9rVkRESU1NRXpJbFlacmJmMW5fd3lDYVpCWW1Ub2xxZTZ0Q2hZWEtIU2lOYUVLY1FZOURMN2toVGlGSXAzdGtXRGlEYktkNS1JWUYzNU5rNTd0c0EwWDhoVHFqQQ?oc=5",
+      "description": "\"Não tenho medo de GTA VI\", diz chefe da Infinity Ward sobre COD: Modern Warfare 4&nbsp;&nbsp;vzone.gg",
+      "date": "2026-07-16",
+      "source": "vzone.gg • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -17,9 +49,25 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "8 jogos de PS5 que podem fazer 2026 valer a pena - Legião dos Heróis",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDZydVZWeThNWGhuLURmVTFDUWJIVDRndnBEUGQzSm02OGZVWGJ5c1VIbUNZRFoybmxwY2dUbWhEZEJob0ZPb1FwY2NBRzdmUGRLMXRyVmliTFVOV1BrZ0dNQzg1d25KM2dIWGZKaGl6V1R0bDkxZ0ZJYW0ybFVIVk9qcWJLMmhuTWVrNXdIQlpDNE9xa1lkcVZ3?oc=5",
+      "description": "8 jogos de PS5 que podem fazer 2026 valer a pena&nbsp;&nbsp;Legião dos Heróis",
+      "date": "2026-07-16",
+      "source": "Legião dos Heróis • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Diretor de Call of Duty: Modern Warfare 4 não tem medo de concorrer com GTA 6 - Eurogamer.pt",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFdBYnhRWmN5WnNfMzRnMUp0c2pMakRZVDZDbkdJT2NqbHlrMlRzMnk4M2Y3RGxiZGVqX2psbHJyXzBVbHhIXzVESG5fNjVGbVVjdnhabTEzZkM4YnRvYU4td3MwUE92RjRBSkxGV1Y5amIwRzdabHRFOXJPWjdVOG9kU1N4T0l1NGt5QmdYVmZfNWJ3X3dWVm9kcUVhSG9VQjYw?oc=5",
       "description": "Diretor de Call of Duty: Modern Warfare 4 não tem medo de concorrer com GTA 6&nbsp;&nbsp;Eurogamer.pt",
+      "date": "2026-07-16",
+      "source": "Eurogamer.pt • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 pode render 5,2 mil milhões de dólares numa semana - Eurogamer.pt",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVZ0czVUcnlJWGljZVg4S1pxWGZjeE9ONHl2aFY5NVpOT2ZMa0l1ZjJnakZKbDhJbVRiYVloVmxvQmVncDZGMXZCY1ZkX3Y1d0dNTC00NkpvSjVRSTBUbzBGbWpjZUlNR1hkSWcyeE9MbExWVmxHTjNWSnlwUHE1aEFYMlVGNE0?oc=5",
+      "description": "GTA 6 pode render 5,2 mil milhões de dólares numa semana&nbsp;&nbsp;Eurogamer.pt",
       "date": "2026-07-16",
       "source": "Eurogamer.pt • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -33,35 +81,35 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GTA 6 pode render 5,2 mil milhões de dólares numa semana - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVZ0czVUcnlJWGljZVg4S1pxWGZjeE9ONHl2aFY5NVpOT2ZMa0l1ZjJnakZKbDhJbVRiYVloVmxvQmVncDZGMXZCY1ZkX3Y1d0dNTC00NkpvSjVRSTBUbzBGbWpjZUlNR1hkSWcyeE9MbExWVmxHTjNWSnlwUHE1aEFYMlVGNE0?oc=5",
-      "description": "GTA 6 pode render 5,2 mil milhões de dólares numa semana&nbsp;&nbsp;Eurogamer.pt",
+      "title": "GameStop minimiza fim dos discos físicos no PlayStation; saiba o motivo - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3dHhvdXFIeTNQSHlZWGtJV19YZWMyUlFoSFYxY0JIamhsN1N0SEJZYWZfQmlCZUpLd3hRSjlEOVdxdjNBaHR3X2FUak9Ld21SSHM2bnhoSlptS2RiOS1KZU1fTVpkYm9QaEJKMGZWMklaUjA?oc=5",
+      "description": "GameStop minimiza fim dos discos físicos no PlayStation; saiba o motivo&nbsp;&nbsp;Última Ficha",
       "date": "2026-07-16",
-      "source": "Eurogamer.pt • GTA 6",
+      "source": "Última Ficha • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "De GTA 6 a Marvel's Wolverine: grandes lançamentos com 15% de desconto na Worten - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGtQTlBaX01xSEdHWW1leG9NYlVTREE0eWdZSl9aTDVJZzhYSGpSSGxwNEJ1QjN0YVRPMTluRGJnOHVjQk9HajJINXRsRWxQbVlYVWtQTkprbDRmemhFXzk2NlA5YkFjb0JfUER3MFJvR2JkOXV6cnJVSzlzREV0NEptQ2VzSEhkMHI4bVRrVENGX2FZd2ZBeVdPTml1QzduSzdScg?oc=5",
-      "description": "De GTA 6 a Marvel's Wolverine: grandes lançamentos com 15% de desconto na Worten&nbsp;&nbsp;Eurogamer.pt",
+      "title": "GTA 6 tem a maior pré-venda já registrada, diz análise - Omelete",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVFN5X01INlFVajVZRjM1VEVycWY3Q1BPN3I3azdrNUdMYVI1blA4NUZ4YWVOUEhzV2kxSzVWQkZnOEo2aE5rLUZSclVGVzVGM3RUcVRlRU82NkN3Zk5WZDlHNzlHa3RhaXMwM1FDalM?oc=5",
+      "description": "GTA 6 tem a maior pré-venda já registrada, diz análise&nbsp;&nbsp;Omelete",
       "date": "2026-07-16",
-      "source": "Eurogamer.pt • GTA 6",
+      "source": "Omelete • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "GTA VI pode superar soma de GTA V, RDR2, COD MW3 e Cyberpunk 2077 - DOL",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb09ybUJiNlJYUGxtbWFaQWJNOWZTQ2hGUWVDamhrZnVFSThJb2Z2VW5leENGdk9JRlBYTzRKWWxzaWg0bzEzLVJ3cDBsdW9ZOHVVYWNQMGR6Y3pPQTdCWWNNUHJoNTAyeVc2VkFTTVk4M1U2Y0RLWFl3Y1JXYVMtRXZDY19oR3dyN3M1b0dvY2NTc1EwejZCS3VoVm10Z2pQaG1mUFJ1dzF0LXJDYktR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb09ybUJiNlJYUGxtbWFaQWJNOWZTQ2hGUWVDamhrZnVFSThJb2Z2VW5leENGdk9JRlBYTzRKWWxzaWg0bzEzLVJ3cDBsdW9ZOHVVYWNQMGR6Y3pPQTdCWWNNUHJoNTAyeVc2VkFTTVk4M1U2Y0RLWFl3Y1JXYVMtRXZDY19oR3dyN3M1b0dvY2NTc1EwejZCS3VoVm10Z2pQaG1mUFJ1dzF0LXJDYktR0gG3AUFVX3lxTE8tTnlCdUY3ZDgycWx2T1lQWEZrZEprWHFBZ3A0U3FVNmZqS0pKMlNpUHVxZjRSVFFLQ3lxd1dqYzZuaDdhRDlfdEMtc3F2YUFsdGFtM29EcXNucFBVanFPSVUtQkVFZFhzS0VKUTg0NjR1Ymg0NjJVYkZrNWtxRUhFbS14QV9jZElCYW9lQ2d0R1hUczFFN0tmNzNjazRFcjZTaW1VUWRwQWtiTFYzUmJVSmhOdEs5cw?oc=5",
       "description": "GTA VI pode superar soma de GTA V, RDR2, COD MW3 e Cyberpunk 2077&nbsp;&nbsp;DOL",
       "date": "2026-07-16",
       "source": "DOL • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Silêncio da Rockstar irrita fãs sobre o lançamento de GTA 6 - Canaltech",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzR0RmlfTU9tR2RTNG5CTjEtYjkwb0dfd1hzN0ZTX0VHYzZDVnB1SFFhSWYwV3RpNWZyV3EySlNFS1V2MjduTGZxWHlhTTBzajhpRGFwd2NEbFphMXVGb0Y3YTRIS0N3cGlkQ1Y3OVd4ZU1tSlNFSUE3Q1lITi1RTk9GS2g0c2h5X1hkTTQxTmpVTE5RR0E?oc=5",
-      "description": "Silêncio da Rockstar irrita fãs sobre o lançamento de GTA 6&nbsp;&nbsp;Canaltech",
+      "title": "A campanha de marketing do GTA 6 para PS5 pode estar em risco, já que mais desenvolvedores reclamam da reação negativa d",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTVYyS1VPY1Bya1lySml4bW9IQXhJaF9WdW5OSnBtMHBFRlI1SVhSaWRFYWprcTRPbGRfdGhyNlVxc1Ztd0FBbE92d3FYMklPZE5ZZGdERHVkbzVKUmNULUJNWmhCeHBtOVNSOExKZTF1eUdGVVhMLXFHTTlaLWdGZS1KR3JGd2cyQ0RFZWszS21pdjJuejNFMkVuWnJQRVQ2cnJ4dXpOYnpHVWlBWmVMc1otZDJwQnZ5alZfUXg0d1RoTUZOU00tajNsZk5KZDdSYjlTZ2c1TkNrb25Bc3dtamV3bVVPWTVKMmRpdzFEZEk1S3JMSjdyc2lvcVJFd2xmVjZuZ2FaMUVqZw?oc=5",
+      "description": "A campanha de marketing do GTA 6 para PS5 pode estar em risco, já que mais desenvolvedores reclamam da reação negativa da PlayStation&nbsp;&nbsp;Notebookcheck.info",
       "date": "2026-07-16",
-      "source": "Canaltech • GTA 6",
+      "source": "Notebook Check • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -73,6 +121,30 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "GTA VI fará quase US$ 5 bilhões em receita no lançamento, aponta estimativa - O Vício",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHJiZDFIY1phN0JueE5aWTF2RFRpOTVMZVlTMmtoc3U1WDVHM0xHcTdiOUJNWnRmeE5XdEJtZUtsMGIyN1VBLWdtS1BuemVCSkVIeWR1OFIxdnRrXzFnemxoQ1ZNemVHd1B3NnI3Q0FuWUpJOTdkT3MwSWYtVUZDSzdHN0M2UkJ1aEh0aEFlYUJHOVdhbUwwcVlFajHSAaIBQVVfeXFMUHF2WjZ2aFlhcXAxZnRVUnp5amxRT1JlOHlFVk9IbWNpNXhKdzVqZG5MT2p3Nk15RDZzWXdSQ0htaTRVTnppVWhUSmNQQ3pNQklIX0xRTTdVZ2xrX1lDUVhTSTRJZGhialZKWEVsR2dwbVFhVU0zMEZkLXdfeGxOZk9CTUdtaVRKV3NzWmIxc3lVYVhtYzBjUmRtc01CRnRBSmZR?oc=5",
+      "description": "GTA VI fará quase US$ 5 bilhões em receita no lançamento, aponta estimativa&nbsp;&nbsp;O Vício",
+      "date": "2026-07-16",
+      "source": "O Vício • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Silêncio da Rockstar irrita fãs sobre o lançamento de GTA 6 - Canaltech",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzR0RmlfTU9tR2RTNG5CTjEtYjkwb0dfd1hzN0ZTX0VHYzZDVnB1SFFhSWYwV3RpNWZyV3EySlNFS1V2MjduTGZxWHlhTTBzajhpRGFwd2NEbFphMXVGb0Y3YTRIS0N3cGlkQ1Y3OVd4ZU1tSlNFSUE3Q1lITi1RTk9GS2g0c2h5X1hkTTQxTmpVTE5RR0E?oc=5",
+      "description": "Silêncio da Rockstar irrita fãs sobre o lançamento de GTA 6&nbsp;&nbsp;Canaltech",
+      "date": "2026-07-16",
+      "source": "Canaltech • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Estimativas absurdas para a primeira semana do GTA 6 apontam para um volume quase quatro vezes maior do que o do GTA 5 -",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS1VVTVRvUFYyNHVfcjBRaHlxSGJhakx4LUZseDJnNmdqbGZSVWNTR2RaNVFCVFlKemVQMVUteUZzV2duazd1Rl9qUWU0WTJwZ3d1anczYWlTdlRzX1F4WUIxdTc4Nl9zRWhyNVFERzhqRHdNMHpGT0JvZm1pSnlGaW1ZQ3I2SXBhZXJDdFQ0NlVqSU5yRW5GTTE0N2NBZHdCc2lZNXlMSjhvM204RXNKd3ZhNm9HVDhKMTAyQlBYY05lZjhSZEktRC1GUVBBSmlBa2ZmcEtRNGxvczFNaC01QjhWRjBzWkozQ0FzOHk2UFhkSjRnSEFn?oc=5",
+      "description": "Estimativas absurdas para a primeira semana do GTA 6 apontam para um volume quase quatro vezes maior do que o do GTA 5&nbsp;&nbsp;Notebookcheck.info",
+      "date": "2026-07-16",
+      "source": "Notebook Check • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Chefe da Infinity Ward diz que \"não tem medo de GTA 6\" em confronto com Modern Warfare 4 - Insider Gaming",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGpJTnducTRHRlU5bFpnbGxvUnFabHlFbm1BbldVR01XejRlZTdydU9CYW5tXzAxNXRyYk1POEdNRE0xQnFQeDZvZVhzdmVUUXFIYW1TNGp0SjlhMVdCZ29jUWZiaVJqWnB1YmNLTUlOME9SanRfYks4VXVKZFoxSERXcmFJb0ZScnNVcmJEdE5XNVBRUGQxSFJ3cjJ6eE94bHhENGFKRGx1bk1Rb2ZFem4yRTRHUUJB?oc=5",
       "description": "Chefe da Infinity Ward diz que \"não tem medo de GTA 6\" em confronto com Modern Warfare 4&nbsp;&nbsp;Insider Gaming",
@@ -81,11 +153,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GTA 6 pode gerar U$5 bilhões na semana de lançamento com base em números da pré-venda - Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqbGdRY2I3cV9NcUV6X0NYRGp1WmxSNjgxNDZkYUg0U0pDYjA3a3hYYXRsU05rd21CT0E0cUlONmFhS0J0Y0dWRl9OTFNPbnE0WHMwckphaDlVdkI2dm9neUJUNkZMd1Iwam82NlNwSXozWnIx?oc=5",
-      "description": "GTA 6 pode gerar U$5 bilhões na semana de lançamento com base em números da pré-venda&nbsp;&nbsp;Insider Gaming",
+      "title": "Chefe de Modern Warfare 4 rebate medo do 'buraco negro' de GTA 6: 'é saudável para a indústria' - Hardware.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHAyMWx0ZVp6UXBQWHlSMnBFTmQyYmhQdDZyRjZXVTRucXlTb1FSUFBNMFRIYmd4Wnc5MS1yMG9yRDZmTU1xSk1hVU9pLVhaSEpGNUpnc1ZoR2djczhtR0xKWVp1a3Q2dFR4aHE3eWNRa2dOTWVQWUllMkpLVVQtOFpMVjjSAYoBQVVfeXFMUHpNWjVGMUlrMGd2cVlWOHNTaXVVc0QwcG5Hc3dRR0hBcGdsNlYyRWQzUTVsZjA5Yk8tSzFsN3pQRDE1QjdHWHFrMkJMN0ZUNVExY2dBNWVqUDQ0NTFULVlRSkUydDNHY1FvWDZrNE1aS2Q1UkJpblZiaVU0ajZWV2swUkx4c0lUc253?oc=5",
+      "description": "Chefe de Modern Warfare 4 rebate medo do 'buraco negro' de GTA 6: 'é saudável para a indústria'&nbsp;&nbsp;Hardware.com.br",
       "date": "2026-07-16",
-      "source": "Insider Gaming • GTA 6",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -97,20 +169,52 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Como nomear sua Organization no GTA Online - games.gg",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wTXhHbDlTY1IycENEcUwzdXpRdzdNazdobE1iSTZWOVRKcVNRSllhVnJvZEd6ZXNaMDhPZlNXd2FXc1VaQ1U5eG8yYVl5emZGNWhLTkYwTGxZb28wQzA0Ql9VSzBBLWVNT0g2R0x3SzFIZlVjTU1HeFdIVQ?oc=5",
-      "description": "Como nomear sua Organization no GTA Online&nbsp;&nbsp;games.gg",
+      "title": "GTA 6 pode gerar U$5 bilhões na semana de lançamento com base em números da pré-venda - Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqbGdRY2I3cV9NcUV6X0NYRGp1WmxSNjgxNDZkYUg0U0pDYjA3a3hYYXRsU05rd21CT0E0cUlONmFhS0J0Y0dWRl9OTFNPbnE0WHMwckphaDlVdkI2dm9neUJUNkZMd1Iwam82NlNwSXozWnIx?oc=5",
+      "description": "GTA 6 pode gerar U$5 bilhões na semana de lançamento com base em números da pré-venda&nbsp;&nbsp;Insider Gaming",
       "date": "2026-07-16",
-      "source": "games.gg • GTA 6",
+      "source": "Insider Gaming • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Volcano Princess será lançado em 30 de julho para PS5; demo disponível - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNHE3NG1Hdk9oaV9McTRPMWNGN2lpZU1EbGl6UWlmWFQ1aGN2bWZiRlhDNjBRWlBWZGZuZHl0RVhTNE5SZ09CYWVpdjJaV1ZuWm1fZ2ZEMkw0YTVfRHNXMXoyTG5hYjMzZUJ4QzdTbS1rRGZJR0pZeW9wWm0xTFBXeDJPNk41ZkJTR1RkT0RIcFNIcW5sOFN2b3VGRQ?oc=5",
-      "description": "Volcano Princess será lançado em 30 de julho para PS5; demo disponível&nbsp;&nbsp;PSX Brasil",
+      "title": "Goblin Cleanup será lançado em 2027 para PS5 - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03RDBnV3YxYnNoWVZKQUp0ZVRPUGg3NlZScEVvU0RXX0o4bGoyX3ItamdhSmJ0d1MzUUdoR24tUi0zckVrakRKWW5ZYWc2WG9LRVlocjRvTnJUSC02WGg3UGN2WHBIRDBpRjVMRnJzZHRKeS02Xy03azlR?oc=5",
+      "description": "Goblin Cleanup será lançado em 2027 para PS5&nbsp;&nbsp;PSX Brasil",
       "date": "2026-07-16",
       "source": "IGN BR • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "PlayStation inclui Avatar e Rise of the Ronin no catálogo da PS Plus - Tecnoblog",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEZPWVlOSmdGTmo4Q0M5cXVBMXJad0I0MGJhbjlGUkQ0WDRoTURpTEp4dXJuaWhOVDZBRVFuOHUwTndXOE5RbUJNUjhuMmxqclh3UUdyZUZNOXgyZGgza0lOX1hZWWh2YllReHY5LS1pbHV6Z0d4cERQY0ZiRFc4VHhXbU93NkFPS1dlcHQ1RjFVWWtYZGkyckttSEpwSnd1ZlE?oc=5",
+      "description": "PlayStation inclui Avatar e Rise of the Ronin no catálogo da PS Plus&nbsp;&nbsp;Tecnoblog",
+      "date": "2026-07-16",
+      "source": "Tecnoblog • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Prinny Party: Going Overboard! é anunciado para PS5 - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWpEbWhnSUZqOXQxSTh5cXRCdFpucFhEUk83OXNucDRrOXJTOG8xYmpqampGOEVXRERhdl9qME9SdDFkYUJveHN4eHZKQWVidW5xcVFLbDhzTWNna0FaSDN1LXh5TmxkVWJmbjl0VjBHb0VBbTFrb2NLWEdIenlWXw?oc=5",
+      "description": "Prinny Party: Going Overboard! é anunciado para PS5&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-07-16",
+      "source": "IGN BR • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Xbox Series X Galaxy Black de 2 TB vale o preço no Brasil? - A Revista",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0R4UWtXTHBmQ1J6TVk1YkkyRkdkR2FkdktSSy0zcVJxRmZwQk5HWGhyQ3hlczN3RGtyNVhNZXFaemRvcW5ibDU1TXlvVlhZTEpsV3FVcGJpOWNVYXVhQjJyUGg3REhxVXhZRndsWW1FZk1mS3RoX1ZOVk1mQmwyYW01NUtvc0MxRzNpanEzdkFsUGxMdEE?oc=5",
+      "description": "Xbox Series X Galaxy Black de 2 TB vale o preço no Brasil?&nbsp;&nbsp;A Revista",
+      "date": "2026-07-16",
+      "source": "A Revista • Xbox",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Marvel Tokon: Fighting Souls terá beta aberto no fim de julho",
+      "link": "https://meups.com.br/noticias/marvel-tokon-fighting-souls-beta-julho/",
+      "description": "Não haverá necessidade de ter assinatura PS Plus para participar do beta",
+      "date": "2026-07-16",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/07/Marvel-Tokon-2.jpg"
     },
     {
       "title": "Mortal Shell II: edição física de PS5 esgota antes do lançamento",
@@ -153,44 +257,12 @@
       "image": "https://meups.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.17.jpeg"
     },
     {
-      "title": "Sony pode estar produzindo animação de Horizon: Zero Dawn",
-      "link": "https://meups.com.br/noticias/serie-animada-de-horizon-zero-dawn/",
-      "description": "A franquia Horizon pode ganhar mais uma adaptação além do cinema, de acordo com o insider V Scooper.",
+      "title": "Jogos de Xbox em oferta no Grande Saldão; até 95% de desconto",
+      "link": "https://www.adrenaline.com.br/games/xbox/jogos-de-xbox-em-oferta-no-grande-saldao-ate-95-de-desconto/",
+      "description": "Os interessados já podem aproveitar as ofertas na loja do Xbox por tempo limitado e adquirir os jogos da lista de desejos",
       "date": "2026-07-16",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2025/10/Filme-de-Horizon-Zero-Dawn.jpg"
-    },
-    {
-      "title": "Demissões na Xbox vão muito além do esperado, diz jornalista",
-      "link": "https://meups.com.br/noticias/xbox-reduz-gastos-e-demissoes-atingem-muito/",
-      "description": "Impacto da reestruturação da divisão Xbox também está atingindo estúdios parceiros e empresas terceirizadas.",
-      "date": "2026-07-16",
-      "source": "MeuPS • Xbox",
-      "image": "https://meups.com.br/wp-content/uploads/2026/05/Xbox.webp"
-    },
-    {
-      "title": "PlayStation libera GTA Online sem PS Plus por tempo limitado",
-      "link": "https://meups.com.br/noticias/playstation-libera-gta-online-sem-ps-plus/",
-      "description": "Jogadores de PlayStation 5 poderão aproveitar GTA Online sem precisar de uma assinatura do PlayStation Plus.",
-      "date": "2026-07-16",
-      "source": "MeuPS • GTA 6",
-      "image": "https://meups.com.br/wp-content/uploads/2026/07/GTA-Online-2.jpg"
-    },
-    {
-      "title": "Modern Warfare 4 detalha Kill Block, novo mapa dinâmico do multiplayer",
-      "link": "https://meups.com.br/noticias/modern-warfare-4-detalha-kill-block/",
-      "description": "A Activision revelou novos detalhes do multiplayer de Call of Duty: Modern Warfare 4, que será lançado em 23 de outubro para PS5.",
-      "date": "2026-07-16",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/07/55391059298_938691d501_h.jpg"
-    },
-    {
-      "title": "Emulador RCPS3 já roda 75% dos jogos do PlayStation 3",
-      "link": "https://www.adrenaline.com.br/games/emulador-rcps3-ja-roda-75-dos-jogos-do-playstation-3/",
-      "description": "A equipe do RPCS3 divulgou avanços consideráveis no momento em que a loja digital do PlayStation 3 vai ser encerrada.",
-      "date": "2026-07-16",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/04/Emulador-RPCS3-ISO-Criptografada-PS3-640x400.jpg"
+      "source": "Adrenaline • Xbox",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/03/resident-evil-4-640x400.jpg"
     },
     {
       "title": "XBOX libera 5 jogos para jogar de graça neste fim de semana – veja lista!",
@@ -201,6 +273,22 @@
       "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/06/grand-theft-auto-online-640x400.jpg"
     },
     {
+      "title": "Jogos de PlayStation em oferta por menos de R$ 15 – veja lista!",
+      "link": "https://www.adrenaline.com.br/games/playstation/jogos-de-playstation-em-oferta-por-menos-de-15-veja-lista/",
+      "description": "Veja a lista com os principais jogos para PS5 e PS4 na Promoção de Inverno na PS Store, válida até 16 de julho",
+      "date": "2026-07-16",
+      "source": "Adrenaline • PlayStation",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/06/Harry-Potter-Campeoes-do-Quadribol-640x400.jpg"
+    },
+    {
+      "title": "Emulador RCPS3 já roda 75% dos jogos do PlayStation 3",
+      "link": "https://www.adrenaline.com.br/games/emulador-rcps3-ja-roda-75-dos-jogos-do-playstation-3/",
+      "description": "A equipe do RPCS3 divulgou avanços consideráveis no momento em que a loja digital do PlayStation 3 vai ser encerrada.",
+      "date": "2026-07-16",
+      "source": "Adrenaline • PlayStation",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/04/Emulador-RPCS3-ISO-Criptografada-PS3-640x400.jpg"
+    },
+    {
       "title": "Sony inicia registros de Ratchet & Clank: Ranger Rumble para Android e iOS",
       "link": "https://www.adrenaline.com.br/games/playstation/sony-inicia-registros-de-ratchet-clank-ranger-rumble-para-android-e-ios/",
       "description": "Ratchet &#038; Clank: Ranger Rumble promete uma nova perspectiva para a série com foco no PvP.",
@@ -209,19 +297,19 @@
       "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/Sony-Ratchet-Clank-Ranger-Rumble-Android-iOS-640x400.jpeg"
     },
     {
-      "title": "Por que GTA 6 estreia primeiro nos consoles? Ex-produtor da Rockstar explica - Pichau Arena",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3lYbkNOLUFjVE5JbUJTY2phSXBNSlp6N1RLUVNlODJNTks4aWM0Sm1RTEtGY3ZuTnNGM2owbnlnTjQzQ0t5bEI5OEsyaHZHYWVrdERjSUxudmFEWUhWR3djOGxEcGE1cExSWjlDTmd0emVMZGRacllhcUNuajZVMjVmZVBUUzhCWXZ0M3NicUJvakVSNjhKbWlsQ05GQ3BtZl9TU2RMMkI0dGloZlRXb2ZDONIBuAFBVV95cUxPR2F3Zy04c0JXVHp2bFpGQktlTGdWbmVpYzZvYzBGZWJFcVE2UElKbC1ZbkJLWi1jRDZLOS1WY3dRbnBMYU8zSDF2UGNEdC0xejZtZnZVTUhBdjJqQWRjNDhXYVh6ME9lOFhKdHpVVHRyMXNfUldaTzUzSk1Bb09RNUhZX3Y0WDBaOUJ5cFBLNlNaTWVkRVd3R21WcGhRUUJibU9Kb2JqdjF0WGNETnplZVF5YWZJWklm?oc=5",
-      "description": "Por que GTA 6 estreia primeiro nos consoles? Ex-produtor da Rockstar explica&nbsp;&nbsp;Pichau Arena",
-      "date": "2026-07-15",
-      "source": "Pichau Arena • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "“Estranho e irritante”: os fãs de GTA 6 estão aos poucos perdendo a paciência - Notebookcheck.info",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDBMVmNZUlk4TFNjS0N2UW9ieXptQUoxd0pGRUxQTHdNSnBBMFE3OFhlYko2VkRWZ1NSeW1VMEVSTk9XQXFzaGJvUVR5UXVKLV9ZR0c0dzh5Q05hcWJ5SE4tSWE1RWlSdU1vTnNJMVdmSVdFaUVzM1Q1d1pGT3VLSG1OZ0NQcHlsdTNodWdaenF6dWFEMktuWjV5UXNhQTdZZTlzNHRwcTNMVmxKRmFPSkVYcXFBc0tpWnNoYg?oc=5",
       "description": "“Estranho e irritante”: os fãs de GTA 6 estão aos poucos perdendo a paciência&nbsp;&nbsp;Notebookcheck.info",
       "date": "2026-07-15",
       "source": "Notebook Check • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Por que GTA 6 estreia primeiro nos consoles? Ex-produtor da Rockstar explica - Pichau Arena",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3lYbkNOLUFjVE5JbUJTY2phSXBNSlp6N1RLUVNlODJNTks4aWM0Sm1RTEtGY3ZuTnNGM2owbnlnTjQzQ0t5bEI5OEsyaHZHYWVrdERjSUxudmFEWUhWR3djOGxEcGE1cExSWjlDTmd0emVMZGRacllhcUNuajZVMjVmZVBUUzhCWXZ0M3NicUJvakVSNjhKbWlsQ05GQ3BtZl9TU2RMMkI0dGloZlRXb2ZDONIBuAFBVV95cUxPR2F3Zy04c0JXVHp2bFpGQktlTGdWbmVpYzZvYzBGZWJFcVE2UElKbC1ZbkJLWi1jRDZLOS1WY3dRbnBMYU8zSDF2UGNEdC0xejZtZnZVTUhBdjJqQWRjNDhXYVh6ME9lOFhKdHpVVHRyMXNfUldaTzUzSk1Bb09RNUhZX3Y0WDBaOUJ5cFBLNlNaTWVkRVd3R21WcGhRUUJibU9Kb2JqdjF0WGNETnplZVF5YWZJWklm?oc=5",
+      "description": "Por que GTA 6 estreia primeiro nos consoles? Ex-produtor da Rockstar explica&nbsp;&nbsp;Pichau Arena",
+      "date": "2026-07-15",
+      "source": "Pichau Arena • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -233,19 +321,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Ex-produtor da Rockstar revela porque GTA 6 não chega ao PC em novembro - OtakuPT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iZXFuUlpaZllwelFXbG5CSlBaZ2h0QjhGaFdBTzl4U3kwc0tVb0NkUnNEUUdJQ3l2eVkxZzZqTEVnbGEtQkxnVVBtOUItNGJaRzlXSTZ3dzdmZTlpZldNaktrajB6REdHelZBa0FMQUVHbENIWnNlVQ?oc=5",
-      "description": "Ex-produtor da Rockstar revela porque GTA 6 não chega ao PC em novembro&nbsp;&nbsp;OtakuPT",
+      "title": "Quando GTA 6 será lançado no PC? Ex-Rockstar fala sobre estreia do game nos computadores - TecMundo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0F1d0E2eXpLcUI0VDRiX0VZcktQWW1KMGRBcXdzRjl4X2xHT2ZkLXFpb2p6M3JEc2Z6VnpMVVc2Z0tCVmRTUHE0ZWtTUFNlbUozb3Y4UXdGY2pFckFveVpkNC1rSkM2VXRIU082Q0hQTjluUnVMcnIyYUNrOHRRQkg5aHdrdG1EZHMydmJoeFZZTDBEUU1pUnVxNC1OTGFmVGFEYklkZkNZVktSSVJiQzBlemJBWEZoYWVsREN5N2xuMFBHejVBVjdiZ0M?oc=5",
+      "description": "Quando GTA 6 será lançado no PC? Ex-Rockstar fala sobre estreia do game nos computadores&nbsp;&nbsp;TecMundo",
       "date": "2026-07-15",
-      "source": "OtakuPT • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 | Produtor de GTA 5 explica lançamento tardio no PC - Omelete",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Da0Fydk85emdrUW1pemVObUd4MnVKSDFxeHBtSXZXdVVvNVlXQUdjN1BvU3l2Q19wN1Rna2xtMnktM0wyRWx3a0dJS21pY2V3SzFwUC1YY2xJQVgtTWRBNHc5bWVXMGQ3cGtQbEFycG9EQ0IxbkE?oc=5",
-      "description": "GTA 6 | Produtor de GTA 5 explica lançamento tardio no PC&nbsp;&nbsp;Omelete",
-      "date": "2026-07-15",
-      "source": "Omelete • GTA 6",
+      "source": "TecMundo • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -257,27 +337,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Quando GTA 6 será lançado no PC? Ex-Rockstar fala sobre estreia do game nos computadores - TecMundo",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0F1d0E2eXpLcUI0VDRiX0VZcktQWW1KMGRBcXdzRjl4X2xHT2ZkLXFpb2p6M3JEc2Z6VnpMVVc2Z0tCVmRTUHE0ZWtTUFNlbUozb3Y4UXdGY2pFckFveVpkNC1rSkM2VXRIU082Q0hQTjluUnVMcnIyYUNrOHRRQkg5aHdrdG1EZHMydmJoeFZZTDBEUU1pUnVxNC1OTGFmVGFEYklkZkNZVktSSVJiQzBlemJBWEZoYWVsREN5N2xuMFBHejVBVjdiZ0M?oc=5",
-      "description": "Quando GTA 6 será lançado no PC? Ex-Rockstar fala sobre estreia do game nos computadores&nbsp;&nbsp;TecMundo",
-      "date": "2026-07-15",
-      "source": "TecMundo • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Mortal Shell II terá preço regionalizado no Brasil, inclusive no PlayStation - Cromossomo Nerd",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjJoSkhJMkQ4ek1QQmk3MGRaekxKMC1jMHh3TExCZWY5akFLcEs3MUpqekl1UzdXeFVGNW92ck5xMkRhbmRXMGo3MHRzZWxQYU9VWG8xb1JxaU9zOUs2aDV6OXk0c1NneXc1Z1lpZjl2LTlRQU42SURJNmpucmIyay1xb2pzQnV1NlFENlFvQjlyT2JLVVpyaEZRY09SNVJGMWI0SktqeEg5QQ?oc=5",
       "description": "Mortal Shell II terá preço regionalizado no Brasil, inclusive no PlayStation&nbsp;&nbsp;Cromossomo Nerd",
       "date": "2026-07-15",
       "source": "Cromossomo Nerd • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Arknights: Endfield recebe suporte ao novo PSSR do PS5 Pro amanhã (16) - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlAtOWcxbzJsYTAwdFZUSDdzcDlieHE1UWU3RU9sLVQydmkwejVwaUdENF9uOUR5V2ZRcE1hTGJyQmFuNGVMNTBHY1oxcUlWemV6OFBMTTBkOHF2TTdaLXh4cHk5bWtHcEgzVV85bk9ZRnA2M2xqVXJzQVJMSnYwMkpzYi1YRzhubFphcWNLeDVGRWh0aHhWcw?oc=5",
-      "description": "Arknights: Endfield recebe suporte ao novo PSSR do PS5 Pro amanhã (16)&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-07-15",
-      "source": "IGN BR • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -289,79 +353,29 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Rise of the Ronin chega hoje (15) ao PS Plus Extra e Deluxe, mas não no Brasil",
-      "link": "https://meups.com.br/noticias/rise-of-the-ronin-chega-hoje-ps-plus-mas-nao-no-brasil/",
-      "description": "Rise of the Ronin vai chegar sem custo para os assinantes do PS Plus. Ainda hoje. Só que não no Brasil.",
-      "date": "2026-07-15",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/07/PS-PLUS-EXTRA-RISE-of-the-RONIN.jpg"
-    },
-    {
       "title": "Projeto independente recria Windows CE no Dreamcast depois de mais de duas décadas",
       "link": "https://www.adrenaline.com.br/games/projeto-independente-recria-windows-ce-no-dreamcast-depois-de-mais-de-duas-decadas/",
       "description": "Projeto independente recria Windows CE no Dreamcast sem código Microsoft, com interface clássica e jogo 3D rodando no console 25 anos depois!",
       "date": "2026-07-15",
       "source": "Adrenaline • Xbox",
       "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/projeto-independente-recria-windows-ce-no-dreamcast-depois-de-mais-de-duas-decadas-cover-640x400.jpg"
-    },
-    {
-      "title": "GTA 6 não está no PC porque é “melhor trabalhar com restrições”",
-      "link": "https://www.adrenaline.com.br/games/gta-6-nao-esta-no-pc-porque-e-melhor-trabalhar-com-restricoes/",
-      "description": "Ex-produtor da Rockstar afirma que a série GTA é beneficiada pela decisão de se focar nos consoles.",
-      "date": "2026-07-15",
-      "source": "Adrenaline • GTA 6",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/GTA-6-PC-Motivos-Rockstar-640x400.jpeg"
-    },
-    {
-      "title": "Jogos de PlayStation em oferta na Promoção de Julho; até 90% de desconto",
-      "link": "https://www.adrenaline.com.br/games/playstation/jogos-de-playstation-em-oferta-na-promocao-de-julho-ate-90-de-desconto-2/",
-      "description": "Veja a lista com os principais jogos para PS5 e PS4 na Promoção de Inverno na PS Store, válida até 16 de julho",
-      "date": "2026-07-15",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/09/REVIEW-Astro-Bot-prova-a-qualidade-do-talento-do-Team-Asobi-640x400.jpg"
-    },
-    {
-      "title": "PlayStation Plus Extra e Deluxe de julho revelada com 9 jogos; veja lista!",
-      "link": "https://www.adrenaline.com.br/games/playstation/playstation-plus-extra-e-deluxe-de-julho-revelada-com-9-jogos-veja-lista/",
-      "description": "Confira todos os jogos chegando em junho ao catálogo da PlayStation Plus Extra e da Deluxe, que também recebe jogos clássicos",
-      "date": "2026-07-15",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/03/Rise-of-the-ronin-diretor-640x400.jpg"
-    },
-    {
-      "title": "PlayStation 6 pode abandonar metal líquido e adotar novo sistema de refrigeração",
-      "link": "https://www.adrenaline.com.br/games/playstation/playstation-6-pode-abandonar-metal-liquido-e-adotar-novo-sistema-de-refrigeracao/",
-      "description": "Além de evitar os problemas do PS5, solução alternativa deve ajudar a conter o preço elevado.",
-      "date": "2026-07-15",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/26-playstation-fresquinho-640x400.jpg"
-    },
-    {
-      "title": "GTA 6 será proibido no Brasil pela Lei Felca? Entenda - Transmissão Política",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakY5VE42SU5IaW9CT3V6NnBod21ISUUyazhUT0M2OHJqcVVtSFZ0WklEYVhXLUhYeHM3aWJfSnpwN1JyelFiSF9qSGFlTVFfUzZUOEU3SGJCVFoyR0ptMXNOWkRmOGhjeTJlMWp2b3NJVmdtUWlCalpwWkxiREFETm1GMVVRMklkV1N6VVJqRGVzUXFVVUtiTmhNY1c5SEU0cnc?oc=5",
-      "description": "GTA 6 será proibido no Brasil pela Lei Felca? Entenda&nbsp;&nbsp;Transmissão Política",
-      "date": "2026-07-14",
-      "source": "Transmissão Política • GTA 6",
-      "image": "https://transmissaopolitica.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-14-at-08.03.46.jpeg"
-    },
-    {
-      "title": "GTA 6 está barato? Analista acredita que jogo poderia custar mais - Pichau Arena",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWG8yVWxiQWs3bG5OVWh3VVEzZ1FsV3NXWHNrMlFPcEJIQWNvSXMtamFucFA4UFNLUnJhTGtQSEo3YmVGWExNdTdka2ZTVjdvN0xRbGJXYWJFOHR4MElVcndqaVFOSjBoZENwSTN3eXZCSlJucUpFUDVZNDhOUFFsaE5aRnBCUmd6RUVxc9IBkgFBVV95cUxON3lPZDk3eVdLUFRlMHhZclduRkRZNWl0X2xBR1czQmtTUy15cnlVUDU2bkNocXNqM1lseklYREE5ZVR2cFRsODZmbHgwSHZBZU83V0xyZ0ZoVnl0cmczSUpvOFhjZ2JsUVQzTkVvb0xoN3NEM2dVX3hERHlwOVlUbnhzdTNYcV91RmNHbUplVlhsUQ?oc=5",
-      "description": "GTA 6 está barato? Analista acredita que jogo poderia custar mais&nbsp;&nbsp;Pichau Arena",
-      "date": "2026-07-14",
-      "source": "Pichau Arena • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA VI 'humilha' Hollywood e tem a maior pré-estreia do ano - Portal iG",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblRVQUtnN2dvZ1ZtSnhPVGlkanZycG1ibTJWVTF4MnJqdF9jU1NIYjZ2dmIzbXhfLTVLYThHbkcyVFVLLVVUTFpoMDVxWmM3c2dtM2NRS1oybURHN2NfVHAyQV9vZklmS3ZaS3J0REFqdkhScEhNaGlXVklFWEx5UWpMeDlvM3NvUThrV3lFWExqU0t1dVlJQllJMHBZNm54ci1VeGNFSUhIeE9Z0gGsAUFVX3lxTE1uVFVBS2c3Z29nVm1KeE9UaWRqdnJwbWJtMlZVMXgycmp0X2NTU0hiNnZ2YjNteF8tNUthOEduRzJUVUstVVRMWmgwNXFaYzdzZ20zY1FLWjJtREc3Y19UcDJBX29mSWZLdlpLcnREQWp2SFJwSE1oaVdWSUVYTHlRakx4OW8zc29ROGtXeUVYTGpTS3V1WUlCWUkwcFk2bnhyLVV4Y0VJSEh4T1k?oc=5",
-      "description": "GTA VI 'humilha' Hollywood e tem a maior pré-estreia do ano&nbsp;&nbsp;Portal iG",
-      "date": "2026-07-14",
-      "source": "Portal BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
   "videos": [
+    {
+      "title": "VAMOS DE GTA - Novas Heists Nova DLC com os piratas!",
+      "link": "https://youtube.com/watch?v=4Q4qZ7jwPYA",
+      "thumbnail": "https://i.ytimg.com/vi/4Q4qZ7jwPYA/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "BLACK FLAG AINDA É O MELHOR JOGO DE PIRATA QUE EXISTE!",
+      "link": "https://youtube.com/watch?v=RyNPjPp8eQs",
+      "thumbnail": "https://i.ytimg.com/vi/RyNPjPp8eQs/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-07-16"
+    },
     {
       "title": "A INCRÍVEL Edição de Colecionador de ASSASSIN&#39;S CREED BLACK FLAG RESYNCED!",
       "link": "https://youtube.com/watch?v=i9LrKiznFqs",
@@ -405,23 +419,9 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Realismo EXTREMO em GTA e RED DEAD 2! #gta5 #playstation #ps5 #reddeadredemption2 #gta #gta6",
-      "link": "https://youtube.com/watch?v=n6iz9nDLy5Y",
-      "thumbnail": "https://i.ytimg.com/vi/n6iz9nDLy5Y/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "ROCKSTAR x FLOW GAMES",
-      "link": "https://youtube.com/watch?v=srHWgAXo4yk",
-      "thumbnail": "https://i.ytimg.com/vi/srHWgAXo4yk/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "⚠️EXPOSED DO TIOZÃO AO VIVO",
-      "link": "https://youtube.com/watch?v=FRN0LqZ0oTA",
-      "thumbnail": "https://i.ytimg.com/vi/FRN0LqZ0oTA/hqdefault.jpg",
+      "title": "JOGOS MAIS BARATOS COM O FIM DA MÍDIA FÍSICA?! 🤔#games #ps5 #flowgames",
+      "link": "https://youtube.com/watch?v=zftZeU4sn6Q",
+      "thumbnail": "https://i.ytimg.com/vi/zftZeU4sn6Q/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-07-16"
     },
@@ -429,6 +429,13 @@
       "title": "QUAL MELHOR JOGO DE 2026 (GOTY ATÉ AGORA) - #flowgames #196",
       "link": "https://youtube.com/watch?v=iSsQrUYiQrg",
       "thumbnail": "https://i.ytimg.com/vi/iSsQrUYiQrg/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "⚠️EXPOSED DO TIOZÃO AO VIVO",
+      "link": "https://youtube.com/watch?v=FRN0LqZ0oTA",
+      "thumbnail": "https://i.ytimg.com/vi/FRN0LqZ0oTA/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-07-16"
     },
@@ -464,13 +471,6 @@
       "title": "10 MELHORES JOGOS DE PLATAFORMA! TOP ALGUMA COISA #013  #flowgames",
       "link": "https://youtube.com/watch?v=loU-o4idZkE",
       "thumbnail": "https://i.ytimg.com/vi/loU-o4idZkE/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "O FIFA MAIS RARO DE TODOS 😱😱",
-      "link": "https://youtube.com/watch?v=pQ3B1w_KBjc",
-      "thumbnail": "https://i.ytimg.com/vi/pQ3B1w_KBjc/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-07-14"
     },
@@ -531,5 +531,5 @@
       "date": "2026-06-22"
     }
   ],
-  "updated_at": "2026-07-16T19:06:49.461769+00:00"
+  "updated_at": "2026-07-17T08:01:25.090544+00:00"
 }
