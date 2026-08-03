@@ -1,20 +1,108 @@
 {
   "news": [
     {
-      "title": "Sony lucra com reembolso de tarifas dos EUA",
-      "link": "https://meups.com.br/noticias/sony-lucra-com-reembolso-de-tarifas-dos-eua/",
-      "description": "A Sony confirmou que os reembolsos das tarifas de importação dos Estados Unidos ajudaram no seu balanço.",
+      "title": "Insider diz que silêncio sobre GTA 6 não é motivo de preocupação e aponta novidades em agosto - Olhar Digital",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkxjM2dOSW91ZEdWRDExOGV5TEJXSUdUS01vTkpoYTlBSDkyd001Z3cwVGNiaDh1ajJyaXBFbXVmYVR4a2VmVTE3eXJzeGgzdzBWSlpsbEJpQmI2VFplNW1zdnd0d1R2STNVNzgyR01OUlJqOXpGMm50bjZQUjZuWVU0U3JWcEdTX2ZfZWtTTzdCQVpQZ0FKNVl3?oc=5",
+      "description": "Insider diz que silêncio sobre GTA 6 não é motivo de preocupação e aponta novidades em agosto&nbsp;&nbsp;Olhar Digital",
       "date": "2026-08-03",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2025/09/Sony.jpg"
+      "source": "Olhar Digital • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Sony garante estoque de memória para o PS5 e afasta risco de falta de consoles com GTA 6 - Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTF9JWTAzTUx6VkpuVDl4NjlySGNPTWhLcnZRYjlVS0xmd2E3QUFrRl8zNDZNQUI0aktsU3hWU2xBY25fdC1FTlByWGJfQUdqWnFaU3QxcGVOVDBXRVRzbzJIY3h4cEl6VDBtakJKMWxJTVV0N0UyY1NxeFFMWE42Z3BB?oc=5",
-      "description": "Sony garante estoque de memória para o PS5 e afasta risco de falta de consoles com GTA 6&nbsp;&nbsp;Adrenaline",
-      "date": "2026-08-02",
-      "source": "Adrenaline • GTA 6",
+      "title": "Boato: Grand Theft Auto VI os fãs finalmente podem esperar ouvir mais sobre o jogo este mês - Gamereactor",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWYzX0t4cTJObXpWLWhmUTNkVUt4NWcxMDNQNFEzcjk2dldEWDFaMmt5MGlXazVCdzJXMGVPd2ZBbTJmS0JUV2NzYXNaZ0w5QVFXUDVlM3NkcWlqOTJsNkZyX3BfczRtS1RjQk5DcGptck1wak1lNmVZUzY5YXhzWG1DOUpweHk4WHBNZkk1VDhCNkE0Ny0yNW54cDhrelFtSnpsOWRFeVRPczNyRk1DcWxHOUNGZTRJLW96Rkg5NVBGemNR?oc=5",
+      "description": "Boato: Grand Theft Auto VI os fãs finalmente podem esperar ouvir mais sobre o jogo este mês&nbsp;&nbsp;Gamereactor",
+      "date": "2026-08-03",
+      "source": "Gamereactor • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA VI com Trailer #3 em agosto? Insider insiste que vai haver novidades - Geekinout",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUFM1cnk0TjdjSDg3ZUNoaDAyTkJwTjJLS25abkNycW1mU0dqTm05QzBlZklPdGVDVWlPTkNkV3VsVTJHUFd1WnhTZmNEQkgtODNFakdXOGxJWDFkUy1MVWpaYVNEWlBvanBfT1daUEVvZnE3LWpPZ2EzVkNvV044c3RUUEVrZjVoWEtGU09SaG12TXRQbVlwNVl0V1dIaC1G?oc=5",
+      "description": "GTA VI com Trailer #3 em agosto? Insider insiste que vai haver novidades&nbsp;&nbsp;Geekinout",
+      "date": "2026-08-03",
+      "source": "Geekinout • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "‘É agosto. No devido tempo’: insider volta a tranquilizar fãs sobre marketing de GTA 6 - nosbastidores.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDVHUVgyN0NDT0h2ODZGczhWaHJEeWd6NGNKcTVVeHQ2THBraUtrbUdJWTdoU3dXQk5GRFBqQU5rMmVBU2V2aGZQY0pkeFhRS3I3V3B4QWhaeHFKbFBLaHRVSWFtNUxlOHpMU1JnY3RvVElIQzV4MjV3aHgzNnlISzZ3Y2IxWnpEVi1ubkdaZDlIVWFObVdPN0xyMGZsSXA2cXMtTzJmbmhTbnpUZFA2cXhB?oc=5",
+      "description": "‘É agosto. No devido tempo’: insider volta a tranquilizar fãs sobre marketing de GTA 6&nbsp;&nbsp;nosbastidores.com.br",
+      "date": "2026-08-03",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Jogo ‘Day One’ do PS Plus de agosto é aclamado no Metacritic",
+      "link": "https://meups.com.br/noticias/jogo-day-one-ps-plus-aclamado-metacritic/",
+      "description": "Criação da House House, de Untitled Goose Game, Big Walk acumula 93 de média no Metacritic",
+      "date": "2026-08-03",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/01/PS-PLUS.jpg"
+    },
+    {
+      "title": "Sony entra na polêmica: PS5 é mais barato que um PC de ponta",
+      "link": "https://meups.com.br/noticias/sony-avisa-ps5-e-mais-barato-que-um-pc/",
+      "description": "\"Em comparação com um PC gamer de ponta, nosso produto é mais acessível\", disse Lin Tao, diretora financeira (CFO) da Sony.",
+      "date": "2026-08-03",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-14.32.38.jpeg"
+    },
+    {
+      "title": "Black Ops 2 recebe atualização para combater hacks",
+      "link": "https://meups.com.br/noticias/black-ops-2-recebe-atualizacao/",
+      "description": "A Activision lançou uma atualização para a versão de Call of Duty: Black Ops 2 disponível para pS4 e PS5.",
+      "date": "2026-08-03",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/06/Call-of-Duty-Black-Ops-2.webp"
+    },
+    {
+      "title": "Diretor de The Last of Us não entende hype de GTA VI: “Curioso”",
+      "link": "https://meups.com.br/noticias/gta-vi-por-que-hype/",
+      "description": "GTA VI será lançado em 19 de novembro para PlayStation 5 e Xbox Series X&#124;S. Rumores apontam que podemos ter novidades em breve...",
+      "date": "2026-08-03",
+      "source": "MeuPS • GTA 6",
+      "image": "https://meups.com.br/wp-content/uploads/2025/11/Jason_and_Lucia_02_landscape-1920x1080.jpg"
+    },
+    {
+      "title": "Xbox deve manter mídia física na próxima geração",
+      "link": "https://meups.com.br/noticias/xbox-deve-manter-midia-fisica/",
+      "description": "Microsoft pode seguir um caminho diferente do PlayStation com os discos para Xbox.",
+      "date": "2026-08-03",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2025/08/Gamescom_Keyart_16x9-Xbox-Final-8b86d9ffa75dd8517fe2.jpg.webp"
+    },
+    {
+      "title": "Xbox ficará bem mais caro na Europa e no Reino Unido",
+      "link": "https://meups.com.br/noticias/xbox-ficara-bem-mais-caro-na-europa/",
+      "description": "A Microsoft revelou os novos preços dos consoles Xbox na Europa e no Reino Unido, com aumento de até 200 euros.",
+      "date": "2026-08-03",
+      "source": "MeuPS • Xbox",
+      "image": "https://meups.com.br/wp-content/uploads/2026/05/Xbox.webp"
+    },
+    {
+      "title": "Gift Card PlayStation de R$ 360 está com desconto na Shopee; aproveite!",
+      "link": "https://meups.com.br/promocoes/gift-card-playstation-desconto-na-shopee/",
+      "description": "Cliente Shopee pode resgatar cupom de R$ 36 off, que diminui o preço final do gift card",
+      "date": "2026-08-03",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/07/Gift-Cards-PlayStation.jpg"
+    },
+    {
+      "title": "PS5 tem cupons e parcelas em até 12x SEM JUROS no AliExpress e na Shopee",
+      "link": "https://meups.com.br/promocoes/ps5-digital-cupons-aliexpress-e-na-shopee/",
+      "description": "PS5 Slim Digital com 825 GB de armazenamento está com desconto na Shopee e no AliExpress",
+      "date": "2026-08-03",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2020/09/PS5-DIGITAL.jpg"
+    },
+    {
+      "title": "Xbox pode lançar conversão de discos físicos em licenças digitais em agosto",
+      "link": "https://www.adrenaline.com.br/games/xbox/xbox-pode-lancar-conversao-de-discos-fisicos-em-licencas-digitais-em-agosto/",
+      "description": "Suposto e-mail vazado por um desenvolvedor mostra que a Xbox está avançando rápido na construção do novo sistema.",
+      "date": "2026-08-03",
+      "source": "Adrenaline • Xbox",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/Xbox-Conversao-Midia-Fisica-Digital-640x400.jpeg"
     },
     {
       "title": "Sony garante memória para produção do PS5 no ano de GTA 6 - pclabs.com.br",
@@ -33,11 +121,19 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Enquanto Xbox fica livre, PlayStation terá bloqueio de região para quem jogar o GTA 6 - crusoe.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd0hOaDA2bDl3V0pvQURWbkpFci1nX004ZlZSa2l5bkl5UkhTY0lOc1RTNUlBRGNvNEI0TTZrdlJzVGxBemI4TFMxU1RLUUVfWGFlSDNpenlQM01RaDZueVkwTGd4cmQzY1N3azdhcHdYVEh1eF96a0NNRDdUWnN2bkJ6ZjVYNjl5UG5zRmYyZmpvZFRBTFp0MzItTDZOazlpRy1JWXl1RDMxU210dGNibWszVDlKR1hlZV8wYjFjTVZ4NXM?oc=5",
-      "description": "Enquanto Xbox fica livre, PlayStation terá bloqueio de região para quem jogar o GTA 6&nbsp;&nbsp;crusoe.com.br",
+      "title": "Sony garante estoque de memória para o PS5 e afasta risco de falta de consoles com GTA 6 - Adrenaline",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTF9JWTAzTUx6VkpuVDl4NjlySGNPTWhLcnZRYjlVS0xmd2E3QUFrRl8zNDZNQUI0aktsU3hWU2xBY25fdC1FTlByWGJfQUdqWnFaU3QxcGVOVDBXRVRzbzJIY3h4cEl6VDBtakJKMWxJTVV0N0UyY1NxeFFMWE42Z3BB?oc=5",
+      "description": "Sony garante estoque de memória para o PS5 e afasta risco de falta de consoles com GTA 6&nbsp;&nbsp;Adrenaline",
       "date": "2026-08-02",
-      "source": "IGN BR • GTA 6",
+      "source": "Adrenaline • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Enquanto Xbox fica livre, PlayStation terá bloqueio de região para quem jogar o GTA 6 - Crusoé",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd0hOaDA2bDl3V0pvQURWbkpFci1nX004ZlZSa2l5bkl5UkhTY0lOc1RTNUlBRGNvNEI0TTZrdlJzVGxBemI4TFMxU1RLUUVfWGFlSDNpenlQM01RaDZueVkwTGd4cmQzY1N3azdhcHdYVEh1eF96a0NNRDdUWnN2bkJ6ZjVYNjl5UG5zRmYyZmpvZFRBTFp0MzItTDZOazlpRy1JWXl1RDMxU210dGNibWszVDlKR1hlZV8wYjFjTVZ4NXM?oc=5",
+      "description": "Enquanto Xbox fica livre, PlayStation terá bloqueio de região para quem jogar o GTA 6&nbsp;&nbsp;Crusoé",
+      "date": "2026-08-02",
+      "source": "Crusoé • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -47,38 +143,6 @@
       "date": "2026-08-02",
       "source": "Notebook Check • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA Online distribui $1 milhão grátis em agosto e bônus especiais - Blog do Edivaldo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGtXSUxNOV90OEg4Tjg3Nzhzdlo0enpGV1dlU29mbElBWTlfbDFROV9aRTI0bmZ4QVlhLTh1cWg5WjJaa3Y0Wkx1QXNFcHhHYXdjM2lGeVN1NDViUnVWRWdUUTFyRDcwZHhTX05FbXh1MG1XeXFxWTA5amFxREFCRnN3Q003Z0R4NWk4X09aalFDUXdVVjJ0Qy1ReEtDUE3SAacBQVVfeXFMUGpZQ1FCM19aS09obUU2SEstOVg4eTVmbUY5QXpGMFJQblR5US0xdGlpZkZCdXlmb3pNYS1rRktMM2s5YktJYlhENTNlVkF2dEhLQ1NYdjZ6TTVYT1NfUFNnOGdnVDdJMGN1NE5sTU9IcFdvZDdNQUR2bnVMYkNjRlhtY3ItbWFTTXA4UEVCekxuVHFMQjE0bGstNi0tYS1DNlg1RC1mT2c?oc=5",
-      "description": "GTA Online distribui $1 milhão grátis em agosto e bônus especiais&nbsp;&nbsp;Blog do Edivaldo",
-      "date": "2026-08-02",
-      "source": "Blog do Edivaldo • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Oito jogos de PlayStation terão servidores desligados neste mês",
-      "link": "https://meups.com.br/noticias/oito-jogos-playstation-desligados/",
-      "description": "Diversos jogos de PlayStation terão seus serviços online encerrados ao longo de agosto; entenda o que isso significa!",
-      "date": "2026-08-02",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/07/Sony-PlayStation-2.avif"
-    },
-    {
-      "title": "Flopou: Halo para PS5 vende menos do que o esperado",
-      "link": "https://meups.com.br/noticias/halo-para-ps5-flopou/",
-      "description": "Mesmo com uma performance melhor, o lançamento de Halo para PS5 não teve o resultado comercaial esperado.",
-      "date": "2026-08-02",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/07/Halo-Campaign-Evolved-DESTACADA.jpg"
-    },
-    {
-      "title": "Lançamentos da semana no PS5: Marvel Tokon, Beast of Reincarnation e mais",
-      "link": "https://meups.com.br/lancamentos/lancamentos-da-semana-no-ps5-marvel-tokon-beast-of-reincarnation-e-mais/",
-      "description": "Marvel Tokon: Fighting Souls lidera uma semana que também recebe Beast of Reincarnation",
-      "date": "2026-08-02",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/08/Lancamentos-agosto-26-PS5.jpg"
     },
     {
       "title": "Xbox Series S agora custa o preço do Series X em sua estreia na Europa",
@@ -161,9 +225,9 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Veja os lançamentos da PlayStation Store entre 2 e 8 de agosto de 2026 - psxbrasil.com.br",
+      "title": "Veja os lançamentos da PlayStation Store entre 2 e 8 de agosto de 2026 - PSX Brasil",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUtiTG1YM0NTSmtPU0RvSjBwZHZseVdaMDdqU2ZZanBvVEUxVVQ1VHlXTmVWaHhHWXZlMS0tQ0JRMGtmekROWnYwVUtwaUx1TFZzUmVvWC1mcGFzR0NxY3BNX2ZQTE9wdzVSY2hUd1U2Ym4zV2I4VjNnNDR2bUQyaE45cWJVNEczUzZyOUV5MUdqMkxrVS1USkpWZ1o?oc=5",
-      "description": "Veja os lançamentos da PlayStation Store entre 2 e 8 de agosto de 2026&nbsp;&nbsp;psxbrasil.com.br",
+      "description": "Veja os lançamentos da PlayStation Store entre 2 e 8 de agosto de 2026&nbsp;&nbsp;PSX Brasil",
       "date": "2026-08-01",
       "source": "IGN BR • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -177,20 +241,12 @@
       "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/05/Forza-Horizon-5-ultrapassa-marca-de-30-milhoes-de-jogadores-640x400.jpg"
     },
     {
-      "title": "Microsoft quer fazer o Windows 11 rodar melhor em PCs com apenas 8 GB de RAM",
-      "link": "https://www.adrenaline.com.br/microsoft/windows/microsoft-quer-fazer-o-windows-11-rodar-melhor-em-pcs-com-apenas-8-gb-de-ram/",
-      "description": "Microsoft planeja otimizar o Windows para PCs com 8 GB de RAM até 2026, com foco também em controles familiares, voz e configuração inicial!",
-      "date": "2026-08-01",
-      "source": "Adrenaline • Xbox",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/microsoft-quer-fazer-o-windows-11-rodar-melhor-em-pcs-com-apenas-8-gb-de-ram-cover-640x400.jpg"
-    },
-    {
-      "title": "Sony diz que possui estoque de RAM para PS5 que serão vendidos com GTA VI - psxbrasil.com.br",
+      "title": "Sony diz que possui estoque de RAM para PS5 que serão vendidos com GTA VI - PSX Brasil",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcG9YU0xRdzhSWUs4MDZpRkVKOXgtYWhJeVlmS1A5LTgzdzFaeHFwMDR2Sk02OXVqUkhkNVBET3lNR2dvNlN4VW5iYW12X2ZGTkNFbnNOZERWLWU3eWNtSVltaTJvZkFSdEhRcWtjcjlkNkd3VWFoSm9SOVU0bWozQnZZMHg4T2FwRWZkUlVYSExTYkxOWUdmNmpVU0xzT0Rk?oc=5",
-      "description": "Sony diz que possui estoque de RAM para PS5 que serão vendidos com GTA VI&nbsp;&nbsp;psxbrasil.com.br",
+      "description": "Sony diz que possui estoque de RAM para PS5 que serão vendidos com GTA VI&nbsp;&nbsp;PSX Brasil",
       "date": "2026-07-31",
       "source": "IGN BR • GTA 6",
-      "image": "https://psxbrasil.com.br/wp-content/uploads/2025/07/PS5-PlayStation-5.jpg"
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "Fãs da Nintendo acreditam que o remake de The Legend of Zelda: Ocarina of Time será lançado em confronto direto com GTA ",
@@ -233,17 +289,17 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "PS5 alcança 95,3 milhões de unidades vendidas; mais números - psxbrasil.com.br",
+      "title": "PS5 alcança 95,3 milhões de unidades vendidas; mais números - PSX Brasil",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DcUM2dE5YUF9CbnZ6VjY2Sk1Cd3F0elk1R19SWUdDelFXWE1sSFlCR0g1TTAxdjFzNHlsd2FNVENxMEJXdXdnZ0FLcU5ZR1pWdmRDaUpRVTBuWllqWTJLRFl1RWt2SXFWdDZZ?oc=5",
-      "description": "PS5 alcança 95,3 milhões de unidades vendidas; mais números&nbsp;&nbsp;psxbrasil.com.br",
+      "description": "PS5 alcança 95,3 milhões de unidades vendidas; mais números&nbsp;&nbsp;PSX Brasil",
       "date": "2026-07-31",
       "source": "IGN BR • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "\"Vamos avançar com cautela\": Sony finalmente quebra silêncio sobre o fim da mídia física - psxbrasil.com.br",
+      "title": "\"Vamos avançar com cautela\": Sony finalmente quebra silêncio sobre o fim da mídia física - PSX Brasil",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaDZvWE1JbUZOSmdIbEE4aFNtc3FIZWg4eEhGeG95bmNGSXNrdUFuekhPRWFCaC1hVWdWR3JobUVXclJXUkZRRzdOVlBTbklWYVROYkdYOXlCdmxieFV5eS1oUmhwaEJuLTBNSnlpVTc2VjFiYkNTLWlSbXIzaEtjckJCdlJlT3lCZEd4X09nWHkxTW1hZklwVVotSHR3UXJnSFE0ektLMTYxTW85Z0FVLQ?oc=5",
-      "description": "\"Vamos avançar com cautela\": Sony finalmente quebra silêncio sobre o fim da mídia física&nbsp;&nbsp;psxbrasil.com.br",
+      "description": "\"Vamos avançar com cautela\": Sony finalmente quebra silêncio sobre o fim da mídia física&nbsp;&nbsp;PSX Brasil",
       "date": "2026-07-31",
       "source": "IGN BR • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -255,46 +311,6 @@
       "date": "2026-07-31",
       "source": "Pichau Arena • Xbox",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "PS1 de LEGO pode ter Astro Bot e sair em outubro",
-      "link": "https://meups.com.br/noticias/ps1-de-lego-pode-ter-astro-bot-outubro/",
-      "description": "Até o momento, nem a LEGO nem a Sony anunciaram oficialmente o produto, mas a expectativa está enorme!",
-      "date": "2026-07-31",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/07/lego-psone.webp"
-    },
-    {
-      "title": "Microsoft libera app do Xbox para TVs com VIDAA OS, como as Hisense",
-      "link": "https://www.adrenaline.com.br/games/xbox/microsoft-libera-app-do-xbox-para-tvs-com-vidaa-os-como-as-hisense/",
-      "description": "App do Xbox direto na TV permite jogar pela nuvem apenas assinando o Game Pass, sem precisar de um console",
-      "date": "2026-07-31",
-      "source": "Adrenaline • Xbox",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/app-xbox-vidaa-os-hisense-640x400.jpg"
-    },
-    {
-      "title": "34% das mídias físicas do PS5 e 50% do Xbox Series X não funcionam sem downloads",
-      "link": "https://www.adrenaline.com.br/games/34-das-midias-fisicas-do-ps5-e-50-do-xbox-series-x-nao-funcionam-sem-downloads/",
-      "description": "Segundo levantamento do Does it Play, mesmo a aposta em mídias físicas não garante a preservação e o acesso a games completos.",
-      "date": "2026-07-31",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/Midia-Fisica-PS5-Xbox-Downloads-640x400.jpg"
-    },
-    {
-      "title": "Emulador de PS5 já roda jogos 3D a 30 FPS e avança em ritmo impressionante",
-      "link": "https://www.adrenaline.com.br/games/emulador-ps5-kyty-jogos-3d-30-fps/",
-      "description": "Kyty exibe XIII com texturas quebradas, enquanto SharpEmu prioriza precisão; veja o status por título.",
-      "date": "2026-07-31",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/emulador-ps5-kyty-jogos-3d-30-fps-640x400.jpg"
-    },
-    {
-      "title": "Xbox define prioridades para voltar a crescer a partir de 2027",
-      "link": "https://www.adrenaline.com.br/games/xbox/xbox-define-prioridades-para-voltar-a-crescer-a-partir-de-2027/",
-      "description": "A Xbox quer impactar 500 milhões de pessoas diariamente a partir de 2030.",
-      "date": "2026-07-31",
-      "source": "Adrenaline • Xbox",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/Xbox-Prioridades-Crescimento-2027-640x400.jpeg"
     },
     {
       "title": "Reservas de Grand Theft Auto VI começam em 25 de junho - Rockstar Games",
@@ -343,25 +359,23 @@
       "date": "2026-07-30",
       "source": "TecMundo • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Novidades? Site do GTA 6 recebe atualizações misteriosas - Flow Games",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdkk1eDVCT3hOUU85YmpTYjBSWXpFRldXRmxuRmZtcGJFdDFzMjB0NVlIa3FpS1VRWDFnbHhMbnJfQ08tc0VUa0hkUi1IV21xTzRDYzRSaWFwTmptM0g4UktGSi1CU045Z2Ztcms2LXVoelE3QktzOTB3WjBmMms?oc=5",
-      "description": "Novidades? Site do GTA 6 recebe atualizações misteriosas&nbsp;&nbsp;Flow Games",
-      "date": "2026-07-30",
-      "source": "Flow Games • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "The Defiant é confirmado no PS5 - psxbrasil.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BeWYzcW5ydm1yZ2VIT2UzR2ViNHlIZkt1NUNKZlV3NFh6ZHEwdExka0pfblRPd1ZpWDIySVA0Y2k5cDlxc0dBb0x1UjRDdkZZYXJtWHZsVk05bjJKdnBlTHhRRVZabTEy?oc=5",
-      "description": "The Defiant é confirmado no PS5&nbsp;&nbsp;psxbrasil.com.br",
-      "date": "2026-07-30",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
   "videos": [
+    {
+      "title": "Assassin&#39;s Creed Black Flag Resynced é INCRÍVEL e a PLATINA é uma DELÍCIA",
+      "link": "https://youtube.com/watch?v=VxK_60_wazU",
+      "thumbnail": "https://i.ytimg.com/vi/VxK_60_wazU/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "YOUTUBER NÃO PODE GANHAR JOGO ANTECIPADO 😭😭😭",
+      "link": "https://youtube.com/watch?v=Jr2OAMmYdcs",
+      "thumbnail": "https://i.ytimg.com/vi/Jr2OAMmYdcs/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-08-03"
+    },
     {
       "title": "UBISOFT TE OBRIGA A DESTRUIR SEUS JOGOS 😱😱😱",
       "link": "https://youtube.com/watch?v=MgDSqJhhXLg",
@@ -398,25 +412,18 @@
       "date": "2026-08-01"
     },
     {
-      "title": "ACHAMOS O DECK DOURADO SÓ CARTA MITOLÓGICA! #disney #lorcana #card #cardgaming",
+      "title": "ACHAMOS O BOOSTER DOURADO DE DISNEY LORCANA #disney #lorcana #card #cardgaming",
       "link": "https://youtube.com/watch?v=oAUXC-6AgmY",
       "thumbnail": "https://i.ytimg.com/vi/oAUXC-6AgmY/hqdefault.jpg",
       "channel": "GamplayRJ",
       "date": "2026-08-01"
     },
     {
-      "title": "PRONUNCIAMENTO DA SONY SOBRE O FIM DA MÍDIA FÍSICA!",
-      "link": "https://youtube.com/watch?v=AJ1cgSPZwHA",
-      "thumbnail": "https://i.ytimg.com/vi/AJ1cgSPZwHA/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Sony QUEBRA O SILÊNCIO sobre o FIM das midias FÍSICAS, mas…",
-      "link": "https://youtube.com/watch?v=GRZaCFdxWQA",
-      "thumbnail": "https://i.ytimg.com/vi/GRZaCFdxWQA/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-07-31"
+      "title": "NÃO VEJA O PÓS CRÉDITOS DE HOMEM ARANHA 4 🙄🙄🙄",
+      "link": "https://youtube.com/watch?v=jjbpE3vDTwg",
+      "thumbnail": "https://i.ytimg.com/vi/jjbpE3vDTwg/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-08-03"
     },
     {
       "title": "Aquele REFRESH com MENTOS 🥰🥰 #mentos",
@@ -468,11 +475,11 @@
       "date": "2026-07-31"
     },
     {
-      "title": "GTA 6 terá NOVIDADES em BREVE e BOICOTE dos JOGADORES ao PLAYSTATION! FGN Direct #052",
-      "link": "https://youtube.com/watch?v=ssvpexw4xE8",
-      "thumbnail": "https://i.ytimg.com/vi/ssvpexw4xE8/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-07-31"
+      "title": "Flow Games Atacado, AI Cancela Creator, Gamers Ignorados &amp; Mais! | Ep. 126 feat.  @IsadoraBasile",
+      "link": "https://youtube.com/watch?v=hcAZI7MTaiE",
+      "thumbnail": "https://i.ytimg.com/vi/hcAZI7MTaiE/hqdefault.jpg",
+      "channel": "DebYte",
+      "date": "2026-08-03"
     },
     {
       "title": "DeByte Presencial, PlayStation Censura Staff, Resumāo Copa, Edu no Brasil &amp; Mais! | Ep. 125",
@@ -522,14 +529,7 @@
       "thumbnail": "https://i.ytimg.com/vi/DsWBkhxua2c/hqdefault.jpg",
       "channel": "DebYte",
       "date": "2026-06-29"
-    },
-    {
-      "title": "Bets na Copa, GTA VI Divisivo, Steam Console Carésimo, Xbox Aumenta Preço &amp; Mais! | Ep. 122",
-      "link": "https://youtube.com/watch?v=7561syJas-0",
-      "thumbnail": "https://i.ytimg.com/vi/7561syJas-0/hqdefault.jpg",
-      "channel": "DebYte",
-      "date": "2026-06-29"
     }
   ],
-  "updated_at": "2026-08-03T09:36:36.391854+00:00"
+  "updated_at": "2026-08-03T19:27:53.344839+00:00"
 }
