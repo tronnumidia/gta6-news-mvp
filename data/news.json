@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Brave Dungeon: The Meaning of Justice ganha versão para PlayStation 5",
+      "link": "https://www.adrenaline.com.br/games/playstation/brave-dungeon-the-meaning-of-justice-lancamento-ps5/",
+      "description": "RPG de exploração de masmorras da série Dark Witch estreia no PlayStation 5 após lançamento para PC e Nintendo Switch",
+      "date": "2026-08-09",
+      "source": "Adrenaline • PlayStation",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/brave-dungeon-640x400.jpg"
+    },
+    {
       "title": "GTA 6 terá trailer exibido 6 horas antes na Netflix e acordo revela nova fase dos games no streaming - NSC Total",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcEFfSHZ0ZjNwZkgySXpQbHIwdDVjdHBPcm9zT0hDMWxGWnJxMHJLajFQZjlzOWFBYjBnbnVBU3JwVWx0U2dKY19xUXdwSGowd25wOFpuVjZLS0drZWJWcTJLdGZ4bzAzSGYtMUpjVkZ0MzdwUkRsa0JaUDRaYmZKUVFJLWIwQS1LMl9zeXNoTkRXMHFkYnRDaWNtWTNHeEQyR2Nudi1JZHdKSEtKQ3VKVE9VM05uTzhzYjVaMG9rVFlBYV8xQ0JwVWs2bUtmOVQ4YWg5Wk9vYlFPRk0?oc=5",
       "description": "GTA 6 terá trailer exibido 6 horas antes na Netflix e acordo revela nova fase dos games no streaming&nbsp;&nbsp;NSC Total",
@@ -9,11 +17,59 @@
       "image": "https://img.nsctotal.com.br/wp-content/uploads/2026/08/gta-6-netflix.png"
     },
     {
+      "title": "GTA 6 na Netflix reacende debate sobre marketing pago - einerd.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMzBZNEZTNS00NXVZQ0lHUm1RV1J3Nno1aHBHTWNaQWZ5S3Q5dGQwSjJKSjk0dVhKMFU2UW5NQ3o1OEcyYThEWFpTLWxLQmd4VVlRM2IzZFJUYUppcEFPMHBHWWdYQjQ0dWtlX25MRHVKUQ?oc=5",
+      "description": "GTA 6 na Netflix reacende debate sobre marketing pago&nbsp;&nbsp;einerd.com",
+      "date": "2026-08-08",
+      "source": "einerd.com • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6: Rockstar não revelará modo online tão cedo - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVmtJU1Uxc0E3UUE1eFNDa3BwSnRoMEFEVXRxcVdZekVXZEd1a3g5R1hDUWdvT2ZYQUQ5U3RwRXREZ3NZZFNBcExiT3ZjOHk1VGwwb21pRUItY3FlQ25GbllGUDJKMGhvd2pfa2JSS0FLYXRVTy1tRExjWkhkUQ?oc=5",
+      "description": "GTA 6: Rockstar não revelará modo online tão cedo&nbsp;&nbsp;Última Ficha",
+      "date": "2026-08-08",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "CEO da Take-Two revela porque escolheu a Netflix para mostrar GTA 6 - OtakuPT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUJIbl9UY3FwU0l4YUR4VU04Z1NMTlpNMm1SVklBNUNRTjVIQ1ZMOHE3YWJOU2FIVG5MVERDNi1nUXF2SThuYi1lWHNENU44VmtLMFFOQlpCdjladXpoRWJmQW5HZzZPREZZUG5abmhqVUJOUDA4d2R1UVJwdWF5ZWh4ZGdwdzRHY0NtZXZ5RDdQSW9CTEVTdlBtVEtrM0k?oc=5",
+      "description": "CEO da Take-Two revela porque escolheu a Netflix para mostrar GTA 6&nbsp;&nbsp;OtakuPT",
+      "date": "2026-08-08",
+      "source": "OtakuPT • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Netflix fecha acordo inédito com GTA 6; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWtzamxMX0R2RU1ndll4a0VpMkhNQ0ZzaUttZmxsdmhaZEFmLXhRMzFkZjZkVVNsdmU1OTRGN0c4c3g2Vkk4eE4wRHpqRUI4Rjh2T0tTZldDZTdpcjNPcVVadFhUY2pGeG5PRDU2VUdiU3BGM0JCNFFZY0dPYnp6eE1neXZIQmlMcHhlb2tyQmpaM3dDX3RHaU5TSlFCX09ZMTlxUkViSE85eXhiWVE0YXdIajRhSDQyV3VrVXFzcw?oc=5",
+      "description": "Netflix fecha acordo inédito com GTA 6; entenda&nbsp;&nbsp;TerraRockstar emite péssima notícia para quem estava esperando o GTA 6 neste ano&nbsp;&nbsp;Diário do ComércioApós espera de um ano, trailer ",
+      "date": "2026-08-08",
+      "source": "Terra • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Take-Two diz que GTA 6 está sendo divulgado em “praticamente todas as redes sociais do planeta” - GameVicio",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTBpVHBqQVQwQTVLdTVNa1VzdU83MEZGc2ttTjZWZUdWcVhlbHp5RGZfODJlbWw1S1h5T1VLRmt1aFlNSW1xeEt2X1BuNzRfYU9STEFraG1LdkQtWmRRbUN0Mno5N3RYcktFdG1ndkFpTXc2cjBIdFZiRy0tYzdJSHllaHlneXQ5VWNFNFNMSWMtaTRhV2huYVpPaE9oTjF4NFpxOdIBqgFBVV95cUxPdi1RMmRmQ0tOVW9hVHE4NmFXWF9jbXFmMDFUSmExWDd4OEpXQ3lQUDlaaVJ1d3RTSDRpblFzWGVmZ2hRaUlVWmdfcDV2UnVSY0QyN1JkSHhyQkkwNF9YLUlZR29SMk1TM0RWYzNYMjlvSnpmVjRvRjNia1I1SEVFZXpFWmNFemt1SjhGSjJ0STNpZ1VVc1lOaEQ0N2lTcW5KR0xOalAzTjNEQQ?oc=5",
+      "description": "Take-Two diz que GTA 6 está sendo divulgado em “praticamente todas as redes sociais do planeta”&nbsp;&nbsp;GameVicio",
+      "date": "2026-08-08",
+      "source": "GameVicio • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Take-Two revela números de GTA VI - gamerpoint.com.br",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02bWtPZ0d6QW5PRXE2NGNpMEFJQlpvbDZKSHdaY3ZaUmZtUkxVYlZrMFZGVHZkTjNabUM5a2g1T3lGLXp6MTU4bVR3MWZjR0k0ZFR0VlJGTVlqWWVIaXpoTjdFNUltWW9JVHlIaWlrYmRhaUFFVmEtZHRpeWVuQQ?oc=5",
       "description": "Take-Two revela números de GTA VI&nbsp;&nbsp;gamerpoint.com.br",
       "date": "2026-08-08",
       "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Jornalista diz que Rockstar não falará sobre GTA VI Online por um bom tempo - O Vício",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGZ0OERoTTh0MTR6UFpRczlsUEdxcHhLY04yZ18tQUVzbUE5bnZvSFh2TEVGa1AtRmJiS3pfNGd2RW13SzV4UEhfbkFUMEItc24tVXptZTFLcnlmYmpLaW5oQ3J3cDA5LTZJVjNaa2J0Wnp5dUl1SW5EcnVKVllBODRuVWFPb25UZlVRSWg1SkRpMUpHMFlFb1AyRUp6ajjSAaQBQVVfeXFMT0QzaEtiUExlWlZLVm5nY2YxZ0VTa2VDVTBOMVVPRzlBMnJTUnBpQ0ZwcW9fdGtqQ1A5WHctT0FERl9MSlhWTTlqUWdYVi1zWFNMaHJCak1xNEZ5WThxTEZTaW12ZVVKeHVKeEFjcTgyUkVya2hEZDNOS0ZacEtuZzAwYUF4N0h6V0xYdzVXSGdISzBESmxzbWp1b2dYcVJ5RGw5dzg?oc=5",
+      "description": "Jornalista diz que Rockstar não falará sobre GTA VI Online por um bom tempo&nbsp;&nbsp;O Vício",
+      "date": "2026-08-08",
+      "source": "O Vício • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -25,11 +81,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "GTA VI: Saiba quanto durará a apresentação na Netflix - O Vício",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjNGMVhIVnUteF9fZTNZWHpNSGs1ajlPVFVwdkdfN0FmXzRscHZ4b1VUbnFNV1I2MU5SXzB3RXZ2b1d0bkRIRDZ3VWFVUzZBZ0d6ZkFjdk1GQUZkM0RaZ3pRRjNQSmNHVW9WeWhLQ0FEWFpIQ3V6ZW5nVXRkOVRYVtIBhgFBVV95cUxNS3JaNmVKX2N3aEVKU01hTVROUmhLQmZ4VTA2TGZfb2xISXJBc2tsTXAwZlZ4cHk4QWhCNElOQTJQZnpOZ05mTVptMjFLV1lJZ3FSWXc0SW9qSlVSSnEtdWFpV0MzZWowc2JFa1VDLUhMa0JheDRobjZvOEF1SkV0MUtvUDhidw?oc=5",
+      "description": "GTA VI: Saiba quanto durará a apresentação na Netflix&nbsp;&nbsp;O Vício",
+      "date": "2026-08-08",
+      "source": "O Vício • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Mais promoções do GTA 6 a caminho? Seguições no Instagram geram dúvidas - Notebookcheck.info",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb1dTYkxNZzFpRVlZd3lKcjJGOGdvc3VPZDg4Q2VfZGNsV1pvSzEzNlZQMms2bnRCenFsNXVRaUF4X2tXbllHTHN5NGtIdGhXV2JQY1R1Wm8xNUpVNEJjeDZKdENFanBtLVZ1elpjT1dDWkJUVTVtZ05CbkN0clJMZFl4aVBRVnZiMFRxRDFaS1FsaXlpcTFVNThpamU3LU1oZzZ1ejloalR1Mk0wM1J6dk9wVk81bm8?oc=5",
       "description": "Mais promoções do GTA 6 a caminho? Seguições no Instagram geram dúvidas&nbsp;&nbsp;Notebookcheck.info",
       "date": "2026-08-08",
       "source": "Notebook Check • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Por que GTA 6 vai ser revelado na Netflix? CEO da Take-Two explica parceria - adrenaline.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGRSRFFlelhRUVBRZkptbmdoYmtmUERXN2FDZ0pqaloySmJYUWJLdS1OLWVnNTR0N1JSbXNVT3JMNDI4TzItMm5TeXdsUDRremVuX28wSkt1VV90TnRwNlBKOWtnVnFZc2tQQzQxMFpmLTRQQVlVc3Z5Um1LSU1JWjFyY3FKZ2p4NmFCN2hmS2dfbWNLQ2NTLVZ2aEM3OHhZLTF4RHFLd0lrOXBqNHcyWQ?oc=5",
+      "description": "Por que GTA 6 vai ser revelado na Netflix? CEO da Take-Two explica parceria&nbsp;&nbsp;adrenaline.com.br",
+      "date": "2026-08-08",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -41,19 +113,19 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Por que GTA 6 vai ser revelado na Netflix? CEO da Take-Two explica parceria - Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGRSRFFlelhRUVBRZkptbmdoYmtmUERXN2FDZ0pqaloySmJYUWJLdS1OLWVnNTR0N1JSbXNVT3JMNDI4TzItMm5TeXdsUDRremVuX28wSkt1VV90TnRwNlBKOWtnVnFZc2tQQzQxMFpmLTRQQVlVc3Z5Um1LSU1JWjFyY3FKZ2p4NmFCN2hmS2dfbWNLQ2NTLVZ2aEM3OHhZLTF4RHFLd0lrOXBqNHcyWQ?oc=5",
-      "description": "Por que GTA 6 vai ser revelado na Netflix? CEO da Take-Two explica parceria&nbsp;&nbsp;Adrenaline",
-      "date": "2026-08-08",
-      "source": "Adrenaline • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Visão ampliada do GTA 6 na Netflix: o CEO da Take-Two compartilha informações sobre um “evento imperdível” - Notebookche",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXRkLWhpZ3l3ZXJFMnhSOVVhelRGazRfV3lMVjFYeG1GTFlMUmloMEMwc3E2aENDSVQ1NFp1VmdIaWowejI0eEptYUxhS0Z6XzMzQndjRnczWnZ1dkpELUZpdlFmOGlsamxicEcxeUM2eWRxTGd6RWZRZ3p0SlZMWE92Yng3Z0o1dlVzQnZCNXktS1J3aXlfR0JDTWdjUmZHYnkwM1hseEN5eV9CNWhSXzVDMlRITTRyWTFpZmhTcUtQdnJzbUxUbmU4U0hGNXRfZEw4dXBXYWFadUF5ZjBPYVJmRQ?oc=5",
       "description": "Visão ampliada do GTA 6 na Netflix: o CEO da Take-Two compartilha informações sobre um “evento imperdível”&nbsp;&nbsp;Notebookcheck.info",
       "date": "2026-08-08",
       "source": "Notebook Check • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Demo de Back to the Dawn está disponível para PS5 - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzhBWFozUmRxMjhicC1uYzV0di13YmVRSVBQQm5UV29TR3pNbFN3NUJyVnZBMWRQSXE0SG15UmVxVkdMdnRlOWlQNnh6ZUtBTEtrYTUxTV95bi1nTl90QlVoTmZxNjU5elZCU3UxZmJ4X1A1dDZZZWlLZThlckc5UA?oc=5",
+      "description": "Demo de Back to the Dawn está disponível para PS5&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-08-08",
+      "source": "IGN BR • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -89,6 +161,14 @@
       "image": "https://meups.com.br/wp-content/uploads/2026/08/PlayStation.jpg"
     },
     {
+      "title": "Jogos de PlayStation em oferta por menos de R$ 20 nesta semana",
+      "link": "https://www.adrenaline.com.br/games/playstation/jogos-de-playstation-em-oferta-por-menos-de-r-20-nesta-semana/",
+      "description": "Veja a lista com os principais jogos para PS5 e PS4 na Promoção de Inverno na PS Store, válida até 13 de agosto",
+      "date": "2026-08-08",
+      "source": "Adrenaline • PlayStation",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/12/metro-2033-redux-640x400.jpg"
+    },
+    {
       "title": "Por que GTA 6 vai ser revelado na Netflix? CEO da Take-Two explica parceria",
       "link": "https://www.adrenaline.com.br/games/por-que-gta-6-vai-ser-revelado-na-netflix-ceo-da-take-two-explica-parceria/",
       "description": "Segundo Strauss Zelnick, o público vai entender a parceria entre GTA 6 e a Netflix ao assistir An Extended Look.",
@@ -110,7 +190,7 @@
       "description": "Take-Two fala da pré-venda de GTA VI e mídia física; números atualizados de RDR2 e mais&nbsp;&nbsp;PSX Brasil",
       "date": "2026-08-07",
       "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "image": "https://psxbrasil.com.br/wp-content/uploads/2026/08/Grand-Theft-Auto-VI.jpg"
     },
     {
       "title": "Grand Theft Auto VI: números de pré-venda são \"surpreendentes e sem precedentes\", afirma CEO da Take-Two - gameblast.com",
@@ -118,6 +198,14 @@
       "description": "Grand Theft Auto VI: números de pré-venda são \"surpreendentes e sem precedentes\", afirma CEO da Take-Two&nbsp;&nbsp;gameblast.com.br",
       "date": "2026-08-07",
       "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 atinge marco astronômico de pré-venda antes mesmo do especial na Netflix - TudoCelular.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUo2MFFxbDM5ZmZGeEdRYUtBV3lJQ0k3UXI4WlIyVkNTUl9QQ2xHa2xKU2dCczdfOEdHT3BING1XWVVwcEtnMkpYZm9oQ2xfSjl0RzdWNEt4ckRqbmMxWVlYWHZBa19FUkR3eWhUQWhPUk1HX2QzdEx2WnNrNEdvak9NVURpNi0xTFJlTnF0STJQOHBJTXhvS2dfQQ?oc=5",
+      "description": "GTA 6 atinge marco astronômico de pré-venda antes mesmo do especial na Netflix&nbsp;&nbsp;TudoCelular.com",
+      "date": "2026-08-07",
+      "source": "TudoCelular • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -129,27 +217,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GTA 6 atinge marco astronômico de pré-venda antes mesmo do especial na Netflix - tudocelular.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUo2MFFxbDM5ZmZGeEdRYUtBV3lJQ0k3UXI4WlIyVkNTUl9QQ2xHa2xKU2dCczdfOEdHT3BING1XWVVwcEtnMkpYZm9oQ2xfSjl0RzdWNEt4ckRqbmMxWVlYWHZBa19FUkR3eWhUQWhPUk1HX2QzdEx2WnNrNEdvak9NVURpNi0xTFJlTnF0STJQOHBJTXhvS2dfQQ?oc=5",
-      "description": "GTA 6 atinge marco astronômico de pré-venda antes mesmo do especial na Netflix&nbsp;&nbsp;tudocelular.com",
-      "date": "2026-08-07",
-      "source": "TudoCelular • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Empresa por trás de ‘GTA 6’ fatura R$ 7 bilhões no trimestre, impulsionada pelas pré-vendas do jogo - rollingstone.com.b",
+      "title": "Empresa por trás de ‘GTA 6’ fatura R$ 7 bilhões no trimestre, impulsionada pelas pré-vendas do jogo - Rolling Stone Bras",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFNOYXZ2Z19tYi1NRkh6cHVTMFp1SWY5bDhoSTVod2xQTDAySWxQWXpEMFFQcUdUay1RdFh0cXRZcXZUbHhFc2JOLThfM0d4aThtY0Q3aXdZcnh5aDZDd0tRa3l0OUdkNkVMbGV1MU1veDViRVZfZzhfdHllSmswS2w0bFNUT09Rdjk5Q2JVQ3ZXT2JCUldBYjJsbHd6UHM5YWRwN3d5cTlnemllSVo0TDRzWkc4cnQ2NkZmMUFzNThDNUV2bWpjWFFINXV4a1E?oc=5",
-      "description": "Empresa por trás de ‘GTA 6’ fatura R$ 7 bilhões no trimestre, impulsionada pelas pré-vendas do jogo&nbsp;&nbsp;rollingstone.com.br",
+      "description": "Empresa por trás de ‘GTA 6’ fatura R$ 7 bilhões no trimestre, impulsionada pelas pré-vendas do jogo&nbsp;&nbsp;Rolling Stone Brasil",
       "date": "2026-08-07",
       "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Líder da Take-Two explica a parceria com a Netflix para mostrar GTA 6 - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVI5RTJRSkdCYTAxVWpmZ256TEhULXYyUFhhbndOOVo5aVN2M3EySEZ5SDQ4c1dLTkJyZVU0dk84emtJa2JpNnFqb01KeW5WX3I0TURRSnpFMlVvUFR1YkNDWTJPZXNZX0JLNGVSRm9BSFpZeU1WX1FmZkRtU25obmV1RzJNVUdtbERrSVBzNGRad1JDWV9YSHV3?oc=5",
-      "description": "Líder da Take-Two explica a parceria com a Netflix para mostrar GTA 6&nbsp;&nbsp;Eurogamer.pt",
-      "date": "2026-08-07",
-      "source": "Eurogamer.pt • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -161,25 +233,25 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Quer assistir ao trailer com gameplay de GTA 6 antes? Você terá que pagar | Voxel - tecmundo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcm5VTkNRTUJBb29WWVZoU0dRNERJMkdYWW1pNkd2OGVnQkZTcmlZam00SU84ZmY1dnFNZUg1VjVkMTVqSWJrR21xaUZjbDFWUEprVk9CbU93SDdQM1lYODdySGdrbFRtN3RWdVdYY1NNdXFLejBpM1lHWVBOQ1JSMUlRMmxNOHowVjJmUjJfYmlqQXVCMFVQTUV5d2F0UjBIOWtESGdMQmxnd0ZheGRrODRDNkhrVGZ5?oc=5",
-      "description": "Quer assistir ao trailer com gameplay de GTA 6 antes? Você terá que pagar | Voxel&nbsp;&nbsp;tecmundo.com.br",
+      "title": "Take-Two defende lançamento de trailer de GTA 6 na Netflix e exalta sucesso da pré-venda - TecMundo",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU45ZmhmbURJQ3NJM3NlSVo2cmViYXIybE1lRFBpUlZSMHo0QmsxaEZFeUlzb3NyY1dEZE9fS2ZZSjZKVVl0UWZBWXB2djRrbFdCeFJhR08tanZJMmhfUmpVWmJMdHA5U2RTY3RtNXNTeU9EWEw4anl2UGRLQk04Q2dRaGhHSXBSbnMzSUtvTGgzVGxLaFRXalY4ZHc1VUU3bGtyRVdmMWpKS19BYXBQSUM5U1BwSW90eHR4SVFxZFUxQmJOdzJnZm1nZUEzQQ?oc=5",
+      "description": "Take-Two defende lançamento de trailer de GTA 6 na Netflix e exalta sucesso da pré-venda&nbsp;&nbsp;TecMundo",
       "date": "2026-08-07",
-      "source": "IGN BR • GTA 6",
+      "source": "TecMundo • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Take-Two defende lançamento de trailer de GTA 6 na Netflix e exalta sucesso da pré-venda - tecmundo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU45ZmhmbURJQ3NJM3NlSVo2cmViYXIybE1lRFBpUlZSMHo0QmsxaEZFeUlzb3NyY1dEZE9fS2ZZSjZKVVl0UWZBWXB2djRrbFdCeFJhR08tanZJMmhfUmpVWmJMdHA5U2RTY3RtNXNTeU9EWEw4anl2UGRLQk04Q2dRaGhHSXBSbnMzSUtvTGgzVGxLaFRXalY4ZHc1VUU3bGtyRVdmMWpKS19BYXBQSUM5U1BwSW90eHR4SVFxZFUxQmJOdzJnZm1nZUEzQQ?oc=5",
-      "description": "Take-Two defende lançamento de trailer de GTA 6 na Netflix e exalta sucesso da pré-venda&nbsp;&nbsp;tecmundo.com.br",
+      "title": "Quer assistir ao trailer com gameplay de GTA 6 antes? Você terá que pagar | Voxel - TecMundo",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcm5VTkNRTUJBb29WWVZoU0dRNERJMkdYWW1pNkd2OGVnQkZTcmlZam00SU84ZmY1dnFNZUg1VjVkMTVqSWJrR21xaUZjbDFWUEprVk9CbU93SDdQM1lYODdySGdrbFRtN3RWdVdYY1NNdXFLejBpM1lHWVBOQ1JSMUlRMmxNOHowVjJmUjJfYmlqQXVCMFVQTUV5d2F0UjBIOWtESGdMQmxnd0ZheGRrODRDNkhrVGZ5?oc=5",
+      "description": "Quer assistir ao trailer com gameplay de GTA 6 antes? Você terá que pagar | Voxel&nbsp;&nbsp;TecMundo",
       "date": "2026-08-07",
-      "source": "IGN BR • GTA 6",
+      "source": "TecMundo • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "title": "CEO da Take-Two não descarta a possibilidade de GTA 6 em mídia física no futuro e insiste que a decisão não teve nada a ",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUi1yMXEtaENmYmRPMDZqcUJBeVBMZlNsNU1obmhoMUpVd0plUWljZDJCZlJ4aUVKVTNTdjNqNlJfUUJiQUFoczFjbFFVbzRqRzlNcnJJaUU4MHZGMnAybUlyMW5UUjJ6aHFqMG4tdlI2TTdHQ0Vuc3p5NDJ4VXhvSWhkMVoydm5lUFVNOFcyRFVSVEVqc3Y0NmdJcjVReDFBbGJuY1dyQ2NHRy15OVEtSS16dGloZWlNakduNVJSUERoTW15cFhqSjNUNWRZQmJhN1l3SEFib1M2VjNkNV9V?oc=5",
-      "description": "CEO da Take-Two não descarta a possibilidade de GTA 6 em mídia física no futuro e insiste que a decisão não teve nada a ver com preocupações com vazamentos&nbsp;&nbsp;IGN Brasil",
+      "description": "CEO da Take-Two não descarta a possibilidade de GTA 6 em mídia física no futuro e insiste que a decisão não teve nada a ver com preocupações com vazamentos&nbsp;&nbsp;br.ign.com",
       "date": "2026-08-07",
       "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -193,6 +265,22 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "Líder da Take-Two explica a parceria com a Netflix para mostrar GTA 6 - Eurogamer.pt",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVI5RTJRSkdCYTAxVWpmZ256TEhULXYyUFhhbndOOVo5aVN2M3EySEZ5SDQ4c1dLTkJyZVU0dk84emtJa2JpNnFqb01KeW5WX3I0TURRSnpFMlVvUFR1YkNDWTJPZXNZX0JLNGVSRm9BSFpZeU1WX1FmZkRtU25obmV1RzJNVUdtbERrSVBzNGRad1JDWV9YSHV3?oc=5",
+      "description": "Líder da Take-Two explica a parceria com a Netflix para mostrar GTA 6&nbsp;&nbsp;Eurogamer.pt",
+      "date": "2026-08-07",
+      "source": "Eurogamer.pt • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Grand Theft Auto 6: Netflix confirma data de vídeo estendido - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZW1IeHlEemRkUVZMVG5KV25hU0hVaGtMUTVpYnNzM2QzWDBKWEkxZG4zSGZRT1VWS3hhNGloRnRiZHUyWEVvc3hBOE1IbUpKYmFvVTNfQ29SU25qeF85Y0lZMFJ0TkRZY195R1ppUUp2Y3pQdzlEdEVvQkU?oc=5",
+      "description": "Grand Theft Auto 6: Netflix confirma data de vídeo estendido&nbsp;&nbsp;Última Ficha",
+      "date": "2026-08-07",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Rockstar emite péssima notícia para quem estava esperando o GTA 6 neste ano - Diário do Comércio",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkF6T3JpZHJ5WGhBWExKeHU2RWNmekpZd05SNVpidjNZSy1GTVlwVlRibnBXajE1Mm9fN1VjblFmZzI0N3BiYVhSTEVYRU1pT2RlYk1aWEhGeWczT1VudmR4dE9YWU9JUzRZbHV2U0xQTGszSmhWaHFEb3ZrR3lwa2VOb0hkMVg1cktDSHZBak1mNHh4cDhtOTJxSjhPLU04MVpuWlBWYXliQ1BBZFNYUjFB?oc=5",
       "description": "Rockstar emite péssima notícia para quem estava esperando o GTA 6 neste ano&nbsp;&nbsp;Diário do Comércio",
@@ -201,25 +289,9 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Grand Theft Auto 6: Netflix confirma data de vídeo estendido - ultimaficha.com.br",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZW1IeHlEemRkUVZMVG5KV25hU0hVaGtMUTVpYnNzM2QzWDBKWEkxZG4zSGZRT1VWS3hhNGloRnRiZHUyWEVvc3hBOE1IbUpKYmFvVTNfQ29SU25qeF85Y0lZMFJ0TkRZY195R1ppUUp2Y3pQdzlEdEVvQkU?oc=5",
-      "description": "Grand Theft Auto 6: Netflix confirma data de vídeo estendido&nbsp;&nbsp;ultimaficha.com.br",
-      "date": "2026-08-07",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Ações da Take-Two caem com guidance fraco antes do lançamento de GTA VI - Investing.com Brasil - Finanças, Câmbio e Inve",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeFJ5Zk84Q0NLU1hYOV9ueHZrOVI0LVNyVkJ3VDd6dUJRN3FsR01yY3dYS3VNd3hWbENnVGRILW9PODVoNk00XzBsNzVPaUJobXhIMlRyMmRmUTFRc0pfcUUyWEoxOVdqeGtqSGIxZm56d2NuZ29rV0pLX2VTN1hlbHYzSHdteWZqZmhBZFVJVHczTk5lZjhuX1BESUJzRkZQVnFJdXktVng2Umt2a2V1aVdRWWRZQ3lkaURCbHNJMXBqdXBa?oc=5",
       "description": "Ações da Take-Two caem com guidance fraco antes do lançamento de GTA VI&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "date": "2026-08-07",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Take-Two encerra ano fiscal com US$ 6,72 bilhões em vendas impulsionadas por GTA VI - timesbrasil.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmFuY0dfbno1ZzdZQmg2UUIyVWVYMlAwaTJ2UVp0QjlTemRBMlBOQzYzZktOSEtfTnZ2RjhaTGxvcTBZQ1FaLWdxaTBGX2FnM211TW1PNlc4cWxsZ1lSODdKRFk1WWFad0RTV2dtMmhkeXU4VFFhQk1oOGVHZzhmNlh4cnlYVno5LTZvVjFOY05RQXlXWjk4cWJkZE43elZ1eGx1Yy10amVNa0FDSzFtUkVyS2t0R0h2R2VhdVdrRUlYZ3JyNlFubA?oc=5",
-      "description": "Take-Two encerra ano fiscal com US$ 6,72 bilhões em vendas impulsionadas por GTA VI&nbsp;&nbsp;timesbrasil.com.br",
       "date": "2026-08-07",
       "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -233,27 +305,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Take-Two defende estratégia de marketing de GTA 6 na Netflix - einerd.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsaEVGYzJueDM4N1FkSDhBVkJNYzlSNXo5LUxydko1MmttOTRXRy1MLXJLNDcwRGFGelEyNDFna0lMR3lBcUVEZndQWG02RHZGX1J5S1oyNDdaRl9FRnItN3dpWXFqc2RKc1I4R1djWjFSaGhjX0E?oc=5",
-      "description": "Take-Two defende estratégia de marketing de GTA 6 na Netflix&nbsp;&nbsp;einerd.com",
-      "date": "2026-08-07",
-      "source": "einerd.com • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "CEO da Take-Two diz que preço de GTA 6 se provará uma ‘pechincha’ - nosbastidores.com.br",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3p5ZUdFdzNIaUZTQ1FxZmUtUmV3RUt0LUlmM2x4bVFVekk3dmZOdU5WeG9XMVluZmdzNUw4TmppTFdKRlhESlI5cUdGUjJTd0NxLWlyZkZsYS1EU2ctbWcxeGNrZTIwVXlKbmFscTQ1bWpLLXQ3S1F4Q1Zrbl9Ya0RLbjlKVVE2YktNSGhXVmVQWDhaZVhRSA?oc=5",
       "description": "CEO da Take-Two diz que preço de GTA 6 se provará uma ‘pechincha’&nbsp;&nbsp;nosbastidores.com.br",
       "date": "2026-08-07",
       "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Take-Two chama parceria entre GTA VI e Netflix de “inovadora” –... - Combo Infinito",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHkxUk16WmJoek0tQWJET3NKRVpKWG5PbVdSNDJlaUowX3paZnFqeXk5Tm15R2QwTDMxamV5TU1pajhEN2NmV1ljX1JRSjVUNHdOb0NxNXozeVhrMDVqR0FBUktUQXEtaGRFNU45YnRyaGctSmthZC1sc0RoSEt1YkNtZDc5WkM3bGQzMGRhOA?oc=5",
-      "description": "Take-Two chama parceria entre GTA VI e Netflix de “inovadora” –...&nbsp;&nbsp;Combo Infinito",
-      "date": "2026-08-07",
-      "source": "Combo Infinito • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -265,11 +321,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Rockstar anuncia novo vídeo de GTA 6 para agosto - Diário do Centro do Mundo",
+      "title": "Rockstar anuncia novo vídeo de GTA 6 para agosto - diariodocentrodomundo.com.br",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFdRWHhldFlOeEtrSjMzRnNzRVhtV24xcmtuOWJxaVU2aHJaZzduQXBlNE9NWVpnekNTU015NHVPZE9ZUHQxWlZNMngyMGp5S1VoVzBmU3RwSEFZMjRuYk43dWxSUW5pRFRVNXZGZXJhRmNjb2trOGpncGdWU3pLaWtFZVNyTFMwNGF3dw?oc=5",
-      "description": "Rockstar anuncia novo vídeo de GTA 6 para agosto&nbsp;&nbsp;Diário do Centro do Mundo",
+      "description": "Rockstar anuncia novo vídeo de GTA 6 para agosto&nbsp;&nbsp;diariodocentrodomundo.com.br",
       "date": "2026-08-07",
-      "source": "Diário do Centro do Mundo • GTA 6",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -281,19 +337,19 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Take-Two: mídia física de jogos como Grand Theft Auto VI \"não faz sentido\" para o público, indica CEO - gameblast.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0E4S0tmV0h5OEFTTEo0MXY3ZjZhSkV3MVFCWnAzQ3d2bUo2bUF6N1pqLUFEMDRyTlRlNVhGVUt5VDJlMGZuM2ZMRW45UWlKb2t2dnRCN1ZxQVJjcXdZNGU0VGlKSnpUOEgzV1ZlaGJLM2FSQ240dF9iMkt1OERMRTNZSy1tc2pkVXc4MGQzQXRwT1dEandRcHBVU2hCNGI5QS05b1JxU05ta1k4bkZkdHYwYU9aTzJnWFBNLXJIc1NCUW9QdEU2VGdsUGI2T1JIQ015VlE1cnpqbnVU?oc=5",
-      "description": "Take-Two: mídia física de jogos como Grand Theft Auto VI \"não faz sentido\" para o público, indica CEO&nbsp;&nbsp;gameblast.com.br",
+      "title": "Take-Two encerra ano fiscal com US$ 6,72 bilhões em vendas impulsionadas por GTA VI - timesbrasil.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmFuY0dfbno1ZzdZQmg2UUIyVWVYMlAwaTJ2UVp0QjlTemRBMlBOQzYzZktOSEtfTnZ2RjhaTGxvcTBZQ1FaLWdxaTBGX2FnM211TW1PNlc4cWxsZ1lSODdKRFk1WWFad0RTV2dtMmhkeXU4VFFhQk1oOGVHZzhmNlh4cnlYVno5LTZvVjFOY05RQXlXWjk4cWJkZE43elZ1eGx1Yy10amVNa0FDSzFtUkVyS2t0R0h2R2VhdVdrRUlYZ3JyNlFubA?oc=5",
+      "description": "Take-Two encerra ano fiscal com US$ 6,72 bilhões em vendas impulsionadas por GTA VI&nbsp;&nbsp;timesbrasil.com.br",
       "date": "2026-08-07",
       "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Para ver GTA VI primeiro, fã terá que pagar assinatura da Netflix - Estado de Minas",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGp3eUNTd05tX3lZeEQweEROS0tXZ1VaQkdHa2NNUDQwWk1tZEJLNzVRVHNmR29najAzdGVqM2R1dVlRX20yd0ZzNGs5RzdENTRoUlcxbkp2WGtRYU9WTWtoVUFkbmlxVVhzS3RmRXZfbHIzWS1KeEJFR1FYZkxfUDZNbzFiVl9BRGktZ1lkY0FGYzZVckh1YnMydHNXLWt3TV9tVzNqSm0za3AwWG1sU2lTQnJ0Y3ZN0gG-AUFVX3lxTFBCY0ZYdmstUm9IRVdwdUZibHhkOWJmU05FNU1BdlVOM1dDM1JCQkw4M2ZyaExVSEhPUVNadDhsbFZNMlFYemZ5MUE3V0JFeWdhQVZJcnE3QlB5ekRsXzRHTVk2MEdwaWlpUWFiQ3BMVGtmREpMZWlVOU1Mb0NXV08tdXNCeGdXR0tPZ3VhWmo4cUI4N3RpOEN1WGxoTUJiem9SQkRUdWFLR1Y4MHF3TjYzRU1LUkpfLTRHTkRQUGc?oc=5",
-      "description": "Para ver GTA VI primeiro, fã terá que pagar assinatura da Netflix&nbsp;&nbsp;Estado de Minas",
+      "title": "Take-Two: mídia física de jogos como Grand Theft Auto VI \"não faz sentido\" para o público, indica CEO - gameblast.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0E4S0tmV0h5OEFTTEo0MXY3ZjZhSkV3MVFCWnAzQ3d2bUo2bUF6N1pqLUFEMDRyTlRlNVhGVUt5VDJlMGZuM2ZMRW45UWlKb2t2dnRCN1ZxQVJjcXdZNGU0VGlKSnpUOEgzV1ZlaGJLM2FSQ240dF9iMkt1OERMRTNZSy1tc2pkVXc4MGQzQXRwT1dEandRcHBVU2hCNGI5QS05b1JxU05ta1k4bkZkdHYwYU9aTzJnWFBNLXJIc1NCUW9QdEU2VGdsUGI2T1JIQ015VlE1cnpqbnVU?oc=5",
+      "description": "Take-Two: mídia física de jogos como Grand Theft Auto VI \"não faz sentido\" para o público, indica CEO&nbsp;&nbsp;gameblast.com.br",
       "date": "2026-08-07",
-      "source": "Estado de Minas • GTA 6",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -303,65 +359,37 @@
       "date": "2026-08-07",
       "source": "IGN Portugal • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Netflix explica parceria com GTA VI e faz promessa ambiciosa - DOL",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2JGYVVrVXJxbUtNMi1nWFJLQkc0dkRGbXdsal83Y2podjNtQVZxdkNNLWV1QUp2eHNVR3RtMF82ek9UNzdEMGd4dEU4VGhFeC1TWlNnTVhGdExmSjRndGlrdVdwV1gwa0NiWmo2SmtvNVVETDREeHJGTGVlUXRkNWFCYjFpNVZla0NrclJfS0xaX2RkMUhSYjhxWnBFdWs0b3gxcjlKS050Y2fSAbMBQVVfeXFMTzFUSldPdlZ1NWtOREhPZnU0blp4eDFrNmM4aWxhZktwOUljTnRZd0V5a3JNV3U4dzRNclZlbndLeXgzZW04ZkgwSUVpUW5zVFpwZ2lCUUdkUTVMNUw2UEU4SDlaR1VoanYtZC10VC1YSklaRF9KbXFmY2VEdDNFNzVtRVhVckxLX1VCbndwa01sVkh1OHJtd0hRTFIwRlZBX3hGZXYzeHZPZmRHY3NCN3YxSTQ?oc=5",
-      "description": "Netflix explica parceria com GTA VI e faz promessa ambiciosa&nbsp;&nbsp;DOL",
-      "date": "2026-08-07",
-      "source": "DOL • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Take-Two aposta em nova apresentação de GTA 6 para aumentar expectativa antes do lançamento - Central Xbox",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMHNoNzlUd3JmQVVMWTlGS3FJQ1FCdnFXNC1vd2JZVmd5c3NvQUNJVnJuSXVYQUs2Vko2a3RRcnM0Uzd4NkRtTlJqM3dQSTZKSXl5TkMzdkZienRmMm1tSWdjbEtKU3F1ZnN6Z3FHWkRialE1RWZvTTJjc3FSLVVDak52OEVLRHRUT3ZOcUlyZENhRDlRN3NrUEN4M29RaGg5VkVTTnFtVXp5QnBPUkJJRGpxbWh6N1lRN0hhWnR2TXZOUzJzOEU3ZHRn?oc=5",
-      "description": "Take-Two aposta em nova apresentação de GTA 6 para aumentar expectativa antes do lançamento&nbsp;&nbsp;Central Xbox",
-      "date": "2026-08-07",
-      "source": "Central Xbox • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 atinge números de pré-venda excepcionais para a Take-Two - ultimaficha.com.br",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNlE5dldOa2xDMjVsN1ZkZnVrSFFsZnFkSjIxbGMtR3lBamRjT3BENlJ1YWV5THFXa3FDT0Q0SGVKRTljbUlKOXVxcF9FeFdkVklWLUM0c1FzUmZOWG9seXdPbnFJbVBYVjlKeTFYSnhVMzVIdEtv?oc=5",
-      "description": "GTA 6 atinge números de pré-venda excepcionais para a Take-Two&nbsp;&nbsp;ultimaficha.com.br",
-      "date": "2026-08-07",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "CEO da Take-Two minimiza polêmicas envolvendo GTA 6 e diz não estar preocupado com impacto no lançamento - Central Xbox",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZmhjdUVnMkVESW8tS3ZRVWpDZVgtSjNUUy04ZXpqNmlxM29zcFgzVWsxdURpbXNpQzVQZk1lWkN2OW5KaUtlNXBQcGhGYlpUd0ZQbWtfUUQzcDZwSzlhZy00cUg1YW81MWNZczg0am1uNDhjWklSSUo3SGhKRlRSSGVfeWpCM015X1E0aEg5WEV3MXJMTDNkaEJOM09lN1JFcHFZWklpZVpvd1R5RWl2bnc5azdORkFWVnBaMWVBOXVnMTdCazdhVndVcENxVHFuQW96Q0lDRUFqVjA?oc=5",
-      "description": "CEO da Take-Two minimiza polêmicas envolvendo GTA 6 e diz não estar preocupado com impacto no lançamento&nbsp;&nbsp;Central Xbox",
-      "date": "2026-08-07",
-      "source": "Central Xbox • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Rockstar Games e Netflix estreiam “Grand Theft Auto VI: An Extended Look” - Hypebeast",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlRqRUo0bGtITEY5TV9OU3hFYmk4TWU0dnJNU2Q2VVNlS3BISEt1cVNUTFhuTFIwZVFVNjFYQlRIYm9VenJEX01lanI0NVFCM3ZGUzJmTzg0anZlU2hMWk1DTXUxMGxQajBRUzFCSmxhTXRYVERXOTNtYmJCc2U0aXo0YWFzMHhaZlptYXVlUmZ0RGxqWFItaWJPbTN3S0gxWkJsNnE3REFCSHdmVUpfVnpXRFdiOE9mZWc?oc=5",
-      "description": "Rockstar Games e Netflix estreiam “Grand Theft Auto VI: An Extended Look”&nbsp;&nbsp;Hypebeast",
-      "date": "2026-08-07",
-      "source": "Hypebeast • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Trailer de GTA VI terá atrasado proposital de 6 horas no Youtube - observatoriotech.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUZUZ3dFVmtDVUp0cTdUdjhlSGtYMnRiVmx5Vzg4bm91enJBVmlKRi1CamVmMFpHS2xNUWloMmFIX3JmcWVPVUFJR3gtdWtZQUtZRi1DX1U1ZVp3Q2c2NFhSOERObmN2azhYSTVDQ3pZSWxEYUhlTlBMVmtzVHpHaG1jYzFISzdzVktvbDZvSGVvS3c5Z3JtWU1hWXpxYlNQT0c1QWFXRXk?oc=5",
-      "description": "Trailer de GTA VI terá atrasado proposital de 6 horas no Youtube&nbsp;&nbsp;observatoriotech.com.br",
-      "date": "2026-08-07",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Pré-vendas de GTA 6 estão em níveis nunca vistos antes, afirma CEO da Take-Two - Central Xbox",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTZCWU9ha21hUFc0Z1BkTjlOS2EyanZxTWJQNF9ERUlWQkhsOVpFVEU4cmN4OTNQZEs2VUVJcVdSRU1tQi1HdWtZNV9Zb1hSRVptcTZaWGpNdW85eGJfTm1HZmNxYUxwM1lQS2ZWRVNpVmJ3VHh6dXZGT09WRG1XUy1uMGwzU0FoeUZGZHkwcGN0aDVuQjB1YldlX3VJNmdmSTVYQTZQdlNvMDNfUGp5NzJ1RlNQM3M?oc=5",
-      "description": "Pré-vendas de GTA 6 estão em níveis nunca vistos antes, afirma CEO da Take-Two&nbsp;&nbsp;Central Xbox",
-      "date": "2026-08-07",
-      "source": "Central Xbox • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
   "videos": [
+    {
+      "title": "COMO VAI SER O MAR DO GTA 6? 🤔🤔",
+      "link": "https://youtube.com/watch?v=okf13g3EiBM",
+      "thumbnail": "https://i.ytimg.com/vi/okf13g3EiBM/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "O MAIOR PROBLEMA DAS REDES SOCIAIS!",
+      "link": "https://youtube.com/watch?v=u-mqFuEy9gk",
+      "thumbnail": "https://i.ytimg.com/vi/u-mqFuEy9gk/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "7 VÍDEOS OU MAIS TODOS OS DIAS VAI VOLTAR 🥰🥰🥰",
+      "link": "https://youtube.com/watch?v=Aziv6U65ziU",
+      "thumbnail": "https://i.ytimg.com/vi/Aziv6U65ziU/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "FISCAL DE HYPE 🧐🧐🧐",
+      "link": "https://youtube.com/watch?v=MiUWeH4gH60",
+      "thumbnail": "https://i.ytimg.com/vi/MiUWeH4gH60/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-08-07"
+    },
     {
       "title": "🚨 PLANTÃO GTA 6 - REUNIÃO DE INVESTIDORES, QUANTO GTA 6 JÁ VENDEU?",
       "link": "https://youtube.com/watch?v=ik98HiST4Lk",
@@ -377,11 +405,11 @@
       "date": "2026-08-06"
     },
     {
-      "title": "O MAIOR PROBLEMA DAS REDES SOCIAIS!",
-      "link": "https://youtube.com/watch?v=u-mqFuEy9gk",
-      "thumbnail": "https://i.ytimg.com/vi/u-mqFuEy9gk/hqdefault.jpg",
+      "title": "ROCKSTAR ANUNCIA TRAILER DE GTA 6 NA NETFLIX 😱😱😱😱",
+      "link": "https://youtube.com/watch?v=RqH7PhRBbeY",
+      "thumbnail": "https://i.ytimg.com/vi/RqH7PhRBbeY/hqdefault.jpg",
       "channel": "GamplayRJ",
-      "date": "2026-08-08"
+      "date": "2026-08-06"
     },
     {
       "title": "⚠️ GTA 6 TRAILER 3 OFICIALMENTE ANUNCIADO NA NETFLIX",
@@ -391,44 +419,16 @@
       "date": "2026-08-06"
     },
     {
-      "title": "7 VÍDEOS OU MAIS TODOS OS DIAS VAI VOLTAR 🥰🥰🥰",
-      "link": "https://youtube.com/watch?v=Aziv6U65ziU",
-      "thumbnail": "https://i.ytimg.com/vi/Aziv6U65ziU/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Wolverine será extremamente violento e EA finalmente vendida",
-      "link": "https://youtube.com/watch?v=UYBkgQyEw5k",
-      "thumbnail": "https://i.ytimg.com/vi/UYBkgQyEw5k/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "MECCHA CHAMELEON jogando pela PRIMEIRA VEZ",
-      "link": "https://youtube.com/watch?v=iE1Co6NdKlM",
-      "thumbnail": "https://i.ytimg.com/vi/iE1Co6NdKlM/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "FISCAL DE HYPE 🧐🧐🧐",
-      "link": "https://youtube.com/watch?v=MiUWeH4gH60",
-      "thumbnail": "https://i.ytimg.com/vi/MiUWeH4gH60/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "FLANKLIN ABANDONA A QUEBRADA MUITO RÁPIDO NO GTA 5 ❌",
-      "link": "https://youtube.com/watch?v=i0ogjdhe3Sc",
-      "thumbnail": "https://i.ytimg.com/vi/i0ogjdhe3Sc/hqdefault.jpg",
+      "title": "GTA 6 NA NETFLIX E NOVO TRAILER, EA É FINALMENTE VENDIDA - #FGN #239",
+      "link": "https://youtube.com/watch?v=dw0Q3C7YCNM",
+      "thumbnail": "https://i.ytimg.com/vi/dw0Q3C7YCNM/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-08-08"
     },
     {
-      "title": "GTA 6 NA NETFLIX E NOVO TRAILER, EA É FINALMENTE VENDIDA - #FGN #239",
-      "link": "https://youtube.com/watch?v=dw0Q3C7YCNM",
-      "thumbnail": "https://i.ytimg.com/vi/dw0Q3C7YCNM/hqdefault.jpg",
+      "title": "QUANTO VAI CUSTAR O GTA 7? 🤔🤔🤔",
+      "link": "https://youtube.com/watch?v=YB1E-_8K53s",
+      "thumbnail": "https://i.ytimg.com/vi/YB1E-_8K53s/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-08-08"
     },
@@ -440,20 +440,6 @@
       "date": "2026-08-07"
     },
     {
-      "title": "NETFLIX ❌ ROCKSTAR",
-      "link": "https://youtube.com/watch?v=B7jXBG5MLTw",
-      "thumbnail": "https://i.ytimg.com/vi/B7jXBG5MLTw/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "OVO FRITO DENTRO DO XBOX 🥚🥚🥚",
-      "link": "https://youtube.com/watch?v=CtQUhRTiG30",
-      "thumbnail": "https://i.ytimg.com/vi/CtQUhRTiG30/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-08-07"
-    },
-    {
       "title": "PLANTÃO GTA 6 - LIGAÇÃO DE INVESTIDORES da ROCKSTAR, TEREMOS MAIS NOVIDADES DE GTA 6? - #flowgames",
       "link": "https://youtube.com/watch?v=zWTqDYYktAM",
       "thumbnail": "https://i.ytimg.com/vi/zWTqDYYktAM/hqdefault.jpg",
@@ -461,18 +447,32 @@
       "date": "2026-08-07"
     },
     {
-      "title": "A MAIOR LIVE DO FLOW GAMES 😱",
-      "link": "https://youtube.com/watch?v=VkVdurvHduw",
-      "thumbnail": "https://i.ytimg.com/vi/VkVdurvHduw/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-08-06"
-    },
-    {
       "title": "GTA 6 ROCKSTAR ANUNCIA DATA DO TRAILER ESTENDIDO - #flowgames",
       "link": "https://youtube.com/watch?v=SvpD80jiahw",
       "thumbnail": "https://i.ytimg.com/vi/SvpD80jiahw/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-08-06"
+    },
+    {
+      "title": "MORTAL KOMBAT SHAOLIN MONKS VALE A PENA EM 2026? #flowgames",
+      "link": "https://youtube.com/watch?v=GjEtdfiUvk4",
+      "thumbnail": "https://i.ytimg.com/vi/GjEtdfiUvk4/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "FLANKLIN ABANDONA A QUEBRADA MUITO RÁPIDO NO GTA 5 ❌",
+      "link": "https://youtube.com/watch?v=i0ogjdhe3Sc",
+      "thumbnail": "https://i.ytimg.com/vi/i0ogjdhe3Sc/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "NETFLIX ❌ ROCKSTAR",
+      "link": "https://youtube.com/watch?v=B7jXBG5MLTw",
+      "thumbnail": "https://i.ytimg.com/vi/B7jXBG5MLTw/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-08-07"
     },
     {
       "title": "Flow Games Atacado, AI Cancela Creator, Gamers Ignorados &amp; Mais! | Ep. 126 feat. @IsadoraBasile ",
@@ -531,5 +531,5 @@
       "date": "2026-06-29"
     }
   ],
-  "updated_at": "2026-08-08T18:33:05.822181+00:00"
+  "updated_at": "2026-08-09T06:50:42.570691+00:00"
 }
