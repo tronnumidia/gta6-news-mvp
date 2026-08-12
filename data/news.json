@@ -1,11 +1,59 @@
 {
   "news": [
     {
-      "title": "O que GTA VI e a Netflix estão nos ensinando sobre atenção - Fast Company Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTA1akJRT21KTUw5MXpXd2Y5Zm1oT2pmaWtOMWZWVnZmTEVCZXJHNWFsMC1LLTFSakV2QzdaTU1rV0tLdnpKLUNLYmwtU1JzdmpUTFczTHNWb3JkT2pDQl9Wa1dzTE1OTFBlM3Zjb1c1QldnWkJ6Njc5QUFVNHRqRV9KUXpwQjRtV09oTG95MmxzM1BDZGhtY2Qxaw?oc=5",
-      "description": "O que GTA VI e a Netflix estão nos ensinando sobre atenção&nbsp;&nbsp;Fast Company Brasil",
+      "title": "Control Resonant é esperança da Remedy após queda nas receitas",
+      "link": "https://meups.com.br/noticias/as-vesperas-de-control-resonant/",
+      "description": "Control Resonant será lançado em 24 de setembro para PlayStation 5, Xbox Series X&#124;S e PC.",
+      "date": "2026-08-12",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/01/CONTROL-RESONANT.jpg"
+    },
+    {
+      "title": "Chefe da Xbox hypa The Elder Scrolls 6 após ver o jogo ao vivo",
+      "link": "https://meups.com.br/noticias/the-elder-scrolls-6-xbox-teaser-hype/",
+      "description": "Asha Sharma, chefe da Xbox, pode ter deixado escapar uma importante pista sobre o nome completo de The Elder Scrolls 6.",
+      "date": "2026-08-12",
+      "source": "MeuPS • Xbox",
+      "image": "https://meups.com.br/wp-content/uploads/2020/10/the-elder.jpg"
+    },
+    {
+      "title": "Jogos para XBOX em oferta com até 90% de desconto – veja lista!",
+      "link": "https://www.adrenaline.com.br/games/xbox/jogos-para-xbox-em-oferta-com-ate-90-de-desconto-veja-lista-4/",
+      "description": "Os interessados já podem aproveitar as ofertas na loja do Xbox por tempo limitado e adquirir os jogos da lista de desejos",
+      "date": "2026-08-12",
+      "source": "Adrenaline • Xbox",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/10/Black-Myth-Wukong-FSR-4-Melhorias-Desempenho-640x400.jpg"
+    },
+    {
+      "title": "Phantom Blade Zero recebe novo trailer e inicia pré-venda no PS5 e PC",
+      "link": "https://www.adrenaline.com.br/games/pc-games/phantom-blade-zero-recebe-novo-trailer-e-inicia-pre-venda-no-ps5-e-pc/",
+      "description": "Saiba quanto Phantom Blade Zero está custando na pré-venda e garanta a sua cópia do game para o PlayStation 5 e PC",
+      "date": "2026-08-12",
+      "source": "Adrenaline • PlayStation",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/phantom-blade-zero-640x400.webp"
+    },
+    {
+      "title": "Sony confirma novo State of Play de Phantom Blade Zero na próxima semana",
+      "link": "https://www.adrenaline.com.br/games/playstation/phantom-blade-zero-state-of-play/",
+      "description": "Novo exclusivo de ação da S-Game terá apresentação dedicada com cerca de 20 minutos de gameplay inédito antes do lançamento em outubro",
+      "date": "2026-08-12",
+      "source": "Adrenaline • PlayStation",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/06/phantom-blade-0-novo-trailer-adiado-640x400.jpg"
+    },
+    {
+      "title": "CEO diz que maioria das pré-compras de GTA VI são da Ultimate Edition - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3VIYnR3X3hpbGZWRy1Xcm9OUzdzWVZ3Tk1kZ1J3Y0pFSl9QNV9RWFlla2ZkRUtYcVpqVFZ2dldpY0VvZnllNl9RXzA3TGt0NmhUaXpJZ2kxMkZ3TmVwTHROX1didndvS0xhNXdUeUhzeHhaQTJsX3ZWWFJtS0JuNnRXbm84SHREMkZvUnZIVDFMVm1fSC12V1ZPbw?oc=5",
+      "description": "CEO diz que maioria das pré-compras de GTA VI são da Ultimate Edition&nbsp;&nbsp;PSX Brasil",
       "date": "2026-08-11",
       "source": "IGN BR • GTA 6",
+      "image": "https://psxbrasil.com.br/wp-content/uploads/2026/06/GTA6PRE-1024x576.jpg"
+    },
+    {
+      "title": "GTA 6 em disco: Rockstar confirma mídia física? - SpaceMoney",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xNFRPdVg3THVrRVdMdGVBYWY1bFcwbWtRMFRwNXV5TTZ4RlFSX1VfaU1fZzhmMEVHMFlFTjZXYWphdjJFZUYwQnZhWWlRZWpCNW84NFFIZlRyS29UTGpfQkRjMXM0OGtQRHNwRDlUVE5tY2k1Ukd2cWw1MVFDR28?oc=5",
+      "description": "GTA 6 em disco: Rockstar confirma mídia física?&nbsp;&nbsp;SpaceMoney",
+      "date": "2026-08-11",
+      "source": "SpaceMoney • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -17,19 +65,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "CEO diz que maioria das pré-compras de GTA VI são da Ultimate Edition - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3VIYnR3X3hpbGZWRy1Xcm9OUzdzWVZ3Tk1kZ1J3Y0pFSl9QNV9RWFlla2ZkRUtYcVpqVFZ2dldpY0VvZnllNl9RXzA3TGt0NmhUaXpJZ2kxMkZ3TmVwTHROX1didndvS0xhNXdUeUhzeHhaQTJsX3ZWWFJtS0JuNnRXbm84SHREMkZvUnZIVDFMVm1fSC12V1ZPbw?oc=5",
-      "description": "CEO diz que maioria das pré-compras de GTA VI são da Ultimate Edition&nbsp;&nbsp;PSX Brasil",
+      "title": "O que GTA VI e a Netflix estão nos ensinando sobre atenção - Fast Company Brasil",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTA1akJRT21KTUw5MXpXd2Y5Zm1oT2pmaWtOMWZWVnZmTEVCZXJHNWFsMC1LLTFSakV2QzdaTU1rV0tLdnpKLUNLYmwtU1JzdmpUTFczTHNWb3JkT2pDQl9Wa1dzTE1OTFBlM3Zjb1c1QldnWkJ6Njc5QUFVNHRqRV9KUXpwQjRtV09oTG95MmxzM1BDZGhtY2Qxaw?oc=5",
+      "description": "O que GTA VI e a Netflix estão nos ensinando sobre atenção&nbsp;&nbsp;Fast Company Brasil",
       "date": "2026-08-11",
       "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Netflix terá janela exclusiva para conteúdo de GTA 6 antes dos canais da Rockstar - MKT Esportivo",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWpyV2NqU3YtalZUdzUzd3c0UjhsN2p5R1lCNmtDcXc5emFqel9Ra1JNOFFvSnRVakVSRlpFOURRck9jR1BBUGtPT29qSGIyTl9OTTM4YkZYLU5Zd0o2Q3paSlc3d3RZUWNVSUtIaFhJRVRITUtwb1p6M0lqa0c2R2kwRV9ISHcxQUVIUnRNSllpakxXNEtheGVOS2liUnVNcktlanNWVzBRbmczUUd3bHZDQmxSNldQeHpr?oc=5",
-      "description": "Netflix terá janela exclusiva para conteúdo de GTA 6 antes dos canais da Rockstar&nbsp;&nbsp;MKT Esportivo",
+      "title": "Grand Theft Auto VI não terá descontos ou cortes de preço tão cedo, afirma CEO da Take-Two - GameBlast",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDFwTlh5YmFzaUZFT2puQzZkb043enJWRDY4bXFtUWZVNzR1RXpBWTNhSHlpV2JuS003S09XR1gwVlVPZGNUMVpVdzVCTnFaWWpROUoyM3J6OS1NU2xpQ1J5aXlCNUdpOVVzTGIwbUdHZFYzaWQxM0hJV1BRUHV4NDVBQktyeEI3TEQzWERJWXcyY0JzQUk0Q2tHbVNiRVFXQVBDUFZQRmU4TTZXZVVnbTVpQkMyQ0VIZWVsbnlROWpZVVphbFVkUnJtSQ?oc=5",
+      "description": "Grand Theft Auto VI não terá descontos ou cortes de preço tão cedo, afirma CEO da Take-Two&nbsp;&nbsp;GameBlast",
       "date": "2026-08-11",
-      "source": "MKT Esportivo • GTA 6",
+      "source": "GameBlast • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA VI surpreende com procura pela Ultimate - gamerpoint.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZE42MzRmbFpvRUdkajl6R0thT2NkemNtaFI1OG94N0VQbHd5X01Ud2FKR3JkaENJMTBUbEtiUl9hRFJjUXlyR0puZzQ2cFBCVUtzOUFsdHhNdkM0OUUxSmdlR1NqOEUycUVYeTlXYmE3S2RETTJneWRXT2lrUnZmY2dwb2ZqWEwweXJn?oc=5",
+      "description": "GTA VI surpreende com procura pela Ultimate&nbsp;&nbsp;gamerpoint.com.br",
+      "date": "2026-08-11",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -38,6 +94,14 @@
       "description": "GTA 6: Ultimate Edition de R$ 550 vende mais que a versão padrão na pré-venda&nbsp;&nbsp;TudoCelular.com",
       "date": "2026-08-11",
       "source": "TudoCelular • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Netflix terá janela exclusiva para conteúdo de GTA 6 antes dos canais da Rockstar - mktesportivo.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWpyV2NqU3YtalZUdzUzd3c0UjhsN2p5R1lCNmtDcXc5emFqel9Ra1JNOFFvSnRVakVSRlpFOURRck9jR1BBUGtPT29qSGIyTl9OTTM4YkZYLU5Zd0o2Q3paSlc3d3RZUWNVSUtIaFhJRVRITUtwb1p6M0lqa0c2R2kwRV9ISHcxQUVIUnRNSllpakxXNEtheGVOS2liUnVNcktlanNWVzBRbmczUUd3bHZDQmxSNldQeHpr?oc=5",
+      "description": "Netflix terá janela exclusiva para conteúdo de GTA 6 antes dos canais da Rockstar&nbsp;&nbsp;mktesportivo.com",
+      "date": "2026-08-11",
+      "source": "mktesportivo.com • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -73,22 +137,6 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Grand Theft Auto VI fãs fazem a pré-venda da edição mais cara apesar dos desafios econômicos - Gamereactor",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcC1qVW1QWDVEX25ZTlAtT0hwNHZ1am1GYmJ5dk5GNFM0RGdzazN5dXY3WFNPaU42UVdCbUJVbzFremdiR3FTUFJsYVFYMENrSXp4eEhPMTVPQmdybFJwZmh6ZGJCQXpvUFdUMEV4d0RxcUZTOTMwQi1ac3dYaU8zQXExTnVVQ0ZZUHVVUWNfaVIwTWlGdDEwaEJLYnhWT2Qta1NtSmtRVFFDTk12NExTRHVaR240cTVSellneDhhWGFlblM3angw?oc=5",
-      "description": "Grand Theft Auto VI fãs fazem a pré-venda da edição mais cara apesar dos desafios econômicos&nbsp;&nbsp;Gamereactor",
-      "date": "2026-08-11",
-      "source": "Gamereactor • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA VI Ultimate Edition está vendendo mais que a versão padrão, diz Take-Two - MeuPlayStation",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JcEpXb1VYRFhTZlI0OGUwY0Q3SmU1S3BwWjFoU0MxaV9WdGNIY3BDVXUzTHktUkpTN2xsbmtnUWd3bXpjSFRZQXI4Z05LSXlKZUZoVmVhLTRkS0F5SkpGUkJLZXROZmJEWE5iWnA5NVlJTVdBT2ViN0gxZ08?oc=5",
-      "description": "GTA VI Ultimate Edition está vendendo mais que a versão padrão, diz Take-Two&nbsp;&nbsp;MeuPlayStation",
-      "date": "2026-08-11",
-      "source": "MeuPlayStation • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Esperando promoção? GTA 6 não deve ficar mais barato tão cedo, avisa CEO da Take-Two - GameVicio",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sa1lwczNEVE1KbnlzR0FCaFY1cm1WQkxPYTVnOVpvSl9ZLXNzdUt4RThTMFdVWjgtTHItbEJVTjE5Q2ZSdS1ScnpGLWZ4SUhjemNGek12b1BUekdvVG5oc1lNekFVcmZTTi0zY1NYTdIBdEFVX3lxTE40ZXFjMTh0Y1A1dENjeEdGaGZLZ1AxLXVDN2hFOFJxOEtwMEpWTDVhQW03Z25oc1hqQnlDNVhyS1lHX0Z4WW41alpoREV6MGhNVG5hN1lVZnpJRGhiTFNWYndqTEQ1ZmE0U0lxLVQwZThnd2dt?oc=5",
       "description": "Esperando promoção? GTA 6 não deve ficar mais barato tão cedo, avisa CEO da Take-Two&nbsp;&nbsp;GameVicio",
@@ -116,6 +164,22 @@
       "title": "GTA 6 não deve receber descontos tão cedo, afirma CEO da Take-Two... - Combo Infinito",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTdxM2N3bTBWZkxRNnhoQV9mWVM4aG01YjJ1X2FiWGhCNlpOOEJlX3cyNDdlUnNPenVTUW53U0lyWmRlVEFBcVJmYWE4TkcwS1VUT3dmMzNtWXdzMlk2NTRCOUJIT1VNZENPc1pqNTVkcGlkc3RTRlpiTHVHQURzUHRIbVRybUN4Yzd6aXBaWFVLdw?oc=5",
       "description": "GTA 6 não deve receber descontos tão cedo, afirma CEO da Take-Two...&nbsp;&nbsp;Combo Infinito",
+      "date": "2026-08-11",
+      "source": "Combo Infinito • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "O senhor pode adquirir o GTA 6 com 20% de desconto com o desconto para estudantes - Notebookcheck.info",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT05kWkhKQjJleDBuVnlHTW1uUXBJU01rejRHelc3TVVMOVhLTFBIQ3FiblFUVWxzNjBaQUtLV3JlWXdqSEpJS3p5SDF0YkRVSlZINWt5cldHZFN5X0V4aWtiYXhSc0ZiQkQ4OVpnbjJHZ254QjQyMHBfVGtmUTUxaWs0cGF4MlFHTDl5SFN1QkJWWTZUVGs5aVNzbEFSRUh2SVlONERSVzJtSWNaWmRrUFJiSnBJM1dkVVQtV09oQ3ktbDRQ?oc=5",
+      "description": "O senhor pode adquirir o GTA 6 com 20% de desconto com o desconto para estudantes&nbsp;&nbsp;Notebookcheck.info",
+      "date": "2026-08-11",
+      "source": "Notebook Check • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 pode ter cassinos? Veja o que é fato, rumor e o que esperar... - Combo Infinito",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbklHRUZmVkY3Z3RxZ3F5QkpZRHZpb3JWSEtuMkNuUXQ1SWk4V3BLWXplMDRrWmJodnFFQ3ktSzhUMTNGTXNJUFkwRnlMMDF6OWczS0J1TUlHQ0gyZlYxYV9OTEM2RTdlMVRuMWczajBNdllpak1ieml4a3N2LVZ5X2piTHkxSmc?oc=5",
+      "description": "GTA 6 pode ter cassinos? Veja o que é fato, rumor e o que esperar...&nbsp;&nbsp;Combo Infinito",
       "date": "2026-08-11",
       "source": "Combo Infinito • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -161,6 +225,14 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
+      "title": "PS5 edição limitada de Marvel's Wolverine: preços e datas - einerd.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PQ3ZGVUdQajZacnpHMW54TjJjaW54dUh4ak9HcmFIVHp5bFItc2JkdC0zbXMyYnJxcVlJdEFETlptOXFRSFlmejgzTlNPMWlPT3BEbXlBbnQxZGFvampheGpHNWc5bmMxQVV4Sk9TWjRjUXBkQ1E4?oc=5",
+      "description": "PS5 edição limitada de Marvel's Wolverine: preços e datas&nbsp;&nbsp;einerd.com",
+      "date": "2026-08-11",
+      "source": "einerd.com • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "PlayStation 5 terá edição especial e Dualsense de Marvel's Wolverine - Omelete",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTUyRGoxOS1hRHFMUy1MWW1hc2xrQVpHZGNHaUhQOUZ3bDB0a2JiclhyV3gxRnhjcVNfTzFNczU4dE5rTk9mcW5XN3dyNEh3ZVpnMWpCZ0djdGRlb21qMGFGUVM0M3F2XzBOeUQ0ekg0S3lmZUdrZW9ORXp0Tk5zc1FVVnJSTW1LR0FTODlqbXcxanhmdzBNWWk3dUpsUEl5MWc?oc=5",
       "description": "PlayStation 5 terá edição especial e Dualsense de Marvel's Wolverine&nbsp;&nbsp;Omelete",
@@ -172,6 +244,14 @@
       "title": "Sony anuncia bundle do PS5 e DualSense de Marvel’s Wolverine - PSX Brasil",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmp2Ukp2UDIxcFRLSnVSaFdYb2xNeDN4bVF1RlNibmktNHkxVXcwY2duLWh6MkdkZkF2ZktLRnc2RVhscGN5eTkwMHlPMUs1QUUzWHp5MjluczlmRGdzTFM4ektBS2p1dURMcWxIbWpGTng1dDQ3bUlNMTllVDI0QXVlWDQ2NlNINmVwdUNR?oc=5",
       "description": "Sony anuncia bundle do PS5 e DualSense de Marvel’s Wolverine&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-08-11",
+      "source": "IGN BR • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Prévia do Pack PlayStation 5 Edição Limitada Marvel’s Wolverine, tampas e DualSenses - PlayStation.Blog BR",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNF9wbExaejNUQ1FhRTBaSHNJVTg1cG5zZFU1M2RHdDdKazZvMHhnSmxBTlRnc0ZrTTV6cDd2SC1sYUd4aFdDU2NTMng3bVV2aVNZOU5sNkhFOHJpQWdxMkp4OEw3WU1ZaUhNQWM0aDFEVFYyT2QzRHF6VXB0YkZLb3FmQ1dCdlptNWlIcnpJVVBKZ1RWdlBQcmVRaUVVeWxlaGx0SHNtczRaV0dFTXFDQjN2TmZpd3plb0Y2R0hqT3Y4cFNi?oc=5",
+      "description": "Prévia do Pack PlayStation 5 Edição Limitada Marvel’s Wolverine, tampas e DualSenses&nbsp;&nbsp;PlayStation.Blog BR",
       "date": "2026-08-11",
       "source": "IGN BR • PlayStation",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -279,89 +359,16 @@
       "date": "2026-08-11",
       "source": "MeuPS • GTA 6",
       "image": "https://meups.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-21.35.13.jpeg"
-    },
-    {
-      "title": "PlayStation 5 terá console e acessórios de Marvel’s Wolverine",
-      "link": "https://www.adrenaline.com.br/games/playstation/playstation-5-tera-console-e-acessorios-de-marvels-wolverine/",
-      "description": "A Sony preparou uma linha completa do PS5 com console e acessórios para comemorar o lançamento do novo jogo Marvel's Wolverine",
-      "date": "2026-08-11",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/ps5-wolverine-6-640x400.webp"
-    },
-    {
-      "title": "Nintendo Switch 2 roda Oblivion Remastered com DLSS e entrega imagem melhor que Xbox Series S",
-      "link": "https://www.adrenaline.com.br/games/nintendo-switch-2-roda-oblivion-remastered-com-dlss-e-entrega-imagem-melhor-que-xbox-series-s/",
-      "description": "Desempenho surpreende também pela fama de o console não ter exatamente um hardware conhecido como poderoso.",
-      "date": "2026-08-11",
-      "source": "Adrenaline • Xbox",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/17-oblivion-remastered-nintendo-switch-2-640x400.jpg"
-    },
-    {
-      "title": "Jogos mais baixados em julho no PlayStation – veja lista!",
-      "link": "https://www.adrenaline.com.br/games/playstation/jogos-mais-baixados-em-julho-no-playstation-veja-lista-2/",
-      "description": "Assassin's Creed Black Flag Resynced, EA Sports FC 26 e Palworld são alguns dos jogos de PS4 e PS5 mais baixados no mês de julho",
-      "date": "2026-08-11",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/04/Assassins-Creed-Black-Flag-Resynced-1-640x400.jpeg"
-    },
-    {
-      "title": "Microsoft desativa recurso de Senha com Imagem no Windows 11 após 14 anos",
-      "link": "https://www.adrenaline.com.br/microsoft/windows/microsoft-desativa-recurso-de-senha-com-imagem-no-windows-11-apos-14-anos/",
-      "description": "Windows 11 removeu a opção de cadastrar novas senhas de imagem na atualização KB5101650. Veja o que muda e as alternativas recomendadas!",
-      "date": "2026-08-11",
-      "source": "Adrenaline • Xbox",
-      "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/microsoft-desativa-recurso-de-senha-com-imagem-no-windows-11-apos-14-anos-cover-640x400.jpg"
-    },
-    {
-      "title": "Novo vídeo de GTA 6 é confirmado pela Rockstar; saiba quando assistir - Times Brasil | CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQW5CTHB1SVBhTENlVjBaM1FRamw0MVpJZUhqbG1ydW1ZT3QxOVQyQ1VJeGc0LVBJZWVLS0dJUnExX1JiejRMcTlCNExpVERYVHJtNTVGbXhiRkJmT0dyZEFOdEdkSjJkel93TndCSE8wa0JGLTd0SHkwVjZlWTF6WGVINUxsc01tdFNobm1od2tHMktRZ180czJYRmJUY1U?oc=5",
-      "description": "Novo vídeo de GTA 6 é confirmado pela Rockstar; saiba quando assistir&nbsp;&nbsp;Times Brasil | CNBC",
-      "date": "2026-08-10",
-      "source": "IGN BR • GTA 6",
-      "image": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/06/57b01a93-gta-6-e1782325204396.webp"
-    },
-    {
-      "title": "Para além de GTA 6: 7 jogos que ainda chegam em 2026 e prometem muito - TechTudo",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR21jLUZnN0ppYmd1eE1iWVBRV3ZleG5HMXU1QUFBLW9Rb01keC1fNkM0enZJR3JTZU5rY1FNRFVkdTNIZTlJeEYtRHFnekVuMmVKOGVocVpEdVNpbVBJMDdLX29hcjVld01ONlFvN3Z3SzEzQ185enUzR3psR3A0RklkRy1qYlp6SU0yUWNNN1MtdWZEM19Rd21FRW9XNEY2TVljMUNHUmNZZTJ3VnpDT1lYeHZvOEs2TkVvdzdqOUlpVU3SAdIBQVVfeXFMUFhza2d1cjNxMklpem51NHFfaFBYRXp3alQ2Y0VOTHhsUlZxX1FLVXMwQkItRkpROWplRHhYUGF3U3BMbk94ZF9BTjFyQ2hNakUtYTlIYzN4WXZtYlVQb3ZrMXZHZlRENFAyLWt2dmgzUjF3TjV1ZS0xblg4dkxqQ2QwakVfVmdCSzFDaUFfSU9WbHlzbnptSkRyMXoxekxRRDRYMi1SaXMwVmE1em9iOEpMSUVfeUFSTmVxRDRISjhDbkM5dGc4MVU5LVVMb0l0QnVB?oc=5",
-      "description": "Para além de GTA 6: 7 jogos que ainda chegam em 2026 e prometem muito&nbsp;&nbsp;TechTudo",
-      "date": "2026-08-10",
-      "source": "TechTudo • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 a US$ 80 é uma “pechincha”, diz Take-Two - gamehall.com.br",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBudTcwVHZkNmg4czNBZldRejhJMk5ISElHVjRtLS1iQWVaTFZJNE9fSV9HRFVxWUVwcWtVUnVZWGNmNEktdWw2OFdvVXY0aFZtYjV6anJLZmtwR2pYTUVXNDY0XzdlRmdxT1h4U3RrUnp2bnhnVGfSAX5BVV95cUxQeUJFenFyRHJlcjhTNEZjT0NkTlo2Uks3NXZUbEJyMzA4bjlQTUs2cDBpN0J2aFRXRVNwMVNBUlhqUThENDZzc2tEMzFTZE5YYk9CMzVrUkpXQ3NYXzJGR195ODAtWUNXemtKMVduc3FxM1pNMEJGcTZzcW9iUlE?oc=5",
-      "description": "GTA 6 a US$ 80 é uma “pechincha”, diz Take-Two&nbsp;&nbsp;gamehall.com.br",
-      "date": "2026-08-10",
-      "source": "IGN BR • GTA 6",
-      "image": "https://gamehall.com.br/wp-content/uploads/2026/06/gta6-08.webp"
-    },
-    {
-      "title": "Vais ver o evento de GTA 6 na Netflix? A dona da Rockstar diz que é só o começo - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmRLcWItaWNZTTh6X1hIWmRibWY3WjI3THdJSFoxaGpBbDlxdWMzM3pqMFp6UGZxZmx0T1Nxa1J2dnNLSzFEamwxcWxhT2hOMnFIaTNHb1JhNFV4SjQzbGpSR3Mxek93anZ1aEVWdnVacnp0UkhjWEpsZUx3M1dxU1BrcnQydw?oc=5",
-      "description": "Vais ver o evento de GTA 6 na Netflix? A dona da Rockstar diz que é só o começo&nbsp;&nbsp;Eurogamer.pt",
-      "date": "2026-08-10",
-      "source": "Eurogamer.pt • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 dispara nas pré-encomendas e ganhará trailer com gameplay na Netflix - Fast Company Brasil",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVljOE9OQzg2cDVyZXpnZFFVZlV5YlNMUm1MMWI1WnFvR1JoTlRFUkRzVWdfYm5sa3hTRVI0U0oxQ1lNcUlXRE5uZXRRTzY3SFVVUFlXLW5CbzJSMml5bFhmYmZZX2IzN1FIVGt2Ump3Z3V0RVE0TVhhaC1yZk4tMEo4OXpIcEJoVU9XbXpRYW50QVNPM0dWV09mWHVZUXM?oc=5",
-      "description": "GTA 6 dispara nas pré-encomendas e ganhará trailer com gameplay na Netflix&nbsp;&nbsp;Fast Company Brasil",
-      "date": "2026-08-10",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "“Isso não é normal\": movimento Stop Killing Games critica duramente apresentação paga de GTA 6 na Netflix - IGN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3g1U3FweTlhWUVyTU1lR1V5SVhqUFRvN0lVLWZldGNuVmpCMHBOOC1RV21LbjE4WXZBRlVRZU5jVVJHMF9tSjdhdFVmNnI4NFBLcDFvdl9aT0JyVGhqWjhzeERoSlR0Z3FUbnNZcWFIanJuakZkcS1HSVg3TGpISTNqOVVDOU5FWE05aVZGMWJKRjgwNWcyM2I0clQ2VXZibFhSeHRDLWN5MU84blZwT1ZYd2RweHVXU09kZmFEd3BuV24yR0lqWk1teU1GZE5aVWo5UVd3ZlJEVzlSbjVZ?oc=5",
-      "description": "“Isso não é normal\": movimento Stop Killing Games critica duramente apresentação paga de GTA 6 na Netflix&nbsp;&nbsp;IGN Brasil",
-      "date": "2026-08-10",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
   "videos": [
+    {
+      "title": "QUANDO DAVY JONES VAI APOSENTAR? #davyjones #gameplayrj",
+      "link": "https://youtube.com/watch?v=CdIGcUya174",
+      "thumbnail": "https://i.ytimg.com/vi/CdIGcUya174/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-08-11"
+    },
     {
       "title": "GTA 6 a 100 dólares é o MAIS VENDIDO",
       "link": "https://youtube.com/watch?v=KUsXbcZufCY",
@@ -412,11 +419,18 @@
       "date": "2026-08-09"
     },
     {
-      "title": "DAVY JONES NÃO JOGA MAIS FIFA",
-      "link": "https://youtube.com/watch?v=KX6_rEU-WkA",
-      "thumbnail": "https://i.ytimg.com/vi/KX6_rEU-WkA/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-08-09"
+      "title": "TOP 10 MELHORES JOGOS DE PS1! TOP ALGUMA COISA #017",
+      "link": "https://youtube.com/watch?v=J7sord_hlhA",
+      "thumbnail": "https://i.ytimg.com/vi/J7sord_hlhA/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "🔞 A COISA MAIS BIZARRA ENCONTRADA DENTRO DO XBOX",
+      "link": "https://youtube.com/watch?v=vbePxf0As_c",
+      "thumbnail": "https://i.ytimg.com/vi/vbePxf0As_c/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-08-11"
     },
     {
       "title": "JOGAMOS STAR WARS ZERO COMPANY, PRIMEIRAS IMPRESSÕES - #flowgames",
@@ -459,20 +473,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UHXaDr_iqn4/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-08-09"
-    },
-    {
-      "title": "RESIDENT EVIL REQUIEM GOTY 🏆🏆🏆",
-      "link": "https://youtube.com/watch?v=LCFcMU-dYS0",
-      "thumbnail": "https://i.ytimg.com/vi/LCFcMU-dYS0/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "QUANTO VAI CUSTAR O GTA 7? 🤔🤔🤔",
-      "link": "https://youtube.com/watch?v=YB1E-_8K53s",
-      "thumbnail": "https://i.ytimg.com/vi/YB1E-_8K53s/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-08-08"
     },
     {
       "title": "GTA na Netflix, Gamer faz Catfish, EA vira Saudita, Story Milionário &amp; Mais! | Ep. 127",
@@ -531,5 +531,5 @@
       "date": "2026-07-03"
     }
   ],
-  "updated_at": "2026-08-11T19:00:58.387659+00:00"
+  "updated_at": "2026-08-12T07:18:34.516277+00:00"
 }
