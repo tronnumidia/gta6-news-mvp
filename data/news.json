@@ -1,28 +1,76 @@
 {
   "news": [
     {
-      "title": "PlayStation anuncia pré-venda do controle DualSense de GTA 6 no Brasil - Exame",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU19MamJnUklhOVFUY05MZ1FNZnhRa19FemxTV2x0SnNITzhZU0NXZmxJVC00WGZFekt0V195SVR3ak4tUHdXTUJLQ2QzMzhTcXFhYUhENUpfVnNkbk0wVl9jWkJQdk5FNlZNRE1EQnNhRHh6cGJtUXdUdzhtSEEzMW84SXhscWR0ck1NWFdsaEktbkFqU3VtVQ?oc=5",
-      "description": "PlayStation anuncia pré-venda do controle DualSense de GTA 6 no Brasil&nbsp;&nbsp;Exame",
-      "date": "2026-09-10",
-      "source": "Exame • GTA 6",
-      "image": "https://classic.exame.com/wp-content/uploads/2026/09/ControleGTA6_PS5.jpg"
+      "title": "Faltando poucas semanas para o lançamento de GTA 6, problemas legais da Rockstar se agravam enquanto a empresa prepara s",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUVZSakh6LW5Ua2pWeFM0eDhjTjNYandDLTJaMmx1S1ZkRVczWHo5OURNb0hNdGZTM0tsa013ZWNyUXMzNzI0ZUxDWnM5VmFrOVBCcUpPN3p0cEhzc3pIOFZEMzZ1LWpvaE1DYnpvWm01RUQzRnVmTlQwYnprYkpmN3J4NFR1VDNJR204WWxjTzlKdFBFclc4N2JFY0hUQnFBM0l3TllBY2Q2ci1FTC1JTGlHb3VVTF9qYTY0RlZDZkE0eGE1dzg5YW5IYmZoOTllS0RyTl9xTU9fLTB5WGc?oc=5",
+      "description": "Faltando poucas semanas para o lançamento de GTA 6, problemas legais da Rockstar se agravam enquanto a empresa prepara sua defesa no tribunal&nbsp;&nbsp;br.ign.com",
+      "date": "2026-09-11",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Take-Two Stock Has Fallen 21% From Its High. Here’s What the Pullback Prices In Before GTA VI - tikr.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnR6M0VWOGJITWNDcHgydXhLcWRuODhQN19fbGYwdmNSMEgxalVVeDVMbGVtREZ4VlI0QjNCajZ6eVJ5WG5RaU1yajRUTE1kbi1SaE5wWnRPZHRkMGJQQ0pHMUpVVVZ4YWJkaFJ0RmFSS3FwQTRYYlF3N1l4Q002bTdfMFNxMXZlVmZfUDl5XzJTT085QklhT2lUVVhpU1NvV1NxcEFWd0tqMUNodDJlUy05Y1NYSWtNeTdn?oc=5",
+      "description": "Take-Two Stock Has Fallen 21% From Its High. Here’s What the Pullback Prices In Before GTA VI&nbsp;&nbsp;tikr.com",
+      "date": "2026-09-11",
+      "source": "tikr.com • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 pode ser o principal responsável por salvar a receita do mercado de consoles em 2026 - soulsgamer.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSHFZZjdfZUVXV0Z5d1Z4S1JjeFNqSDVmSmJ4R2xnSGJIdVN3SUI3eDBOSC12Y1FKTXlGUkZwU1kwRm1BUTRHQjdZVkJINmZSTU9oWW55dkVfUHhZWlNlTUhjam9vT0cwelBUS05xcFhVdUVZSGRpTGxBUXRpUjhENm12N1pvckZxajZ4aS1vaXlBSFltUTBTNUhCaXFIY2xlb1ZPY1Ytb01zRkRQTjZ5STh0WWJVdWhWZE41UlR6VlBKZWs?oc=5",
+      "description": "GTA 6 pode ser o principal responsável por salvar a receita do mercado de consoles em 2026&nbsp;&nbsp;soulsgamer.com.br",
+      "date": "2026-09-11",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Gley Lancer: Overdrive é anunciado para PS4 e PS5 - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpZkpqYm54UzgyRjFpRmtxX3BEREVFaEhGV2FpMG1pNlBMNjBobVZoMzhDWmo2SmRzMl8xNUdGOVhoeWtZZTI0SFdXNkQwZ2VIdi1UVHF1QkxNc2p0dUxaQUszWFhGZ29xQ1NTZUJIM3ZfMWtOQUhfMkFvdUpodkE?oc=5",
+      "description": "Gley Lancer: Overdrive é anunciado para PS4 e PS5&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-09-11",
+      "source": "IGN BR • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "DESOLUS será lançado em 15 de outubro para PS5 - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSc25JZ3dUWTNCT2FNMTJVVFJta1l6TUJvTTVUcXJYUW4wbi1HTmZ0anNGVG5RSXZKa082cnd2WElXQlpxSGRQckFHQVpjdmM2dlJPaTdvWmdJMlNSWnV4ejlzaGJUOWs2Y1NvWlBtUnd3dWZrMl94dlBrSkk?oc=5",
+      "description": "DESOLUS será lançado em 15 de outubro para PS5&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-09-11",
+      "source": "IGN BR • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "PHYSINT: Alinea Analytics tenta analisar o motivo da Sony ter cancelado parceria com Kojima - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGtlVVFBc1NFV0FBZTQyQ1U2WE53YWdXLXBuXzVPOVlfMXIzNGxqdDRUdHVqNWJnNUJ6czh3MENQN0J4MC1HU2Uxcllma3N5dnZoWjRCMkZ4OC1lcFJ2YzBNckl0TU9qZG5pd1lpM1BTZzI4WGhNSUZlYmdfZXlVNlM0YlJpZ0toc0dKZGNuc2JENlBoUmpwRV95M0Z1MHR5bkdacU1XTElHRUx1cVYxNHJzT1lncGc?oc=5",
+      "description": "PHYSINT: Alinea Analytics tenta analisar o motivo da Sony ter cancelado parceria com Kojima&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-09-11",
+      "source": "IGN BR • PlayStation",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "“Se pagou”: GTA VI gerou 100 mil assinaturas na Netflix",
+      "link": "https://meups.com.br/noticias/gta-vi-gerou-100-mil-assinaturas-na-netflix/",
+      "description": "A parceria entre Rockstar Games e Netflix para a apresentação de GTA VI parece ter dado resultado para a plataforma de streaming.",
+      "date": "2026-09-11",
+      "source": "MeuPS • GTA 6",
+      "image": "https://meups.com.br/wp-content/uploads/2026/08/GTA-VI-4-1.jpg"
+    },
+    {
+      "title": "Monster Hunter Wilds: Ascendance ganha mais um trailer",
+      "link": "https://meups.com.br/noticias/monster-hunter-wilds-ascendance-mostra/",
+      "description": "Monster Hunter Wilds: Ascendance será lançado em 2027. O jogo base está disponível para PS5, Xbox Series X&#124;S e PC.",
+      "date": "2026-09-11",
+      "source": "MeuPS • PlayStation",
+      "image": "https://meups.com.br/wp-content/uploads/2026/09/Monster-Hunter-Wilds-2.jpg"
     },
     {
       "title": "Entrevista | DualSense de GTA 6 entra em pré-venda no Brasil - Estadão",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRnZkYWVPRmlMeEd4ZFJmbHVNRzNVM1p4a050VEl0YV94elU2T2dpRjhheUVBSjRrdVZJNGs2cDRJeEVERW5VMm5rRW9TX09GblJVZHFkTDl5eXdqbjlJdVJBUDlaZGE4UmNxX1BENno0Q2RZS1p2T2syb3dTMmdxelY5M052R21yU2dCT0llTC15UlVkeE9jczVFeG5BRHNnSUljSHRyOU1FOTV5ZTE2VlJzdld2Rk9ZM2NURG9wUmhHTVpaTUVKQ05B?oc=5",
-      "description": "Entrevista | DualSense de GTA 6 entra em pré-venda no Brasil&nbsp;&nbsp;Estadão",
+      "description": "Entrevista | DualSense de GTA 6 entra em pré-venda no Brasil&nbsp;&nbsp;EstadãoPlayStation anuncia pré-venda do controle DualSense de GTA 6 no Brasil&nbsp;&nbsp;ExameDualSense de GTA 6 para PlayStatio",
       "date": "2026-09-10",
       "source": "Estadão • GTA 6",
       "image": "https://www.estadao.com.br/resizer/v2/2NLCRNMH5FNUHEMMSMBIFJ6PA4.jpg?auth=1ea6333992df8ac590d337996c24421f87bd18f8e17181832361967defd4dfc5&quality=80&width=1200&height=630&smart=true"
-    },
-    {
-      "title": "DualSense de GTA 6 para PlayStation 5 entra em pré-venda no Brasil nesta quinta (10); veja ofertas - TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0RsZHdRaVlzX2hZeGZ3RkFFZnNwTDQ3bThNR0lNNS14alFpSzBPWjFqaWJTZkNFUjdpMWtwUGdsM0ZLVHAwU1pWTHlodklVOHh0dE40VlhvdUhBSHZuUmRuVzFNakstdmtZb1NsdEpFakx4WTg4UkJVcUZEaU5zcWFQTXkxSzl2V3RZTnRLY2JKZGc4Vy1HNy13bGdBUVRkdVVwWXNzN2Z0OFU?oc=5",
-      "description": "DualSense de GTA 6 para PlayStation 5 entra em pré-venda no Brasil nesta quinta (10); veja ofertas&nbsp;&nbsp;TudoCelular.com",
-      "date": "2026-09-10",
-      "source": "TudoCelular • GTA 6",
-      "image": "https://css.tudocdn.net/new_files/img/logo_principal.gif"
     },
     {
       "title": "Acessório de GTA 6 entra em pré-venda no Brasil - SpaceMoney",
@@ -33,14 +81,6 @@
       "image": "https://www.spacemoney.com.br/wp-content/uploads/2026/09/pexels-photo-12719135-1.webp"
     },
     {
-      "title": "PlayStation lança controle especial de GTA 6 por R$ 599,90 no Brasil - Tecnoblog",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUp0Vm5nMmlVOFJsekNUSEItRTMycVJXR0hzcXJXb0t3dFpvNXcxTHpIZ3ZYczBvaWljbHc2VVFUNXVIXzl5bWdjLVFfWW9xaXk3SFFSUkdmUDJOSG5NblUwbEhmUjdDdUVWM3VBWTJTdUZNVWppa3M2UlN2NFNaUzZhN2xGWF9rb2pIbXdoQk1KalVVZHN4SHVxYndvOTQ?oc=5",
-      "description": "PlayStation lança controle especial de GTA 6 por R$ 599,90 no Brasil&nbsp;&nbsp;Tecnoblog",
-      "date": "2026-09-10",
-      "source": "Tecnoblog • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "title": "Sony inicia pré-venda do controle DualSense Edição Limitada de GTA 6 no Brasil - Terra",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb29KX0MwVS04MHIzWERXdGVVR0hJZDlESFpKbzczck9BSzlHY1liVmduNTc5NE9NOXYwQkZyaXRqZDUyWGhtLVZSVXVkZzdJQUNpc2p6eUF4XzlMLTRpb3QwV0Z3TmIzcXhTZExXQXVIdENUQnExRjVOUlRHUFUzb0ZQWkotdWdqbXBJbUh0QkUxSTJ1TjYwSGQxaFhBY3BJbUJkWUhCT0txSjBnTUtfSnc3YmJZNHB6SjZna3ZKMkF0QXJYZFdLR0tiQ3pSZVFlRGd4WC1jeDBWTEpyTzYwSW9FSDVVTmZUUHltbXdPOU5GZXhiUGEtSVBrSGg4NWNoZVJsRmQ1eVhCeW8?oc=5",
       "description": "Sony inicia pré-venda do controle DualSense Edição Limitada de GTA 6 no Brasil&nbsp;&nbsp;Terra",
@@ -49,20 +89,20 @@
       "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/10/controle-gta6-1jylk17cvfxo0.jpg"
     },
     {
-      "title": "DualSense de GTA 6 entra em pré-venda no Brasil nesta quinta (10)! Confira o preço - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON2p4bHFWZENNZ2J1bDV2TGtlQUo4QTNFSUxsaGhLM29vUjd6bTQ0QjJsT2dBeG1vNzlBYkdVUk5vLWhERndWZTdlMnBETHJLNDU0UUZ4Wi1vOE9tZl91N1BJdXVGLWxyNmxlN3VJXzZUNzJ3ejktelB1VnZjQWdCdVd5RHM3TDRLckZSSEktekJ6dUZBcW1SNUN6U3VWUHJLQVRGLWVJcmJvbzRjVTR1WHBnQzIyTFVkN3NEYXpVMNIBxAFBVV95cUxQd29jZW5mTDhDTkV1a2tSWHlEVUpSck9EZTFmbWh2Si1Ha2hYeHlQdE1BSmNYc2VTN0FIZVJ6cTI3NTBsYVdhYnlRWU5nZHROLVhIQmpoaGRWU3VWLVVQZWhJVW1zLWtfeTNSSXhwSWZXVC1iRm9SdngwemFSalhxVUdseWJSQVJFMmFlOTJ2bEkyNElXNHQySjdyakxqZEhlc3NndGMwMWNjODFzcHhRMlpsTFdyNTJOX3c1UFVZaENsSzlv?oc=5",
-      "description": "DualSense de GTA 6 entra em pré-venda no Brasil nesta quinta (10)! Confira o preço&nbsp;&nbsp;Estadão",
+      "title": "PlayStation lança controle especial de GTA 6 por R$ 599,90 no Brasil - Tecnoblog",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUp0Vm5nMmlVOFJsekNUSEItRTMycVJXR0hzcXJXb0t3dFpvNXcxTHpIZ3ZYczBvaWljbHc2VVFUNXVIXzl5bWdjLVFfWW9xaXk3SFFSUkdmUDJOSG5NblUwbEhmUjdDdUVWM3VBWTJTdUZNVWppa3M2UlN2NFNaUzZhN2xGWF9rb2pIbXdoQk1KalVVZHN4SHVxYndvOTQ?oc=5",
+      "description": "PlayStation lança controle especial de GTA 6 por R$ 599,90 no Brasil&nbsp;&nbsp;Tecnoblog",
       "date": "2026-09-10",
-      "source": "Estadão • GTA 6",
-      "image": "https://www.estadao.com.br/resizer/v2/2NLCRNMH5FNUHEMMSMBIFJ6PA4.jpg?quality=80&auth=1ea6333992df8ac590d337996c24421f87bd18f8e17181832361967defd4dfc5&width=1200&height=630&smart=true"
+      "source": "Tecnoblog • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "PlayStation libera pré-venda do controle de GTA 6 no Brasil; saiba quanto custa - Canaltech",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9vSTBoYXVCcU1zUVVqZnF4MFVWblA5SmxYZjQxdVhkczRIbFJkd0ZkUzI0N2d2Y0lENHhzdEZkcW5uRWRldTBrT1I1QUhucE00MnJfSHphMC1rSlVuSFhqMXFUcGxFR3Y0cThiWk9RRmtNd1JQdWJwYVI5a3JuOHB2eGdFaTFOM1oxOE1BV3BEWmRoRUZQMmRRMkpPd2R5cm55X0lMLWVxRExNT1RF?oc=5",
-      "description": "PlayStation libera pré-venda do controle de GTA 6 no Brasil; saiba quanto custa&nbsp;&nbsp;Canaltech",
+      "title": "DualSense de GTA 6 entra em pré-venda no Brasil - entretenimento.r7.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTdSS05saEZYckthY21LU3ZGeXNSRFpHNVV5d2ViQkx4NngzQ3JVNUFTMm93b0s1a0hfSkNEeXFnWUEyNElIMkRaMkNmWDhGb2ViR3Q2c2U2X2lKR1NXWjYyZEEzWUNXQ1hER2lET1k3V0VmejZucTBubEhxUXhvNDRTTFo5SE9Lb1BnVnhoNUFVeDNxT1h2bWFWRUZJT25vY0hyRjA0NURwbXc?oc=5",
+      "description": "DualSense de GTA 6 entra em pré-venda no Brasil&nbsp;&nbsp;entretenimento.r7.com",
       "date": "2026-09-10",
-      "source": "Canaltech • GTA 6",
-      "image": "https://tl.ctcdn.com.br/N9c-ngBevx71ZxxPFgsA0nbTrak=/1200x675/smart/filters:format(webp):quality(85)/b2c171d3-6f4b-4bc9-96b4-3990a48f1f76.jpg"
+      "source": "entretenimento.r7.com • GTA 6",
+      "image": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ML5OQNEZFFCP7PPFMHFOIGTJUM.jpeg?smart=true&auth=9970617f4195c64ee88198615d71c6e0bd45372da921ed2b9367f0cf2a331b85&width=1200&height=630"
     },
     {
       "title": "GTA 6 | DualSenses do PS5 em edições limitadas entram em pré-venda no Brasil - Cromossomo Nerd",
@@ -73,20 +113,28 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Controle de GTA 6: pré-venda por R$ 599,90 no Brasil - gameoverdrive.com.br",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSOWRyRUZoM3U3TlZ2RUdXWUY3ZXBWMzFtSUlIa21XWVR4Y3JDdV8zYXlYY2pFajF6d1RTUUxaelVfU082bWtTYTNxX3gxVEtfSzhYZmlHc2RDZkF3TzJnVkdPVGJ3eHY1eUJ4TzJ3MzNTelZ4dnR6OQ?oc=5",
-      "description": "Controle de GTA 6: pré-venda por R$ 599,90 no Brasil&nbsp;&nbsp;gameoverdrive.com.br",
+      "title": "Controles DualSense de GTA 6 chegam ao Brasil! Veja preço e onde comprar - Jornal dos Jogos | Substack",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUZaWkEtbjA3a1BTVXdNZnNBWTB1N3NvekJpYlRtemMtUi0wQWVBUnpSWlBCdzExaUtwRG5Nck5icjEyNDFwbHhJQkdYSUpPYnVqSFB1N0FpZ1BvTEhseTVBMUprd2h6Ym1GWGtSMmhSek9pT21JWFRpU3JSdG9CXzVJRkM?oc=5",
+      "description": "Controles DualSense de GTA 6 chegam ao Brasil! Veja preço e onde comprar&nbsp;&nbsp;Jornal dos Jogos | Substack",
       "date": "2026-09-10",
-      "source": "IGN BR • GTA 6",
-      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/09/controle-de-gta-6-1-1600x900.webp"
+      "source": "Jornal dos Jogos | Substack • GTA 6",
+      "image": "https://substackcdn.com/image/fetch/$s_!a98B!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92fa0c48-dd6f-4480-a1bf-ec935b382226_966x541.png"
     },
     {
-      "title": "Lançamento de GTA 6 ganha horário de estreia; saiba quando o jogo será liberado - Fast Company Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclppYWR1SDBWcHE2RlhlcmZ2X29Ccnk2dEdIX2pFc0J0LW1aNnI1RjN6MExvUXBWcDdNQ05OeHhmUlpOVUFoZmFEVEpXZDJIUUZyVEJoS1RNaTFNSXE3UTdnRUhncXRXSzRnZ0dnaFJaQXFjNkRjR2tGNnJzTkN1aHhlS0hYQU5PeHBuUFhSQllRTjVfRUNxU19iX1hQNUkzaFJV?oc=5",
-      "description": "Lançamento de GTA 6 ganha horário de estreia; saiba quando o jogo será liberado&nbsp;&nbsp;Fast Company Brasil",
+      "title": "PlayStation libera pré-venda do controle de GTA 6 no Brasil; saiba quanto custa - Canaltech",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9vSTBoYXVCcU1zUVVqZnF4MFVWblA5SmxYZjQxdVhkczRIbFJkd0ZkUzI0N2d2Y0lENHhzdEZkcW5uRWRldTBrT1I1QUhucE00MnJfSHphMC1rSlVuSFhqMXFUcGxFR3Y0cThiWk9RRmtNd1JQdWJwYVI5a3JuOHB2eGdFaTFOM1oxOE1BV3BEWmRoRUZQMmRRMkpPd2R5cm55X0lMLWVxRExNT1RF?oc=5",
+      "description": "PlayStation libera pré-venda do controle de GTA 6 no Brasil; saiba quanto custa&nbsp;&nbsp;Canaltech",
       "date": "2026-09-10",
-      "source": "IGN BR • GTA 6",
-      "image": "https://fastcompanybrasil.com/wp-content/uploads/2026/09/gta-horario-estreia.jpg"
+      "source": "Canaltech • GTA 6",
+      "image": "https://tl.ctcdn.com.br/N9c-ngBevx71ZxxPFgsA0nbTrak=/1200x675/smart/filters:format(webp):quality(85)/b2c171d3-6f4b-4bc9-96b4-3990a48f1f76.jpg"
+    },
+    {
+      "title": "DualSense de GTA 6 entra em pré-venda no Brasil por R$ 599,90 - Game Overdrive",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSOWRyRUZoM3U3TlZ2RUdXWUY3ZXBWMzFtSUlIa21XWVR4Y3JDdV8zYXlYY2pFajF6d1RTUUxaelVfU082bWtTYTNxX3gxVEtfSzhYZmlHc2RDZkF3TzJnVkdPVGJ3eHY1eUJ4TzJ3MzNTelZ4dnR6OQ?oc=5",
+      "description": "DualSense de GTA 6 entra em pré-venda no Brasil por R$ 599,90&nbsp;&nbsp;Game Overdrive",
+      "date": "2026-09-10",
+      "source": "Game Overdrive • GTA 6",
+      "image": "https://gameoverdrive.com.br/wp-content/uploads/2026/09/controle-de-gta-6-1-1600x900.webp"
     },
     {
       "title": "GTA 6: PlayStation inicia pré-venda de controle DualSense especial no Brasil - Rádio Itatiaia",
@@ -97,28 +145,44 @@
       "image": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/09/IMAGENS-PORTAL-ITATIAIA-26-1.png?resize=1280%2C720&w=1280&h=720&quality=75&crop=1"
     },
     {
-      "title": "PRÉ-VENDA | DualSense Edição GTA 6 Edição Limitada para PS5 - Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVJwX0xyNW8yVFc3S1B4YVNoMXRwQWFCYlVfeFYwRjBBaXVBYzg0OEx4S1R3Z054ajBEdGVYU2NneUVCekc1YlFXZm1IXzY2U2p2amQxYzNTcFJiRGRkbVozc2NEQlNXaWNmLWpTZkgzUHQ5bGl2eXdJSFpxak90ckhDV3RVN2llWnB2Ul9kX1QtM0szQVM0STlxNHZmdw?oc=5",
-      "description": "PRÉ-VENDA | DualSense Edição GTA 6 Edição Limitada para PS5&nbsp;&nbsp;Adrenaline",
+      "title": "Lançamento de GTA 6 ganha horário de estreia; saiba quando o jogo será liberado - Fast Company Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclppYWR1SDBWcHE2RlhlcmZ2X29Ccnk2dEdIX2pFc0J0LW1aNnI1RjN6MExvUXBWcDdNQ05OeHhmUlpOVUFoZmFEVEpXZDJIUUZyVEJoS1RNaTFNSXE3UTdnRUhncXRXSzRnZ0dnaFJaQXFjNkRjR2tGNnJzTkN1aHhlS0hYQU5PeHBuUFhSQllRTjVfRUNxU19iX1hQNUkzaFJV?oc=5",
+      "description": "Lançamento de GTA 6 ganha horário de estreia; saiba quando o jogo será liberado&nbsp;&nbsp;Fast Company Brasil",
       "date": "2026-09-10",
-      "source": "Adrenaline • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      "source": "IGN BR • GTA 6",
+      "image": "https://fastcompanybrasil.com/wp-content/uploads/2026/09/gta-horario-estreia.jpg"
     },
     {
-      "title": "DualSense de GTA VI entra em pré-venda no Brasil - Alternativa Nerd",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWxGUEZpTGlwdS03X1VLVzBxdGZGX0RGVWo5NkZ5TWs3SHZUNUZncENVZnR1VXU4U2ZsRDdiMVNNejBuT1A0SUllRVdLTFkyS2paWDNyTkQtZ3lpbFk3T3N5ZUNlYjIyVzIyVVdtZi1KUS02SDRXNWpVeUxxZ2Jfb1o4OVBlam1mdmFybHdNYw?oc=5",
-      "description": "DualSense de GTA VI entra em pré-venda no Brasil&nbsp;&nbsp;Alternativa Nerd",
+      "title": "Controle oficial de GTA 6 chega ao Brasil antes do lançamento do jogo; veja quanto custa - Jornal Opção",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmVlWUlVU21leFM4dnQwMlQzZVo4NnBQTXRUUE9JN211OGNyODJ3Y1NrT011UXlocXF3YmdHOHVkaGVTQW9hRm0yU19PbjR0QjVUMDJOOTBpdDd3NjA5LU1OOThDNFJLMzlFenFSb181cUxBdGx1WE1pdVNiQ3Nvdk9SQjFvSlR5VkR5bUxESlhvSVRrT09FWk1QX3FWdG5wSnlHc1RvOEtVTjhUYVRzNHJJd2dzUGJoakN2bWV6UXVNQnFhdVJRbTdlS3BXOEo4eWdZ?oc=5",
+      "description": "Controle oficial de GTA 6 chega ao Brasil antes do lançamento do jogo; veja quanto custa&nbsp;&nbsp;Jornal Opção",
       "date": "2026-09-10",
-      "source": "Alternativa Nerd • GTA 6",
-      "image": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/04/AN_GTA-6.webp"
+      "source": "Jornal Opção • GTA 6",
+      "image": "https://cdn.jornalopcao.com.br/assets/2026/09/10143225/1789050742-830564.webp"
     },
     {
-      "title": "GTA 6: DualSense exclusivo começa a ser vendido no Brasil - Pichau Arena",
+      "title": "GTA 6: DualSense exclusivo começa a ser vendido no Brasil - pichauarena.com.br",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXeW9GVXUxRkV6dnJzWHRpNmhRVlZfc3hnRVVwSU1MU3UxNC02NXJibUd1VEpRdDVCOTJSM3AyOEVvVmdMQWtDSkJoMzlCWHl0amMwLUotcXdJeEtHWV9VOWQ0NWttUTN2NWtMblo0Y1VHM3Y3dnFRckRR?oc=5",
-      "description": "GTA 6: DualSense exclusivo começa a ser vendido no Brasil&nbsp;&nbsp;Pichau Arena",
+      "description": "GTA 6: DualSense exclusivo começa a ser vendido no Brasil&nbsp;&nbsp;pichauarena.com.br",
       "date": "2026-09-10",
-      "source": "Pichau Arena • GTA 6",
+      "source": "IGN BR • GTA 6",
       "image": "https://www.pichauarena.com.br/wp-content/uploads/2026/09/gta-6-dualsense.webp"
+    },
+    {
+      "title": "PS5 + GTA 6: combo com console e jogo despenca de preço com cupom de desconto - TudoCelular.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnZuTUQ2eTBlQkZHcEluaUxSY1hjSlZHS0pNNmw2d3NrUHNNQ1lrV2xMWkNxaHdISkpCaU9KQ2w5aE52MUVMbjdQZ0REQjkzUllxYXhINXV6VHF5OHJOaTlVQkFGZDl3RWswZ0U4NGlLOWNhTDhMbThUX29idnd0UlVKeWVDY2Y2?oc=5",
+      "description": "PS5 + GTA 6: combo com console e jogo despenca de preço com cupom de desconto&nbsp;&nbsp;TudoCelular.com",
+      "date": "2026-09-10",
+      "source": "TudoCelular • GTA 6",
+      "image": "https://css.tudocdn.net/new_files/img/logo_principal.gif"
+    },
+    {
+      "title": "DualSense de GTA 6 entra em pré-venda no Brasil nesta quinta (10)! Confira o preço - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON2p4bHFWZENNZ2J1bDV2TGtlQUo4QTNFSUxsaGhLM29vUjd6bTQ0QjJsT2dBeG1vNzlBYkdVUk5vLWhERndWZTdlMnBETHJLNDU0UUZ4Wi1vOE9tZl91N1BJdXVGLWxyNmxlN3VJXzZUNzJ3ejktelB1VnZjQWdCdVd5RHM3TDRLckZSSEktekJ6dUZBcW1SNUN6U3VWUHJLQVRGLWVJcmJvbzRjVTR1WHBnQzIyTFVkN3NEYXpVMNIBxAFBVV95cUxQd29jZW5mTDhDTkV1a2tSWHlEVUpSck9EZTFmbWh2Si1Ha2hYeHlQdE1BSmNYc2VTN0FIZVJ6cTI3NTBsYVdhYnlRWU5nZHROLVhIQmpoaGRWU3VWLVVQZWhJVW1zLWtfeTNSSXhwSWZXVC1iRm9SdngwemFSalhxVUdseWJSQVJFMmFlOTJ2bEkyNElXNHQySjdyakxqZEhlc3NndGMwMWNjODFzcHhRMlpsTFdyNTJOX3c1UFVZaENsSzlv?oc=5",
+      "description": "DualSense de GTA 6 entra em pré-venda no Brasil nesta quinta (10)! Confira o preço&nbsp;&nbsp;Estadão",
+      "date": "2026-09-10",
+      "source": "Estadão • GTA 6",
+      "image": "https://www.estadao.com.br/resizer/v2/2NLCRNMH5FNUHEMMSMBIFJ6PA4.jpg?quality=80&auth=1ea6333992df8ac590d337996c24421f87bd18f8e17181832361967defd4dfc5&width=1200&height=630&smart=true"
     },
     {
       "title": "Atenção, gamers! Controle PS5 DualSense do GTA 6 já é revendido pelo dobro do valor no Brasil - TudoCelular.com",
@@ -129,6 +193,38 @@
       "image": "https://css.tudocdn.net/new_files/img/logo_principal.gif"
     },
     {
+      "title": "DualSense de GTA VI entra em pré-venda no Brasil - alternativanerd.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWxGUEZpTGlwdS03X1VLVzBxdGZGX0RGVWo5NkZ5TWs3SHZUNUZncENVZnR1VXU4U2ZsRDdiMVNNejBuT1A0SUllRVdLTFkyS2paWDNyTkQtZ3lpbFk3T3N5ZUNlYjIyVzIyVVdtZi1KUS02SDRXNWpVeUxxZ2Jfb1o4OVBlam1mdmFybHdNYw?oc=5",
+      "description": "DualSense de GTA VI entra em pré-venda no Brasil&nbsp;&nbsp;alternativanerd.com.br",
+      "date": "2026-09-10",
+      "source": "IGN BR • GTA 6",
+      "image": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/04/AN_GTA-6.webp"
+    },
+    {
+      "title": "Novos DualSense de GTA 6 inspirados em Vice City já estão à venda - dol.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjJvNHNncVlJMG9QYmJEdmdpbEdycG9BNzJsTjNJdlBUamJ2cDdWM2tOd1B1UlItTUI0Um9FYWxreTRIeDdNS0xRN1dGSmdzNDJuUkR6VmhRZVJ3TGhpSWpURFNGYjhoSFpZR19iVGl1SVpTQ2J6TWVrbkFqaWVGT3Rack1UbHEtRExtMnFXT2VkMnRXOWtSeEVRdGtTU2owT2xnWUtGWGdsWkhaNWxfYjdn0gG6AUFVX3lxTE1OM043NktoYXhDMmRrV3hWaklHYWlOQ0Y2SHVyc3NvV0RDX0dwaFd5c2hWX196UDNTNDNWWUtxVk5RSWZObTRGaFpkd3MzRDhmVG13UFNaeDZ0SHFPTTNVRUsxTnQ0NHJKYlltWVVCa1VWaWJjd0R2WktfRmlSdGx6MGhoanBMSjBGaE9fUFZCdG5oREtkMEk0WnJwRU5VanBRdkNBVDNYMWZGczZUUzl4OHNiSWFOM25hQQ?oc=5",
+      "description": "Novos DualSense de GTA 6 inspirados em Vice City já estão à venda&nbsp;&nbsp;dol.com.br",
+      "date": "2026-09-10",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "PRÉ-VENDA | DualSense Edição GTA 6 Edição Limitada para PS5 - Adrenaline",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVJwX0xyNW8yVFc3S1B4YVNoMXRwQWFCYlVfeFYwRjBBaXVBYzg0OEx4S1R3Z054ajBEdGVYU2NneUVCekc1YlFXZm1IXzY2U2p2amQxYzNTcFJiRGRkbVozc2NEQlNXaWNmLWpTZkgzUHQ5bGl2eXdJSFpxak90ckhDV3RVN2llWnB2Ul9kX1QtM0szQVM0STlxNHZmdw?oc=5",
+      "description": "PRÉ-VENDA | DualSense Edição GTA 6 Edição Limitada para PS5&nbsp;&nbsp;Adrenaline",
+      "date": "2026-09-10",
+      "source": "Adrenaline • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "DualSense de Grand Theft Auto VI entra em pré-venda no Brasil - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnBEbE1JQngxMnI4NW8yU3dxam0zZ2ZDYVJyZWtPX0RLd005Rkk4dDVsY0hzVXpfUzY2SEM2TWpjNExOdVFwTF91WWtkc1U3YzNRM041TFJTUWRaczhSN2tfQ25FNVB1SkNMZnRZTmtHcTUzTTAzYVBxb1dwOFFXZEdsa2FablF1VjVwcw?oc=5",
+      "description": "DualSense de Grand Theft Auto VI entra em pré-venda no Brasil&nbsp;&nbsp;Última Ficha",
+      "date": "2026-09-10",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "DualSense GTA 6: Pré-venda do controle para Playstation 5 chega ao Brasil - boca.com.br",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15NHJ2MHNDSnI2aUdTTnF4QjZBVkVHaXd5emRpbkpkVm9YRDU2My01Mmh2TDhMaFBVWkRNNGFjWDI4bkJXakxjelJVRmhNV0VhZGFZcmpwYXQ0RUkxWWFleUdfams5V0tScXUwX1N3?oc=5",
       "description": "DualSense GTA 6: Pré-venda do controle para Playstation 5 chega ao Brasil&nbsp;&nbsp;boca.com.br",
@@ -137,17 +233,25 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Efeito GTA 6: em apenas uma semana, o novo jogo da Rockstar tirou o Xbox e a PlayStation do “vermelho” - IGN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEcxVEt1OU1aV1V6Y3E3TGNoQkIyRTZHLXpBY0h1OTJsTUlzalc5WDQ0OUJtMWJEVUJwRFhDSEcxcHVyRWJjY2tpUW1aaXo2elBlZmRqTUFXSmszNWFDU01vRHNwRkM2aEFvcGVacnZtR1c2c1F5TnF1cHVvR2NxZ2Y2SFlmTlhuME9zQVR2dHBOWTlScjYxaTQ3b0tGemU3VDBpZWdPYTZLSTAydW5jNHJVUXo5alAtUko3V3V4Z3BtcFFqMERGcHo3UUpNbG56Ul9pZ1E5VTJ0TXdI?oc=5",
-      "description": "Efeito GTA 6: em apenas uma semana, o novo jogo da Rockstar tirou o Xbox e a PlayStation do “vermelho”&nbsp;&nbsp;IGN Brasil",
+      "title": "DualSense de GTA 6 para PlayStation 5 entra em pré-venda no Brasil nesta quinta (10); veja ofertas - TudoCelular.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0RsZHdRaVlzX2hZeGZ3RkFFZnNwTDQ3bThNR0lNNS14alFpSzBPWjFqaWJTZkNFUjdpMWtwUGdsM0ZLVHAwU1pWTHlodklVOHh0dE40VlhvdUhBSHZuUmRuVzFNakstdmtZb1NsdEpFakx4WTg4UkJVcUZEaU5zcWFQTXkxSzl2V3RZTnRLY2JKZGc4Vy1HNy13bGdBUVRkdVVwWXNzN2Z0OFU?oc=5",
+      "description": "DualSense de GTA 6 para PlayStation 5 entra em pré-venda no Brasil nesta quinta (10); veja ofertas&nbsp;&nbsp;TudoCelular.com",
       "date": "2026-09-10",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      "source": "TudoCelular • GTA 6",
+      "image": "https://css.tudocdn.net/new_files/img/logo_principal.gif"
     },
     {
-      "title": "Controle DualSense Edição Limitada Grand Theft Auto VI já está disponível em pré-venda no Brasil - GameBlast",
+      "title": "PlayStation anuncia pré-venda do controle DualSense de GTA 6 no Brasil - Exame",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU19MamJnUklhOVFUY05MZ1FNZnhRa19FemxTV2x0SnNITzhZU0NXZmxJVC00WGZFekt0V195SVR3ak4tUHdXTUJLQ2QzMzhTcXFhYUhENUpfVnNkbk0wVl9jWkJQdk5FNlZNRE1EQnNhRHh6cGJtUXdUdzhtSEEzMW84SXhscWR0ck1NWFdsaEktbkFqU3VtVQ?oc=5",
+      "description": "PlayStation anuncia pré-venda do controle DualSense de GTA 6 no Brasil&nbsp;&nbsp;Exame",
+      "date": "2026-09-10",
+      "source": "Exame • GTA 6",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/09/ControleGTA6_PS5.jpg"
+    },
+    {
+      "title": "[Atualizado] Controle DualSense Edição Limitada Grand Theft Auto VI já está disponível em pré-venda no Brasil - GameBlas",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUdrd1NxU29pNzdueGlaWWFaNVFyRVpWbkpWeDM3OTUzb1VJR3d3dlRRczQweHg4QmVWWjZvQ3FSTkllYXducUNBMjV1US1vRGNRX2VLRmhlU1ZrLW5KdFQ3LWVjR1FEUGRFMFktZ2IwVmo2b3hoVGJQVlNCQnNnczV2Z0Q4cWFhZFF6LWxMR3o5UmgtY25TY0M4QlJTd3VoT2ZocGpXc05hckFOY3U3N2pYNGN4YXh6OXg1ZFFPallHVTlxaFZHY0RJMnU?oc=5",
-      "description": "Controle DualSense Edição Limitada Grand Theft Auto VI já está disponível em pré-venda no Brasil&nbsp;&nbsp;GameBlast",
+      "description": "[Atualizado] Controle DualSense Edição Limitada Grand Theft Auto VI já está disponível em pré-venda no Brasil&nbsp;&nbsp;GameBlast",
       "date": "2026-09-10",
       "source": "GameBlast • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
@@ -161,19 +265,27 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Controle oficial de GTA 6 chega ao Brasil antes do lançamento do jogo; veja quanto custa - Jornal Opção",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmVlWUlVU21leFM4dnQwMlQzZVo4NnBQTXRUUE9JN211OGNyODJ3Y1NrT011UXlocXF3YmdHOHVkaGVTQW9hRm0yU19PbjR0QjVUMDJOOTBpdDd3NjA5LU1OOThDNFJLMzlFenFSb181cUxBdGx1WE1pdVNiQ3Nvdk9SQjFvSlR5VkR5bUxESlhvSVRrT09FWk1QX3FWdG5wSnlHc1RvOEtVTjhUYVRzNHJJd2dzUGJoakN2bWV6UXVNQnFhdVJRbTdlS3BXOEo4eWdZ?oc=5",
-      "description": "Controle oficial de GTA 6 chega ao Brasil antes do lançamento do jogo; veja quanto custa&nbsp;&nbsp;Jornal Opção",
+      "title": "Efeito GTA 6: em apenas uma semana, o novo jogo da Rockstar tirou o Xbox e a PlayStation do “vermelho” - br.ign.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEcxVEt1OU1aV1V6Y3E3TGNoQkIyRTZHLXpBY0h1OTJsTUlzalc5WDQ0OUJtMWJEVUJwRFhDSEcxcHVyRWJjY2tpUW1aaXo2elBlZmRqTUFXSmszNWFDU01vRHNwRkM2aEFvcGVacnZtR1c2c1F5TnF1cHVvR2NxZ2Y2SFlmTlhuME9zQVR2dHBOWTlScjYxaTQ3b0tGemU3VDBpZWdPYTZLSTAydW5jNHJVUXo5alAtUko3V3V4Z3BtcFFqMERGcHo3UUpNbG56Ul9pZ1E5VTJ0TXdI?oc=5",
+      "description": "Efeito GTA 6: em apenas uma semana, o novo jogo da Rockstar tirou o Xbox e a PlayStation do “vermelho”&nbsp;&nbsp;br.ign.com",
       "date": "2026-09-10",
-      "source": "Jornal Opção • GTA 6",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Novos DualSense de GTA 6 inspirados em Vice City já estão à venda - DOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjJvNHNncVlJMG9QYmJEdmdpbEdycG9BNzJsTjNJdlBUamJ2cDdWM2tOd1B1UlItTUI0Um9FYWxreTRIeDdNS0xRN1dGSmdzNDJuUkR6VmhRZVJ3TGhpSWpURFNGYjhoSFpZR19iVGl1SVpTQ2J6TWVrbkFqaWVGT3Rack1UbHEtRExtMnFXT2VkMnRXOWtSeEVRdGtTU2owT2xnWUtGWGdsWkhaNWxfYjdn0gG6AUFVX3lxTE1OM043NktoYXhDMmRrV3hWaklHYWlOQ0Y2SHVyc3NvV0RDX0dwaFd5c2hWX196UDNTNDNWWUtxVk5RSWZObTRGaFpkd3MzRDhmVG13UFNaeDZ0SHFPTTNVRUsxTnQ0NHJKYlltWVVCa1VWaWJjd0R2WktfRmlSdGx6MGhoanBMSjBGaE9fUFZCdG5oREtkMEk0WnJwRU5VanBRdkNBVDNYMWZGczZUUzl4OHNiSWFOM25hQQ?oc=5",
-      "description": "Novos DualSense de GTA 6 inspirados em Vice City já estão à venda&nbsp;&nbsp;DOL",
+      "title": "GTA 6 leva mais de 100 mil novos assinantes à Netflix em um dia - Game Overdrive",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSktSMGtnU1c0Ymxzakp3dzJQVlBhb3RScGl1cTN6amE3OGxHVlRfdlhyd3E0OXpQc3hZc2FOR2xXSUwtSmRKMWpQRXlyT3doY25JSXdTT1VXbkcxSTNKRzFyZ3BCM2ZrVldrcUxlYkM?oc=5",
+      "description": "GTA 6 leva mais de 100 mil novos assinantes à Netflix em um dia&nbsp;&nbsp;Game Overdrive",
       "date": "2026-09-10",
-      "source": "DOL • GTA 6",
+      "source": "Game Overdrive • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Compre antes de acabar: PlayStation abre pré-venda do DualSense especial de GTA 6 - br.ign.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXAxdjNYX2dlN1RMZE1TMC1SZ3JHVGVwVWJkMnQxZDJxQ19qd016TXlnTGV5NDZXVGNUcXpRRGRsRUJWTklvMVB1V3ZNNFR5aWdxVUwtSGVOZ1pfZGN3cXh5UWhreXpHeEZRN0NmckhibU8tQS12enpxcTVJTi0za21qS01NUlVFS2h0Z1VtV1ByaE0wdmoyaEt3SWpqa1hrWkJkV182am54Q1MzZXQ2aUFfUFdMTFUzMzBtWmFWR1R3SWloSmc?oc=5",
+      "description": "Compre antes de acabar: PlayStation abre pré-venda do DualSense especial de GTA 6&nbsp;&nbsp;br.ign.com",
+      "date": "2026-09-10",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -193,11 +305,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "Compre antes de acabar: PlayStation abre pré-venda do DualSense especial de GTA 6 - IGN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXAxdjNYX2dlN1RMZE1TMC1SZ3JHVGVwVWJkMnQxZDJxQ19qd016TXlnTGV5NDZXVGNUcXpRRGRsRUJWTklvMVB1V3ZNNFR5aWdxVUwtSGVOZ1pfZGN3cXh5UWhreXpHeEZRN0NmckhibU8tQS12enpxcTVJTi0za21qS01NUlVFS2h0Z1VtV1ByaE0wdmoyaEt3SWpqa1hrWkJkV182am54Q1MzZXQ2aUFfUFdMTFUzMzBtWmFWR1R3SWloSmc?oc=5",
-      "description": "Compre antes de acabar: PlayStation abre pré-venda do DualSense especial de GTA 6&nbsp;&nbsp;IGN Brasil",
+      "title": "Grand Theft Auto VI: Um Olhar Estendido trouxe 100 mil novos assinantes para a Netflix nos Estados Unidos, revela Ampere",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUndzTDlFS3ZoT3BSeEttZ3lwRDVLbFVpZmtOb3lkQkoya2wzdFdrWjBFUEJNWDl2M2I3Vy1IZmpGZkVaMEFaR1E4Z2JkTGVkdWh6T0t3Z25ZdXdBa2V4eS00TEZZRHdGSkFaWWZfMVQ1XzlSWllhaHRZUDNTZllJUDdyemxLRDBOeGJoaDVTM01ZWVZLRGRBM1NDVVZyb2c1dUI0VEJ6a1lqbFUwSXhUSTBIVnpNTUZuRGRyamtyY0VEYW1yVjVpOHlHTW9fYVZmcEQ4QmZqWlNoN2k0TFYxVHd0cmMxWFp3c2I2RjFkUzh2YmRTNnVGb2N0ZXBkdw?oc=5",
+      "description": "Grand Theft Auto VI: Um Olhar Estendido trouxe 100 mil novos assinantes para a Netflix nos Estados Unidos, revela Ampere Analysis&nbsp;&nbsp;GameBlast",
       "date": "2026-09-10",
-      "source": "IGN BR • GTA 6",
+      "source": "GameBlast • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -225,35 +337,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "DualSense de Grand Theft Auto VI entra em pré-venda no Brasil - Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnBEbE1JQngxMnI4NW8yU3dxam0zZ2ZDYVJyZWtPX0RLd005Rkk4dDVsY0hzVXpfUzY2SEM2TWpjNExOdVFwTF91WWtkc1U3YzNRM041TFJTUWRaczhSN2tfQ25FNVB1SkNMZnRZTmtHcTUzTTAzYVBxb1dwOFFXZEdsa2FablF1VjVwcw?oc=5",
-      "description": "DualSense de Grand Theft Auto VI entra em pré-venda no Brasil&nbsp;&nbsp;Última Ficha",
+      "title": "Sem GTA 6, mercado das consolas sofreria uma queda em 2026, revela relatório - OtakuPT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EckJ3WVhIQVpvTGdaWnVBVktGT0twMWFxYk5QR2poVGxUcDFieGJqbEJlblU2aVRRVkxlM283QUl2MkhTM0toZV9PaFZkb2FLUmRKMmltaHpqLW5CWm1DZGtobjVSRlZUamxEOUw5eU0zbDFqd2Rz?oc=5",
+      "description": "Sem GTA 6, mercado das consolas sofreria uma queda em 2026, revela relatório&nbsp;&nbsp;OtakuPT",
       "date": "2026-09-10",
-      "source": "Última Ficha • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Como jogar GTA 6 mais cedo na PlayStation e Xbox em Portugal? - Magazine.HD",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFlKWGNOWXl1VDR4bmNkX08zTUxnNENOVjZyNXZvRFY1bDEzb2IwYlZVeEpxUlYydWtuUFJzSDNQVmRua0diX3N2aFRqZXRQSTRxUDhvRVRLeE9RSTU1NEUxX2JEbC1tTW90MVNiTzRGS01yUFY4Zjc2QzhzWU5QTEkzeC0tRUdIeFExcGNfRzZka0lLZEYyeHdNYVFrNXRoSEk3VEp5QWxkTXo4T3c?oc=5",
-      "description": "Como jogar GTA 6 mais cedo na PlayStation e Xbox em Portugal?&nbsp;&nbsp;Magazine.HD",
-      "date": "2026-09-10",
-      "source": "Magazine.HD • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Novo comando DualSense de GTA VI já tem data e preço: vê como reservar - 4gnews",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzRJT1JINmx1SEs2SlhVMTVoUlNJZEM1b0ExWEt5SVU5VEV2NTVvQ2FGZ2d2cUVWOWY3NGZGTkl3VXpBWjlDNXZBRjRmaWZlWnFLVERIVTRrSTlkOTBjOFBXaTJVSFhvS2hXb2JRYktaSUM2ejVKNHVTZ1JRb2NmS245V241NERQampUWXNmRzVsZw?oc=5",
-      "description": "Novo comando DualSense de GTA VI já tem data e preço: vê como reservar&nbsp;&nbsp;4gnews",
-      "date": "2026-09-10",
-      "source": "Games BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "DualSense de GTA VI abre pré-venda com preço de US$ 84,99 - SpaceMoney",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04ZDZXQmpjZFNDUzk5dFUtU3J4NEtRN3BXckFKRW5uejkxRGtjTGVFR0dxUS1qTy1rZ1JkV3RXb0NOT1VYTktacWQwUEhVTnFUNDF6eU5ReU5fcVAwT0Jzb0ZYWjl3MjJqVHJZREVzbVU2TnJ3aXpz?oc=5",
-      "description": "DualSense de GTA VI abre pré-venda com preço de US$ 84,99&nbsp;&nbsp;SpaceMoney",
-      "date": "2026-09-10",
-      "source": "SpaceMoney • GTA 6",
+      "source": "OtakuPT • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -265,99 +353,11 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "DualSense de GTA 6 entra em pré-venda no Brasil nesta quinta (10)! Confira o preço - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd29jZW5mTDhDTkV1a2tSWHlEVUpSck9EZTFmbWh2Si1Ha2hYeHlQdE1BSmNYc2VTN0FIZVJ6cTI3NTBsYVdhYnlRWU5nZHROLVhIQmpoaGRWU3VWLVVQZWhJVW1zLWtfeTNSSXhwSWZXVC1iRm9SdngwemFSalhxVUdseWJSQVJFMmFlOTJ2bEkyNElXNHQySjdyakxqZEhlc3NndGMwMWNjODFzcHhRMlpsTFdyNTJOX3c1UFVZaENsSzlv0gHEAUFVX3lxTFB3b2NlbmZMOENORXVra1JYeURVSlJyT0RlMWZtaHZKLUdraFh4eVB0TUFKY1hzZVM3QUhlUnpxMjc1MGxhV2FieVFZTmdkdE4tWEhCamhoZFZTdVYtVVBlaElVbXMta195M1JJeHBJZldULWJGb1J2eDB6YVJqWHFVR2x5YlJBUkUyYWU5MnZsSTI0SVc0dDJKN3JqTGpkSGVzc2d0YzAxY2M4MXNweFEyWmxMV3I1Mk5fdzVQVVloQ2xLOW8?oc=5",
-      "description": "DualSense de GTA 6 entra em pré-venda no Brasil nesta quinta (10)! Confira o preço&nbsp;&nbsp;Estadão",
+      "title": "DualSense de GTA 6 entra em pré-venda; saiba preço do controle de PS5 - techtudo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHRId3pZcU9tSEdHWWdXeTVRSUMxYUVtTWVJa1lXVDBaSGJNdV83VGVmcVRzRDJGWk5LdWdkZFV6ZjA2ay10Uno2ZHRZUm1tYnhoT01hMmdWN1k0dGNuRTZsdlJsa1BQQkxCSEdnMnppZ3F0bnN4bmJvVFBpM2xUbldUTlNMOVQ5dzU5eklaNVFjbnNrRkNPMmw3QTZyQWZIWGNqcEd4bVhUNURVc0l3ZWdxT1RESlFlc2ZIQ0V5UjRVVWJybnfSAdQBQVVfeXFMTzcxNmZNVW55TnhZVEdVd2hGajd5Q250VHpfNUNmUUllQ0JSbkZDUDA0c1VVQVRTcE15WllSZ2tCbS1DakJrUzFRSWVDZXV1ZVVianBlREprdWhSek1kRXl1VEF6YzVzdmo2X3FqTGNkdUFxcll5Mmc3cTVfS29ZY2RmYW9PM3M2SnJVcm9wMnFoSU0za3VkdVh2T2tCUDlnQy1DeHFkYVNEVG82Q0N0NEhXbUdtN1ZFOFVJYk5MMlk1Rkxiak9jVWUtQ2V0aUVaMTNXWXQ?oc=5",
+      "description": "DualSense de GTA 6 entra em pré-venda; saiba preço do controle de PS5&nbsp;&nbsp;techtudo.com.br",
       "date": "2026-09-10",
-      "source": "Estadão • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "DualSense de GTA 6 entra em pré-venda nesta quinta-feira (10/9); saiba detalhes e preço - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3J3bXdvWXRFTTJkc2tiZDJSWmphcmlYQTUwQVZHNXJmTVZRc2VNYTMyLTlheld6enRiaWJaOTFWajRSdzFiWThka2NKUGNWSFNOZ08wT1RFOS1UM0twY1loQ1NYLWZqd3ZNVWRBRUxrN09Ob3RTTzIyVm95R0FVZG9Lbl9QTkdWeGU4QkRCTnE5YVB3U18yZkZQZm9IMjlQemNsXzkyZFlFYVZWSnZQTFlfcmdLRWNETjBKbXdRYm50TWhfRk5Xd0dONTFmMENjZkdmbk130gHbAUFVX3lxTE5Dd0x0R3poUk0xNWY0dmhWaV9Bb1lXQkZ6UFAtYTltWW1qREt2VThjRzFael83TmhqTUZ1dkZ4STBCUWw5NVBKZmVRVzFiVDdjT0lJc2hYZkVtZF9BQkR0MHpvVGV5Tm9odnc5V2lBbno4OThKNTQ0VnJCWE9wRFkzNkxpTUJidElfOXpfQWNISDdYVmloWWtMMGpwZVh0U3ZxX0E1Y0s5Y0Z1dGF3YW1tWWl5amZHUmtpUW1hel92XzBsVWEzVUVlQWJDdFd6QVRzdjl4c0lwQXFNWQ?oc=5",
-      "description": "DualSense de GTA 6 entra em pré-venda nesta quinta-feira (10/9); saiba detalhes e preço&nbsp;&nbsp;O TEMPO",
-      "date": "2026-09-10",
-      "source": "O TEMPO • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6: Aparentemente, as missões da história por si só não serão suficientes para concluir o jogo - Notebookcheck.info",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYy1faUhxczhXeFV2ai1FT1hNcWVrMkd1blRpcm5ybk85YUxUTGxLMElIU2ZDdkdCRmttMVEwNzZ6VnZ4NUdiSGpwV1hrTTZnT2dlVFN6RVN1MHY1eUZ1bHNlaUhiUWlTTmNsYzh5Mm5FNUhKblg4ZkpBTHVkQWlaYVZRUnpOTUt6WGFRdldzTnlJdDU2WFVvLTg0cmxxelhUNDItXzlOcEdWNXJBaUNFWk95OHFSeEFlSkVmZlBEcFJTOTYtT1JPUVB5THV2Qmg5Zm55YXBQYW4?oc=5",
-      "description": "GTA 6: Aparentemente, as missões da história por si só não serão suficientes para concluir o jogo&nbsp;&nbsp;Notebookcheck.info",
-      "date": "2026-09-10",
-      "source": "Notebook Check • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Netflix ganha mais de 100 mil novos assinantes graças a GTA 6 - insider-gaming.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0xBLVlJLWtlb1NwZWkzVGtxUFZpSzVQX3gtUkI3RVhqdXFuU3kxZ3ZkUzFhX2cyb0dLalFGVVBTaVpOYi1Gak5PSGpHYlFGRnpFQlo2c3JSSURuTzV6dW10MFdlWmRsUXFacGVmaVFWa1hJZHFWOF9mckN0MmJlOFA3bWZVWTFuOFVIS085SlBMWGV0Nmc?oc=5",
-      "description": "Netflix ganha mais de 100 mil novos assinantes graças a GTA 6&nbsp;&nbsp;insider-gaming.com",
-      "date": "2026-09-10",
-      "source": "insider-gaming.com • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Vídeo de GTA 6 levou mais de 100 mil pessoas a assinarem a Netflix - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUxVNUlMbW1zazFJaGc4NHJNSG1YYTVfeTU4Y0hKaXFxNF9lMVRxZllGRFF3SVpTcWRIMmRZN2pEWXhjQ1JCb29nWWs4bkR4b3AxZTZLakluRmI1dlZjVElhVHB6UG0xNktRMjdTaU5JRVdUZEIyb25XVlMtdEJ6UHFrd0hBS2JIcVl1RUFjaTZUTHhGRUE?oc=5",
-      "description": "Vídeo de GTA 6 levou mais de 100 mil pessoas a assinarem a Netflix&nbsp;&nbsp;Eurogamer.pt",
-      "date": "2026-09-10",
-      "source": "Eurogamer.pt • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Por que GTA 6 evita temas da atualidade - games.gg",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBMVZjaE4tTWowMXVvbjY4eHZSbVkxQWctMEhXN1VUbWU0NExVaXdDN0R5dlpNeWpPYXd6NlFYZzJPektYQkVEeUxmc3JmSDZwaVdQenN6aFZfUVlzTEhrUm81T2lvRUg4WWJ1Sko3cDJZelFXakZV?oc=5",
-      "description": "Por que GTA 6 evita temas da atualidade&nbsp;&nbsp;games.gg",
-      "date": "2026-09-10",
-      "source": "games.gg • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Rockstar enfrenta sindicato em tribunal por demissão de funcionários de GTA VI - Combo Infinito",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEhaajZrenBzVFpPQ3ZyVk9DVFdaY1FUU0o5YlVVOTdXcnZrM291SFlCVVRReHZjaWdKUnZBbkhGRFN1YkdzMGVReGkxSDVDSXdkNmJYYmJXZjI3TjhCR3pZaG9zU2dMRTkzdzVtTHJfeVFXSDNtTFlWT3RMNEd3YUEtcFk2eGhoRG9lTktiM284Mk5iRWwtbi16RjUzcDBNa3c?oc=5",
-      "description": "Rockstar enfrenta sindicato em tribunal por demissão de funcionários de GTA VI&nbsp;&nbsp;Combo Infinito",
-      "date": "2026-09-10",
-      "source": "Combo Infinito • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "A Rockstar explica como a sátira do GTA 6 pretende manter-se relevante - Notebookcheck.info",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0FKTmFhcFlZOTBXWnJjakQ1aXQ3QVltcm9XbTh0a2wtVV9zOEJuUW11MzkyVlI4SlYwNXRHOGtraFFXUEx6R0IyTG1GM3E3bXIxYzY5Ri1udlBiQk9KMzYxVUE1cVp3bzBCTHBHd0VlNElkQ0x2bGU5ZzNuYlIwcmQ4dlEtNGM3XzBTVnp0RWFVeVVzUFNxQ0lEdDFra1pOc0QwcHpITFkxMEt5SlRvd3NBOXExMVk?oc=5",
-      "description": "A Rockstar explica como a sátira do GTA 6 pretende manter-se relevante&nbsp;&nbsp;Notebookcheck.info",
-      "date": "2026-09-10",
-      "source": "Notebook Check • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "PlayStation recebe comandos DualSense do GTA VI - record.pt",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamtsV0pwTmZuMkRSM3A3MEFaNXlEZ2hva2hYVTZKc29sX2l1RGdCSW5hUEMyaElXSUpCTU1faUVzcGplQzdJeVFZdTMtb0daSlBqVEQyLUttNll4aENYSDlFdWY0amlZSVZ5TzFPOUJVbkx0OXRFSzBDeFpDbW1qaFJoX1BlMXpPRm04NEU4WUFtVm5VLUw3US1FeS1WcHdvT3VFam5iaE9mdENCbWZhMdIBkAFBVV95cUxNSHZNR3NnWk1JNjhkaXhxbko2U1Job3NFcE1IblNDMktFSDVxb2JYdjdFLTlpd19YRXVTbDZGcVRqVm5wSTI4TzE3aFlzMmdTODBkUVk4UjhVcHZuV3JQTUE2Z1lOUUMwNmVqOS1iTkp1Tnp3SXFrOHJCbnJBWDRyWVpNY3lOZHl5ODZLbWcyaEg?oc=5",
-      "description": "PlayStation recebe comandos DualSense do GTA VI&nbsp;&nbsp;record.pt",
-      "date": "2026-09-10",
-      "source": "record.pt • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Villion: Code será lançado em 2027 para PS4 e PS5 no Ocidente - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDBnX1JhZE94VDBqS1dtaFlVZWhTX3NBanBXMDAteTNZZjF5VFJHOHF0bXpZSTZVYTRWamgwYzV1MzZTekRvSnkwY0dIMmE0VjVYZGVkNlB6QlNFTGM0OWpZMkNJdHZSSlFkSmZnLWFzU1VaWmp0eGpRMjNjWWFaNW1aTUVjY3VxaFA2NDlhQQ?oc=5",
-      "description": "Villion: Code será lançado em 2027 para PS4 e PS5 no Ocidente&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-09-10",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "SUNSOFT is Back! Retro Game Selection 2 é anunciado para PS5 - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHdpYUdncUxtREZSR3pSNUxudUZObXAzVjhqUHR1SDhUaGx5Vm9xbmJFYVpJYVpBdF9uV2dGUW96eVhRdmVleS1jU2xTNXJ6WTJtNmZUSXY0czBtSEU2SmJnUllfTjFPdXpZYU9felVBV0FGUnpUNU14M1I0TUswLXlrVF95eDZTUGhERVVR?oc=5",
-      "description": "SUNSOFT is Back! Retro Game Selection 2 é anunciado para PS5&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-09-10",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "BLACKSHARD será lançado em 22 de setembro para PS5 - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbll2dmQydzFhak9taThZQnNUS2dObERhWms1aWpYclJLcE5yQV9CaUNiUjN1RV9hbGFMa1htSERsckdvdnJFX0VzWnQ2bzBoT0liWHNsNGZoWXRodnhwbEhsamYtOXZtODd5YmJmazAzSFVqaHY3YXM0cmZHQXNSeW1B?oc=5",
-      "description": "BLACKSHARD será lançado em 22 de setembro para PS5&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-09-10",
-      "source": "IGN BR • PlayStation",
+      "source": "IGN BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
@@ -419,6 +419,20 @@
       "date": "2026-09-08"
     },
     {
+      "title": "TOP 10 JOGOS DE PLAYSTATION 2! TOP ALGUMA COISA #020",
+      "link": "https://youtube.com/watch?v=8YWw1-TcaJA",
+      "thumbnail": "https://i.ytimg.com/vi/8YWw1-TcaJA/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "DAVY JONES JOGOU O GTA 6? 🤔🤔🤔",
+      "link": "https://youtube.com/watch?v=6TgG8p8O1eo",
+      "thumbnail": "https://i.ytimg.com/vi/6TgG8p8O1eo/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-09-10"
+    },
+    {
       "title": "HOMENAGEM AO PRIMEIRO ZELDA! 😍😍😍",
       "link": "https://youtube.com/watch?v=VkK---Dk2Co",
       "thumbnail": "https://i.ytimg.com/vi/VkK---Dk2Co/hqdefault.jpg",
@@ -459,27 +473,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qcogqeZ0tbY/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-09-09"
-    },
-    {
-      "title": "O QUE CADA ROCKSTAR FAZ? ⭐⭐⭐⭐⭐",
-      "link": "https://youtube.com/watch?v=bn7YUZ525bU",
-      "thumbnail": "https://i.ytimg.com/vi/bn7YUZ525bU/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "EVENTO ZELDA DIRECT, VEM REMAKE DE OCARINA OF TIME! - COBERTURA FLOW GAMES #FGN",
-      "link": "https://youtube.com/watch?v=VYMtcHZ42ok",
-      "thumbnail": "https://i.ytimg.com/vi/VYMtcHZ42ok/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Isadora Basile conta detalhes do SUSTO que levou durante a Gamescom 2026 #gamescom #eventodegames",
-      "link": "https://youtube.com/watch?v=pU233vvGS5Q",
-      "thumbnail": "https://i.ytimg.com/vi/pU233vvGS5Q/hqdefault.jpg",
-      "channel": "DebYte",
-      "date": "2026-09-07"
     },
     {
       "title": "Caos e Polêmicas da Gamescom, Edu Abre Substack, DeByte Indica &amp; Mais! | Ep.131 feat @IsadoraBasile​",
@@ -529,7 +522,14 @@
       "thumbnail": "https://i.ytimg.com/vi/BoNx3AoCJQI/hqdefault.jpg",
       "channel": "DebYte",
       "date": "2026-03-30"
+    },
+    {
+      "title": "Felca Sob Pressão, NVIDIA Anti-Arte,, Neymar Abre Canal &amp; Mais! | Ep. 110",
+      "link": "https://youtube.com/watch?v=KtYbxPpex9k",
+      "thumbnail": "https://i.ytimg.com/vi/KtYbxPpex9k/hqdefault.jpg",
+      "channel": "DebYte",
+      "date": "2026-03-23"
     }
   ],
-  "updated_at": "2026-09-10T20:24:11.725509+00:00"
+  "updated_at": "2026-09-11T10:27:11.520254+00:00"
 }
