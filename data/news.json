@@ -1,11 +1,339 @@
 {
   "news": [
     {
+      "title": "GTA 6 ganha especial na Game Informer; saiba como ler no Brasil - tmc.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0tVUDN0V0stZUpiZVdWNDNCclRFRFd6WEs0ZDU1eHpjNmQ3QWZPOHJQai1jZWFyTzdycklMaHVVQnN6S3Q1V1NxVTZfOVJmTjR4T3FjV2IyUHYzTFdrMWpOOHAtYm04NVpNazNqcXRmRV9Ld1ZWcFowaXJlUll0RWtSMWxTT3BUbFZUZA?oc=5",
+      "description": "GTA 6 ganha especial na Game Informer; saiba como ler no Brasil&nbsp;&nbsp;tmc.com.br",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://tmc.com.br/wp-content/uploads/2026/08/eclipse-lunar-8.jpg.webp"
+    },
+    {
+      "title": "Onde ver a revista Game Informer de GTA 6? Veja preço e como assinar no Brasil - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVZMRXR2dUppaDZnWlNDTmYzWUdCc0lTcm5jTVBCQTN0RGZyS3pjQjhrUkdoSkZpQjlhR0RZRmpyUFkyNERYVURnaE54bm1XcllYUHB2ckUtdmswVkl1TGZ1N3ZOaGpkcm5PUGFyVVdaLU5RV0NRZGExRFZDeFNRdjBzVDZqM1oxLU44czJBSE9YLWJQMjlYTzJsdlBYY0Y5YThzZENmTkI2WTlhU0FjN3VrODZPU3JJb1dBLXpfeVdrQdIBwgFBVV95cUxOQVZMRXR2dUppaDZnWlNDTmYzWUdCc0lTcm5jTVBCQTN0RGZyS3pjQjhrUkdoSkZpQjlhR0RZRmpyUFkyNERYVURnaE54bm1XcllYUHB2ckUtdmswVkl1TGZ1N3ZOaGpkcm5PUGFyVVdaLU5RV0NRZGExRFZDeFNRdjBzVDZqM1oxLU44czJBSE9YLWJQMjlYTzJsdlBYY0Y5YThzZENmTkI2WTlhU0FjN3VrODZPU3JJb1dBLXpfeVdrQQ?oc=5",
+      "description": "Onde ver a revista Game Informer de GTA 6? Veja preço e como assinar no Brasil&nbsp;&nbsp;Estadão",
+      "date": "2026-09-29",
+      "source": "Estadão • GTA 6",
+      "image": "https://www.estadao.com.br/resizer/v2/CGIVO6KO25ATTAK6YAQ5HJQW34.jpg?quality=80&auth=ea8ff9c2d54611794366025c04d2c55704447372dd20f47b6e4855bf1349d96c&width=1200"
+    },
+    {
+      "title": "Novas imagens e detalhes de Grand Theft Auto VI via Game Informer - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2oyTmU0aXBfaVN4cVRYYUpKd2VzWlotSkxYX05kdllrRWs5VjV1ZTM5VGFGZFJMcml5QUlpck1vckJkZk1JTDVaYkpSbEF2b1ZabTlEanhMTDA3M0dfa3RCUkloRk1XMmVURlc3cGpZamJYSW5yZ0ZzdDRfX3k5ZTRNMmo0cDMwREwtdHp2TGQwUVkwNEE?oc=5",
+      "description": "Novas imagens e detalhes de Grand Theft Auto VI via Game Informer&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://psxbrasil.com.br/wp-content/uploads/2026/09/GTAVIGI.jpg"
+    },
+    {
+      "title": "Rockstar revela 12 novas imagens do GTA 6 - Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT0pmT0xNd0tTb1hoNG5VaWpQYzNzSVFXaW9ycmZKeGNvOElCWU9SNGhvZjAxaWJ1QTRnQWp5VDlXWmEyT185ekRWMVpxR0x0NTBDSHA2VFFEeWtWZV9lWHFYckZVWkl3eVlpeE5FaHlxNUZGa3pLQi1IcVQ?oc=5",
+      "description": "Rockstar revela 12 novas imagens do GTA 6&nbsp;&nbsp;Insider Gaming",
+      "date": "2026-09-29",
+      "source": "Insider Gaming • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Onde ver a revista Game Informer de GTA 6 de graça? Veja preço e como assinar no Brasil - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSmUybm5keEE4TkRZTnhXZlBHNmV2aUtZWGR6S1pQTkVGMGdZNE8yN1RLRFFJZVVxaVl3VlJNTkY5N1BzVU90V2ZMLTJKMlV1WTh6dW9mMUdWWDFRT0d2MThxUDYtdENfWEl6Mlh0NDVtVkNjUjI4M0VYaFdRTFhxOVowaGU0c2pRVlYwU0syOWU0SDljNlVLWi02QkRqdkV6SHdheno5MlVuZ09XRGt3bXcwcDhjb0tNQUlreWFXdGFHUVZ5Y3ZV?oc=5",
+      "description": "Onde ver a revista Game Informer de GTA 6 de graça? Veja preço e como assinar no Brasil&nbsp;&nbsp;Estadão",
+      "date": "2026-09-29",
+      "source": "Estadão • GTA 6",
+      "image": "https://www.estadao.com.br/resizer/v2/CGIVO6KO25ATTAK6YAQ5HJQW34.jpg?quality=80&auth=ea8ff9c2d54611794366025c04d2c55704447372dd20f47b6e4855bf1349d96c&width=1200&height=630&smart=true"
+    },
+    {
+      "title": "Game Informer dedica edição especial a GTA 6 e mira fãs brasileiros - ncnews.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2tJZHI3ZXNoRnJLR19UWnZjdWFpbnpHbmM4N01mbHlZTTI2Nlk5SDVjNXVGQUF3QmJUd25mME1aMTg0VnJpOXZ1djVFNklISDlZS0JkX0Fwc3NqbVpFYlJGUzhNRS1qTkxucXR1SXVtTnpZTzA3dkR1R2VpOTV6N21WbUZRZnhrT1pHZzJOc2k?oc=5",
+      "description": "Game Informer dedica edição especial a GTA 6 e mira fãs brasileiros&nbsp;&nbsp;ncnews.com.br",
+      "date": "2026-09-29",
+      "source": "Games BR • GTA 6",
+      "image": "https://ncnews.com.br/app/uploads/2026/09/gta6-prevendas.webp"
+    },
+    {
+      "title": "GTA 6 terá mais de 170 espécies de animais - Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FMEZVd25TdmgwSkU4cnQxZ3M0S1pnU3FLTGdoM2kwS1ZIcm9zMUd0MWFDZTVXOGtxLVQxWUxPeF9SUDF1cndMcUpMVW45VlR2LUNvSXFQR2lCNnFtd3NfalljQ09JeDBiNjRDb1lfd3FNN3c2cUNIWXdCeWczUQ?oc=5",
+      "description": "GTA 6 terá mais de 170 espécies de animais&nbsp;&nbsp;Insider Gaming",
+      "date": "2026-09-29",
+      "source": "Insider Gaming • GTA 6",
+      "image": "https://secure.gravatar.com/avatar/3435aaf41f9d09a61430d2250c2260b2572255b892f3ed20e56af18f7fd46dd0?s=96&d=mm&r=g"
+    },
+    {
+      "title": "GTA 6 terá tempestades tropicais e furacões - Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56dzU5UVcwSlVNbDJNV3U1V1JtQnNiLU4zc19xOUNOeWlxa2J6S0pfQVRaUjVFS1A2ZVBFczhBNndnTnJMY25qYWp5aDNHei1LVGRHRzhnenB3eVdQbWx2UlFjNnowdmVhYWdsQzlpRmZiTnBGVzJoUzBZdXY5dlE?oc=5",
+      "description": "GTA 6 terá tempestades tropicais e furacões&nbsp;&nbsp;Insider Gaming",
+      "date": "2026-09-29",
+      "source": "Insider Gaming • GTA 6",
+      "image": "https://secure.gravatar.com/avatar/3435aaf41f9d09a61430d2250c2260b2572255b892f3ed20e56af18f7fd46dd0?s=96&d=mm&r=g"
+    },
+    {
+      "title": "Como a Roblox pode se beneficiar da febre de ‘GTA VI’ - InvestNews",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGZ6RHhfMkZwSnFIZTV0RzJtZkYtLXRxcWVOZFcxNm1OV2M0VjN1dXQyVi1YdXJDNERaM3RfM01ua3lzOEI0dS1SUFlYMFpSSU5BZUNHVm9ZQzFVblFieFh1WnFYcUJDdzd4NW5CVkw3TWF3N09PYUNUT18wVWVjZFZRcmVmMmZlMFhuR080c1jSAZYBQVVfeXFMTjJFTUQ0MHlUcGppdFpVQnBfSHVMTHpaRWRFRHVkWkR0cGUwR0J4d0p4YUw5R2NEcllEai1JS2JjM1R4aFpLLXBueVB4SHNnOHIwajV2cVFuSlE4S1RSN0RoYnBWaE1EZjdET3I2c3hSRDFmM0N6andHYkh3S1ZGbEtWMVRQQ0ZMdDV3Q0NYTEs2Tk9pOFBB?oc=5",
+      "description": "Como a Roblox pode se beneficiar da febre de ‘GTA VI’&nbsp;&nbsp;InvestNews",
+      "date": "2026-09-29",
+      "source": "Games BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar revela novos detalhes de GTA 6 na revista Game Informer; confira imagens e novidades - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmI3THlrNmVqSXpTNWlBSlBuTmVKNlBRUUh5aDFlNWltNUtHTDRqQUttY2twUTNueUVRT3MwN1hRbmUtY2N1M2pzVFpGNE9SajBhMHRPMnk0Y3FWYTZ4QUlTZksyU2U3dmkyYTFHZXdMZE5UTzVQUjdYdWp2d3RRTjBIZkhPRGRHRjlGVFBSTi1uN0pyTERSVk12M0dGZUltT3FOSERDUXB6bmVPUUhQempZVGYyMm9fNW5CRFctMjVlWXFuY3FPemxKYlJ3QTdYRlNvYVZB0gHWAUFVX3lxTE5WYjdMeWs2ZWpJelM1aUFKUG5OZUo2UFFRSHloMWU1aW01S0dMNGpBS21ja3BRM255RVFPczA3WFFuZS1jY3UzanNUWkY0T1JqMGEwdE8yeTRjcVZhNnhBSVNmSzJTZTd2aTJhMUdld0xkTlRPNVBSN1h1anZ3dFFOMEhmSE9EZEdGOUZUUFJOLW43SnJMRFJWTXYzR0ZlSW1PcU5IRENRcHpuZU9RSFB6allUZjIyb181bkJEVy0yNWVZcW5jcU96bEpiUndBN1hGU29hVkE?oc=5",
+      "description": "Rockstar revela novos detalhes de GTA 6 na revista Game Informer; confira imagens e novidades&nbsp;&nbsp;Estadão",
+      "date": "2026-09-29",
+      "source": "Estadão • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Novidades sobre GTA 6: Rockstar revela novos detalhes sobre o jogo de mundo aberto mais esperado de 2026 - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSk50OVdjdEVKQlI0OExnX3lTTk16cDltdUg4X0x0VkxBVG1ueUVIQzVMSjZqZGVoZUFybUtvWnRnQzVmWTh0RlFXU2QtZjgyRFJ5S1FiOUxGa0pwUWM5NkRsdVlkR0doSS1iOEhUWVVEY3FzbTZmOTBhYzJoSTBvT29YejZjb0VlYllHRmlaZTBtZThnOXd5bzE4ZWdkR2EwbURDUDJfTWhia3JWcnppRmE0SjduQ253RjF0YV9KZVNQUzVYZUFvYTZLOW5FT01FbzFZdTE5SEdhRVUyOTVF?oc=5",
+      "description": "Novidades sobre GTA 6: Rockstar revela novos detalhes sobre o jogo de mundo aberto mais esperado de 2026&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Grand Theft Auto 6 revela 12 novas imagens com detalhes de Vice City - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTk0Sl9oRlVENDV3dnBZazliYUVzV2pEaFMyU2UyRER1TVdCZjFHSUFjc3VXMU85eDZXMEp3dFRRU1A0Q1VQQ2dlUWdMR015N3FydDNRNnNOSWp1X2JTbGtReG9yckVsVTI3QTlSbWpRa3NNTmthSktmbVhOaU1jSnFVOG9TRmJk?oc=5",
+      "description": "Grand Theft Auto 6 revela 12 novas imagens com detalhes de Vice City&nbsp;&nbsp;Última Ficha",
+      "date": "2026-09-29",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 ganha 12 novos screenshots de Vice City - einerd.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmaDN3bmpXN2J0RzVneFl4V1h2TXdQRXNuTjFJNEpGNWxhRDBKS0pMUDVnXzdRczY5SC1zdFB4YXc0ZEIxZ3JYa3VhNUwtTjZYbDQ2QTRPb2RKYXFrT0VLZVg1QUU2V2hLVXhibXNfVTladw?oc=5",
+      "description": "GTA 6 ganha 12 novos screenshots de Vice City&nbsp;&nbsp;einerd.com",
+      "date": "2026-09-29",
+      "source": "einerd.com • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 na Game Informer: cobertura traz novos detalhes de clima e NPCs - Game Overdrive",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90ZDFLUmgxZlRyazViMFZOVTBJVDBVaE1aYkhHMy1KVVVHTUt3RHE2Zy1ra1hpTHA2Rmk5TWJUVnVtWDZyc0xSNTh3cklHYm8yYnFKYzd0eFRkTTFFa01fXzc5ZGZaV2tPaUJSWUo5d0llX3hqNFE?oc=5",
+      "description": "GTA 6 na Game Informer: cobertura traz novos detalhes de clima e NPCs&nbsp;&nbsp;Game Overdrive",
+      "date": "2026-09-29",
+      "source": "Game Overdrive • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar revela detalhes inéditos do clima de GTA 6; veja - Pichau Arena",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjhwcFZsNjJXQWhSZllOMFo1QXNtQkZjQ05BQ1BVTk5tT1p1c19qQ2JOYWJpcHB6am5NVTZPY05RdEFUQmxMTTRwdGpTQko1eTlObkd2UTFadThzb25rS1M5OXFiV19Na0tEUWJ6a2lyeVFwLXRhQ2VtUFdHMDJYTjlR?oc=5",
+      "description": "Rockstar revela detalhes inéditos do clima de GTA 6; veja&nbsp;&nbsp;Pichau Arena",
+      "date": "2026-09-29",
+      "source": "Pichau Arena • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Fã recria estatueta da edição de colecionador de GTA 6 e disponibiliza modelo 3D por menos de US$ 2 - arkade.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXVZRk9obzhMUnhiUGZrVUotSm83Ml9aTVkxUXpZeW5wMEc5UmwtanBvTWRPS2ZnRzZBMFNVWVZObG5Oa3lManJKa1FqQXUxdlRCaTBxUjV2S3FxTTZLd1N0SmtWRmRWR3RwTlBwVU01Tno0SUdwTVF4SDk5dHVZUGJnbDhObGpMYW9VRmEzS0E1bjd3MjVuelg5NDVVRUhfMURYYVF0NFZ0dm84ZDRQS3JkN21NVmVuYS1aOWd3?oc=5",
+      "description": "Fã recria estatueta da edição de colecionador de GTA 6 e disponibiliza modelo 3D por menos de US$ 2&nbsp;&nbsp;arkade.com.br",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Final de GTA 6 pode variar de acordo com decisões do jogador - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjV3MjRkejNBY2VDdUpxZkxPeF9rUk9ZUk9LM091aGV0T1pVZVRwS0s2UTc4eFFUSFZlWElxQm1oekhLYjhyeWxVbDNtTjljZ2czMnlhOXVxNk1hUjdENkFnVXYtTHBnbTBxN2NEYTZqU2pnc0NUeVhyTEZ1MWxCVVN5M0RMRkg0NXdMRTFkWlZqSjdaT1l3cVJPQkN2Rno3ZzdpNmhZalRIUQ?oc=5",
+      "description": "Final de GTA 6 pode variar de acordo com decisões do jogador&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Grand Theft Auto 6 terá mais de 170 espécies animais em Leonida - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OZ0w5b21wUnM3bnRtMFNOTjZZN09ucUdxdmZvampYNVlIVDh1bFVEZ2N1MHVMSEpwNXFfWEI3YzcyRkgxcjRuYW9mVXc5cHoyeHJMZG4zQWRSd1lkbkJUSmtSOV9lVzk0NUp5MlVaRjdMUnZ0STczUkRLZEdkZw?oc=5",
+      "description": "Grand Theft Auto 6 terá mais de 170 espécies animais em Leonida&nbsp;&nbsp;Última Ficha",
+      "date": "2026-09-29",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Minigolfe, paraquedas, mergulho e mais: Rockstar divulga atividades secundárias de GTA 6 - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMzBfTnJHcXB1NUtHajNjRTZ3ZTRzSlBFQ2Jmc1VocktfYkZKMV83QU5fVnBFQUlrNWpmYnpBUElzWE9zeFZRZ3R4V2otVERnRHVvSGcyRFN0cmRndE1nYWNLWC1NVEJURGMtelVjLWhUeUlXcFVJSU5Mc1p3UDFmd1hlR0E5ZlpfSGVsbEIyMEQ0SV9leXNJd1VxT1lVVmJFcURxSHRHOUU2T2x4VU1CR1dCbjBtbHVBcUw4UjBkS3ZlaG80NXlab3lYcw?oc=5",
+      "description": "Minigolfe, paraquedas, mergulho e mais: Rockstar divulga atividades secundárias de GTA 6&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 terá mapa duas vezes maior que GTA 5 e mais de 170 espécies de animais - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0hSLUtMSDlIZENlTnRzaGNacEw5RGJjY3JrMWJ6bkJiZ01qLXhobWVJajc4R2U4Ri1CR3h3Q1dtU1BJMURfYmtkUGpOeklTTjk1TzVjTFdKUnBvdUVQbmlXbE9XOHNyLU9IZjVlVU05TGpqVF91SHRhRkNmczJxRFo2NWpOSzZrR2FDVnhlRjdOR0h4QmlqcHM1aDZJMlFCaTNOcGNOemFYY0JGSXNBVnowTzZfRl9DVTlIS3Rraw?oc=5",
+      "description": "GTA 6 terá mapa duas vezes maior que GTA 5 e mais de 170 espécies de animais&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 ganha novas imagens divulgadas pela Rockstar; confira - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9vQ2ZzUm1lU2pWbGtCcUhtYngtX3o5OEFCTXo5UDJHSE1yNzdnOFpyRWtOWnpfWXRmd1FORWlBMUtlb3VvRnRnYWk5RG9xNUpyOFloU1doRlQ2aURNNGdES0RLM2tKNV9uamdhcndXSGlDcTJhQUktaERmcmE2NXpCX2F4RUF0NWZlTFVMajRENWdaOVNfYzdPMTA4MXk2eFpWdWpHSQ?oc=5",
+      "description": "GTA 6 ganha novas imagens divulgadas pela Rockstar; confira&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 contará com NPCs variados em altura, massa corporal e estilo - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmprN2ZLM1Fmdm1abjN6Vkxsems3Zjg4NndaZDhFb0FEQkVQOUhTd0VBUVA5LVhGM3JKV2ZoSDhfaklNbllsVVI0dmRrLS1ROGQ2ZW53TmF5QmVNRUJWVVhtaEllcEJ5dEczR2dwLU9FUHEwRzgxc2ZSMGxtdVJFbW5jaTZOT3Q0d1A1eTJ3bWVUZUlFZF9aNUVDRXZtZkdURERvZzQtNEtBczkzQldmWA?oc=5",
+      "description": "GTA 6 contará com NPCs variados em altura, massa corporal e estilo&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "De olho no tempo! Sistema climático de GTA 6 vai emular tempestades e até furacões - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjVfaGptUzRfcHJqaHB2cTZJaEtKN0tieS1ELWt5cjVyMVNyWDNnSVVjQUY3WDlQeTdpUWJSTkpmS01iaGpucWJXd3ExMXprT0FFYUcwSlpKNzlsdTdVZ3dzbzVsdG9NckhxRWhUaFN0dG04WkFfX0NFdlZtUW5qeWRhWXVPRm00TFppTmotcU1JLTBRMUk3NDR2RndrSmFyeU9JUnF6NXFHXzhSS0t5VGpGS0NJUFJ5N0hGaC1uQWNGbnZtZXc?oc=5",
+      "description": "De olho no tempo! Sistema climático de GTA 6 vai emular tempestades e até furacões&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Onde ver a revista Game Informer de GTA 6 de graça? Veja preço e como assinar no Brasil - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzQwd1JRQVFfUDJqOUU2STNDeWdibURrVHlBeXRheGg2UnIwWjVncncyMW5KbjZhNi10T0VyeUlCUExOMmxSeXQzU2g0NWJIWDRmWUFxYkZ3Ql9aWHAxZjFPZlFER0NWNWRGQjIxWGhTTE52dXY0N1FCX2dpZHlPOS1rQzkzM1RmNWZSdTZfeHAwSkdPQ05ySjlGd3FHbmVKLU10RS1DNXZWV2VERmN2SzF5SThOV1QyRlpadtIBwgFBVV95cUxOQVZMRXR2dUppaDZnWlNDTmYzWUdCc0lTcm5jTVBCQTN0RGZyS3pjQjhrUkdoSkZpQjlhR0RZRmpyUFkyNERYVURnaE54bm1XcllYUHB2ckUtdmswVkl1TGZ1N3ZOaGpkcm5PUGFyVVdaLU5RV0NRZGExRFZDeFNRdjBzVDZqM1oxLU44czJBSE9YLWJQMjlYTzJsdlBYY0Y5YThzZENmTkI2WTlhU0FjN3VrODZPU3JJb1dBLXpfeVdrQQ?oc=5",
+      "description": "Onde ver a revista Game Informer de GTA 6 de graça? Veja preço e como assinar no Brasil&nbsp;&nbsp;Estadão",
+      "date": "2026-09-29",
+      "source": "Estadão • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6: Lista de novas atividades confirmadas no mapa de Leonida - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xQlRLdVhMcGNkalhjelp6ZW5hTVpaLV9STkpnVXhreWszR0RvV2UzdjFwaDZJQXpnaUlUcno3Y3FVTXd1bWVvRjduc1E4RThMNG5xbThCRDVmX3I4QmpjVk9pdWpmWGUxR2hnTV8xT3NPeUpQNXc?oc=5",
+      "description": "GTA 6: Lista de novas atividades confirmadas no mapa de Leonida&nbsp;&nbsp;Última Ficha",
+      "date": "2026-09-29",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar revela 12 novas imagens de GTA 6 - Eurogamer.pt",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ybUVwLUVlaTEtbmRRYUJYc3dVYWVidTNPV1ZFSDRMTDlIa2U1dTAyMzE2dDVCbkNubDJDMnpIQk4xaFJRYXhiODNHbFdZU2dRUl9xMHlyNVFMaTl0VEM1czF6MU4xaWhuUnJRLXdtMGV5RkRt?oc=5",
+      "description": "Rockstar revela 12 novas imagens de GTA 6&nbsp;&nbsp;Eurogamer.pt",
+      "date": "2026-09-29",
+      "source": "Eurogamer.pt • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 vai ter mais de 170 espécies de animais - Eurogamer.pt",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pMWpSaHNIbzhQNXpWeVZ2bTNxNHdYWDNBajhramJGZHlndWZ5R1p5dU1KcjNVRElsUjE1M0Y1N3o5dHk2Q3BoaTBIRF9PQkpLX0F3ck1CbDhzSzZCSExZbWF6LVp0bXgyUlBRTHExNDBMeFlOZF9jNkJ3?oc=5",
+      "description": "GTA 6 vai ter mais de 170 espécies de animais&nbsp;&nbsp;Eurogamer.pt",
+      "date": "2026-09-29",
+      "source": "Eurogamer.pt • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Tu decides o final de GTA 6 - Eurogamer.pt",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbFVUYmVUVVRzSUtZX04wWFk3Qm5TWUpyX3Z1NDdYcjY3NUMxaXRVWFlnRXo4cG5tY1Z3TDUwZ1M0RW1oSnF1d1FLVVVsbWRJSVVoUjhtQTQyeGExVmtWSkMyMFRLVVJCTWwtYjMzMUtENm5lTnc?oc=5",
+      "description": "Tu decides o final de GTA 6&nbsp;&nbsp;Eurogamer.pt",
+      "date": "2026-09-29",
+      "source": "Eurogamer.pt • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 terá mapa duas vezes maior que GTA 5 - TecheNet",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlNMMVphVjdOVFJ5RHpDSG9reVdUX2RUMEVuRVBTZURHNDlOZWpTV3A2N3A1VHlPRi11R1dJeUkwLUFLcHVLek94aktmNHhIUzE3RFVRQUhYS2NHZmRVdEFmMm0zZHFTRk9yaUxyMmJUWXJkekh3bWlHUUtfQlNZS3pR?oc=5",
+      "description": "GTA 6 terá mapa duas vezes maior que GTA 5&nbsp;&nbsp;TecheNet",
+      "date": "2026-09-29",
+      "source": "TecheNet • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar revela novos detalhes de GTA 6 na revista Game Informer; confira imagens e novidades - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUnRfcHRQV0tjQ0F5NThvTWNMUEdUam1wQmM1TzZ3eEtxRkZ4dlAwUW0zYWRwRU15WmJSeHdUcEVLVGJSdlZibE5GeDFUS2VVTDAwcmdDcjR5QVlvQnJtTXlKWnZnZjRMTVFYVlBhazRNQ2tvc0Z2akRWdzRNbkhiMm9LdWxLa1BVTmVLNFMzcmlUNDMtNEFpR1ZnQzJ3WUNIeDR4VmszMFUteVYyUlhQMVJfR3Aza1JTVlJON1l1cEZOcjBhcTdJNGNRdU5iZV9p0gHWAUFVX3lxTE5WYjdMeWs2ZWpJelM1aUFKUG5OZUo2UFFRSHloMWU1aW01S0dMNGpBS21ja3BRM255RVFPczA3WFFuZS1jY3UzanNUWkY0T1JqMGEwdE8yeTRjcVZhNnhBSVNmSzJTZTd2aTJhMUdld0xkTlRPNVBSN1h1anZ3dFFOMEhmSE9EZEdGOUZUUFJOLW43SnJMRFJWTXYzR0ZlSW1PcU5IRENRcHpuZU9RSFB6allUZjIyb181bkJEVy0yNWVZcW5jcU96bEpiUndBN1hGU29hVkE?oc=5",
+      "description": "Rockstar revela novos detalhes de GTA 6 na revista Game Informer; confira imagens e novidades&nbsp;&nbsp;EstadãoGTA 6 terá furacões, mais de 160 animais pelo mapa, mesas de sinuca e muito mais; veja n",
+      "date": "2026-09-29",
+      "source": "Estadão • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6: confira os detalhes de todos os carros já confirmados até agora - TudoCelular.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYm5pSDNfZ2JWWXRWLWptRGVTWVdMZ2tpd0pPTi1XNkJlYXpWQVY5azVuam1yZVN3cmlkSW1GOEUzbGJGRkZmazhxdWxuR1VrOHRKLXI4Q0lMZmhFTU5kcVVTdHFPSFJjTy1pdFRFR2V5RHVOS0VUd1dGbk1GMXVNYmN4dno3MTQ4czJjY2RpWGpua2xscGpyblRkeGI0clFGVVh3OFZn?oc=5",
+      "description": "GTA 6: confira os detalhes de todos os carros já confirmados até agora&nbsp;&nbsp;TudoCelular.com",
+      "date": "2026-09-29",
+      "source": "TudoCelular • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 terá furacões e mapa duas vezes maior que o de GTA 5; veja novas informações - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNOHBMODZiZHZSQy1zX3g0RFg2U0VwcXg1VG5xdFYtS1ZIRklxUHd3ODEzOGlvZjhKQlZ4OWo3cEFSSjFNUDNxTFpXYjQzWWF6U01nb1k0WkZvUDRFakdNYlRnU2Njek1JUUN3S0w2enNGNUlaSkN3M0FhTkFLcERGRV9zS3RGVU8tOUFiVlFpNXA2U3k5VmMxNTBWbjVSbHFFTzRoaENaTjQtNnNJYmgwbzBHUWhFdkZESGsxYm9FRzNsQWFBRl9rU0gzanZiVTQwVVh4dngyUDdIVjNBNzlkcS1OcFJxdHRraEYxYzNVMlJCUmxzZWE5WGNNUDRoeF9pQzFFMnp5cmgyZXZVckZj?oc=5",
+      "description": "GTA 6 terá furacões e mapa duas vezes maior que o de GTA 5; veja novas informações&nbsp;&nbsp;terra.com.br",
+      "date": "2026-09-29",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Chefão do XBOX está feliz com pré-venda de GTA 6 - Canaltech",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3YyRVBaam1meUczUDF5UjZBM3BHWFl4MDhyMlB4ZWIwaTNCRm5DaUU5UFNJa1hDTFBaMENmaTh5ZldkWmVXa0tpM0YtcllkUmpHMkpHWVptd3dDZzZUWTByMzBwY3NIU2hrWWg5V0pCRTBiTDFtX2JUcDZIbmJDaEpqc0YzSkU?oc=5",
+      "description": "Chefão do XBOX está feliz com pré-venda de GTA 6&nbsp;&nbsp;Canaltech",
+      "date": "2026-09-29",
+      "source": "Canaltech • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Mapa de GTA VI terá 6 regiões e Vice City “reconstruída e expandida” - O Vício",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3BraGRiYl9mS1g1cWFzRjlTazV0d3MzQ1ZOcVFwdGZ3QjVlZkEyenBSVFVkWFFON3ZSOVBvVV9iemhpajB4Z1BhSEs4QXZDT2ZJeDFTUDJYNDMyVUR6TlJRdG9qYlRqYWVfZ0JaLVowUm1pd3NXN3VoUDE5c0JLRklwc0hhNWhYSG9kZHdRVU5oeWvSAZgBQVVfeXFMT3ZlMlU0VU5zRTlGZFQ4NTJxWlM1UnJKRm1FUE9rQXE5TUlYaXJrcVdYQW42SXFLMGt6REVvbUJVTTJBRjVVbWllU2xlWFY4ZjFlellNdm1DbG03S3RJMnBVSlpteGRjMXNQTzhjeG9UR3pRcVJYZkx3eFkzejVna2liVl9zOUJJOGhYb21hN25hMm9LVG1XQkk?oc=5",
+      "description": "Mapa de GTA VI terá 6 regiões e Vice City “reconstruída e expandida”&nbsp;&nbsp;O Vício",
+      "date": "2026-09-29",
+      "source": "O Vício • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 terá mais de 170 espécies de animais e fenômenos climáticos extremos - Portal do Nerd",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzh5MlBfQkhsMXpjTHVuaERMd2lVUHFCNVNZUU9RQ3JoaWNNeDZ2OVQ1WFZERy1UUnk4VUUzcEg0SkRwMXBsWHlJR05mYVZGckJvV3g3U2k5R0NQS3NZenRvRlZSQWRLMDc1Wm54MDM3X1RfZzBkNGFWaVI1YTNpOUNENVEwNFBSQ0wwZ1gwRTVQTjlqcmw5Rl9abktGMGE0dHNPRktQVG9vTmc?oc=5",
+      "description": "GTA 6 terá mais de 170 espécies de animais e fenômenos climáticos extremos&nbsp;&nbsp;Portal do Nerd",
+      "date": "2026-09-29",
+      "source": "Portal BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA VI terá furacões e clima extremo, confirma GameInformer - GameBlast",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGhxNUpZcG1WaE5hM0lJbFl3THBySzI2VWZQLWlXY1NScmNBd2o3cUtDQXFaMkZpaFJyZEtUX0hxYkR6OXk0WkRUYUhXZ1hzN1oyXzBTVUN0WjZRRzI2Q2Zac1lvN0tRSFlVbW9kV1RQeGNuUjY1VnZHZjBzbjdsVDl1TF91MjFwZ0VJU19BY0FUcG1FaUNqbVQ1SU53aDlPZkE?oc=5",
+      "description": "GTA VI terá furacões e clima extremo, confirma GameInformer&nbsp;&nbsp;GameBlast",
+      "date": "2026-09-29",
+      "source": "GameBlast • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA VI vai ter furacões e mais de 170 espécies de animais - Geekinout",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWEpEUXVmdVJQeUpzR0NHZ2lDLWozcUE1R004Y3Z2OVBfYmh1RlVCS1lObjF2b3RVU09yOWpoOUVyaml2ZFpDV3RhaVlRUVBiZ1FvWFVnUG9KdDVyY1FTbnY2X2FoOUQza1cyTXR4TGlmT09ONEFGT0tsNHh4YktUMUtqc1NLM2p0U1FXdmlMMA?oc=5",
+      "description": "GTA VI vai ter furacões e mais de 170 espécies de animais&nbsp;&nbsp;Geekinout",
+      "date": "2026-09-29",
+      "source": "Geekinout • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 apresenta ao menos dez atividades para serem feitas - Cabana do Leitor",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeEtNV19zUW9rRjRnRXUzUGpJRW13VnlVUzYzbWYxTXNRN1lLQk84eHNVWDZ4aERJSHRYSnc5RF8zaDFSdUNTeTFleWl6X2NrSHIwNGE4SXBJRy1tSHNEMElLNUE1eWt1N2thNC1YeW5XbkR6ZERLVXVfU1ZBdGNBVzJxT0NvbW81ZnFTWEMtVzNLQQ?oc=5",
+      "description": "GTA 6 apresenta ao menos dez atividades para serem feitas&nbsp;&nbsp;Cabana do Leitor",
+      "date": "2026-09-29",
+      "source": "Cabana do Leitor • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Com furacões e tempestades tropicais, GTA VI terá sistema climático avançado - O Vício",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSW1wYUw2a2FHc1FjdS1mMGljQVlDbjN3SGdkQ3pPSTBTTUZqTXQwR25QVXlKR2FTdEgxUXN2NENQc2FNcnVUZHZVQ25ZbTBMLVNQRGN0WTlNSVViNXlRNnN5MGJEeE9nME5xMmcxck1pNF9pVDFQM2ktSVotTjRKMFhYNGRkd09wRndLMmtObmdGTEpRR0RoZC1IMkR0SWfSAaQBQVVfeXFMTW1ZZWwyT3BTZ3ltMTNpbnlVb1BiVVE1eXV6dDR6aU1zdTFKMURsRWNpT1J2VkRWUTZaN3VScDBJbzVJZUl2U2tsNTVnd1lWb1NtR2lJMXJPZTAwYWNrZ2I4SG5WMWJpM19xU3RIRTZTcXl2Q3d0N01JY3VtaEdJTFZlRWloU2pyQmtmU3JhQjBkeUFwbTFMbkFZMGM0dUVGdm9nUEI?oc=5",
+      "description": "Com furacões e tempestades tropicais, GTA VI terá sistema climático avançado&nbsp;&nbsp;O Vício",
+      "date": "2026-09-29",
+      "source": "O Vício • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 terá mais de 170 espécies de diversos tipos de animais - Cabana do Leitor",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYnRfSjM5NVFPeWFhS3dQWlJxa0tNU2dTNTgzM09McUUxVGdvUFNiTHJ6VEhaLThJOHlsOUFNel84UEJJYU9NY0tfSzFUTHpnWjAwOXhmRHI5Zk9fUWxwVkVwUDFDNHlWMXZydWJjTDJfQjlaM0xsWFJDSElzN25RR3BBSXJNdHNpZDA0UTZRXzdpQXRoeFE?oc=5",
+      "description": "GTA 6 terá mais de 170 espécies de diversos tipos de animais&nbsp;&nbsp;Cabana do Leitor",
+      "date": "2026-09-29",
+      "source": "Cabana do Leitor • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "Produtor de WARDOGS afirma que jogos estão “baratos demais” e culpa GTA 6 por isso! Entenda - Estadão",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjliNy1zSDkyOExmMWlBRHlVaTBTYTZWd3pvbFVMa3kxY1ItREF5ajlMaGY4NkJuUm9HVjQwZzhlY0xqaHlhQ3U3V1c2S3RJYXk5NE1UeUxKLUpiRDF5WTFhNzJLa3hXY3FiaEdBMHJidWp5Ukh6TUEwT2pNVUx6V3FxTGd1ejVZLUNaNEt2UmdFNXVUbXU3TFZwWGZJRGVkaFpIeUxqNU9yQkM0TnkzLV9MSS1ibk1BSEMzejktLUY2ZXh5ejV0QURob9IB0AFBVV95cUxPd3F4MG5rYVNDTDdhWGQtWEJIbnZxVy1aLXZmX0lMcEV3VFdGWkpGRDNQN2pkV2ViYlZUbDRFX2hUckJUVS0xNHpKc09SdC1ZQU4zMlpMdkZIb2V4T1RtaDNiSmhzUElxNU1CY29aWDl2ek5NaExRYm4tVC04Q1BmR202MDFSTm1EZTJERzNnZjg5TTN4aDNCUGRiNEQ4QzdGU3dGUXNXTkRvTHhQekFIWG9seTd3TU14Y19hanAxSDZ4Uk9wTVFOd0lJQWZfRmVS?oc=5",
       "description": "Produtor de WARDOGS afirma que jogos estão “baratos demais” e culpa GTA 6 por isso! Entenda&nbsp;&nbsp;Estadão",
       "date": "2026-09-29",
       "source": "Estadão • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Game Informer vai abaixo com revelação exclusiva de GTA 6 - pt.ign.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFNsZGJKTGZyRFNBX0dCRUtwRjFEM2pneExSejZ6Wm5TQXlmdlZfRFpPeDdDY0VuM0plRnY1WktWXzl2ejBqLW5rSG1lSzN2TURpOHRfZnV2Z09nR29TakhIUmlrcXdkcER2YzM5MFJfdktzM0NGek1TZEo3LVEyQ09pNy1kMW5lTVlJSlhxRy1xRFUza2ZCWUU3S2tRdzdQS2V2djZn?oc=5",
+      "description": "Game Informer vai abaixo com revelação exclusiva de GTA 6&nbsp;&nbsp;pt.ign.com",
+      "date": "2026-09-29",
+      "source": "pt.ign.com • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -17,351 +345,44 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "NBA 2K27 não tem versão de PS4: onde dá para jogar no Brasil - Hoop78",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3dZdzBqQ2VJUUNVWVFrNGRxMVB4MDdIb01IZlM5VVJhSlZoeHctNzZQXzktVlUtT09hN2paaU9DTWQ2TTJGZ1dJOUxGWUx4a3k3MmpNQk1KQThyemJoblRqQmtFR3hOTnl0amwtQ1lKdUhPX3kxZzFNNFVBTnFvU0x3TjQ4MlV6UGRLOGlId0E3VWlY?oc=5",
-      "description": "NBA 2K27 não tem versão de PS4: onde dá para jogar no Brasil&nbsp;&nbsp;Hoop78",
+      "title": "GTA 6 ganha 12 novas imagens e revela mais detalhes do seu enorme mapa - 4gnews",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2d3Tl9JaFBldXNwQzY2SkNvMTNsN1NucGY3OU1tNWp6aFp0bVd2dUVBZVB2SnFjd3lwSlVYOFh2OVVWWEM5S2FvVThiM2RqNl9VeTJYTGVqSmFiOTNnNS1PbnN1ZVgzSHZpTlBPeGNUVkxNR1o4UHl0YUxYNzNGZUlyM0x5VXpzTUpfdmIzNnJMSFE?oc=5",
+      "description": "GTA 6 ganha 12 novas imagens e revela mais detalhes do seu enorme mapa&nbsp;&nbsp;4gnews",
       "date": "2026-09-29",
-      "source": "Hoop78 • PlayStation",
+      "source": "Games BR • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GTA 6 pode trazer tempestades intensas com novo sistema climático avançado - Portal do Nerd",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkpEQmxwSlZyT1lOWXpSVHVaQkhtMTBHdm9IemJJc3FhYXpadnp5WlY1eGc3X09LTWxlaUZHUlZidUdwc0cwN0dZU0RqZmx1Z1RuaExWY1BrYUMySzl2Tzh6eFRnTkpvRFpjTkFIRkdtQVVaN0R4b2Y0R0diN2oxR2Nma0w0YlYtblNkZ2QwYzg5aC1HVzZTT3FuTm9PTGNuNExlMlh3NE1veTQ?oc=5",
-      "description": "GTA 6 pode trazer tempestades intensas com novo sistema climático avançado&nbsp;&nbsp;Portal do Nerd",
-      "date": "2026-09-28",
-      "source": "Portal BR • GTA 6",
-      "image": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2026/09/gta-6-an-extended-look-e-amanha-veja-horario-no-brasil-e-o-1-1280x720-1.webp"
-    },
-    {
-      "title": "Estrela da NBA prevê queda de rendimento em quadra por conta do GTA 6 - rollingstone.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3J2cm41QlB4MXEyOWtrYndnODgyckNxUG1nbTNPUVJUTlY5Z250b0JKYmZERm9USElaUDdYUzFVSHJPOThpdWZTZWdpb1ZLSUFONFJ6YUhHQ0dWR0Qxb1hXTVBjLU5NUURvTTZFTW15MElQQUlodDZPS19ta2NOY0U5NVVrWTFvQktSZ3VsZzhBbDFLMFhPT1NBWVRtVTBhOEpCZXVxZFVkbzlY?oc=5",
-      "description": "Estrela da NBA prevê queda de rendimento em quadra por conta do GTA 6&nbsp;&nbsp;rollingstone.com.br",
-      "date": "2026-09-28",
-      "source": "IGN BR • GTA 6",
-      "image": "https://rollingstone.com.br/wp-content/uploads/2026/06/gta-6-rockstar-rolling-stone-1.jpg"
-    },
-    {
-      "title": "GTA VI, EA FC 27 e mais: seleção de jogos PS5 em oferta na Amazon - Olhar Digital",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzVfUGg5MFREanlMR0FNQ0JWMEwyVEVCMVhvWGlnNENDX3J3UUtqVlJjS0RTeF9uSUlFSHlSNzhzZXM3bzVROEVrZWxwMlZEcVgxbGJEeTFOWXZxamJCdUg4VE1aWUNQdVlxdGpIRFFDTzJBYTVtOWI3WE5xcjhMNXBFdWZXc3lhR3F2X1R3R3o3dlozSjJrRkoxRmIwVEtON3hRS1VpTGExVTk1TFg3TQ?oc=5",
-      "description": "GTA VI, EA FC 27 e mais: seleção de jogos PS5 em oferta na Amazon&nbsp;&nbsp;Olhar Digital",
-      "date": "2026-09-28",
-      "source": "Olhar Digital • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "JPMorgan reitera classificação da Take-Two com base nas perspectivas de vendas de GTA VI - Investing.com Brasil - Finanç",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2c0OGVtMy0xeG1qWU1yNGstX2FxeHBrU1E1RzRVMUZTR3lybXh2X3RIakRVbUhUZnZvOEZ1aWZoM3VWeGJONWthR2ZrN3ZCcUU0c1RfOTBNZ3d5cHh0UXhtdnVrQUpTZXpqQVJ3SnFiaDJrR2g4Z1VqdlBsdEVVSXoyR3lGTGRNRnhBc0tQRGZBVXF1dklpMWNmRk5JQmFfV3ByLUxFTWJheEFoWXJnb05XdktqS21oU0ZPUlZBVnQ3Sk1SOU1FN0cwLU5vRkFRNzdJVzY4MTU0bzM4SmdJ?oc=5",
-      "description": "JPMorgan reitera classificação da Take-Two com base nas perspectivas de vendas de GTA VI&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "date": "2026-09-28",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Sequela de L.A. Noire pode ser o próximo projeto da Rockstar Games após GTA 6 - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0s2RHlIZDVsWGk1SWJCVWN0bVE2eGl2ZzFkTWlzenpNQ3o3bWNGLUNQWWtrWmtHWm1kaEhzRkhRV2gzS3h2YmZobUo2aWJYdWlVLVhVRTZtUHpvcHFvY0NuQmFuWEZteDA3R3JpcFUtUTN1Ym9kaFBhUWI5ZUdiaUxhcjNUOUZZTjkxajcxQk5LbU9vOGc?oc=5",
-      "description": "Sequela de L.A. Noire pode ser o próximo projeto da Rockstar Games após GTA 6&nbsp;&nbsp;Eurogamer.pt",
-      "date": "2026-09-28",
-      "source": "Eurogamer.pt • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6: Estes são os 89 carros já confirmados no jogo - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGVoQ0FtWDRqZDNlajRtM012NG5oQ2FLWk84Zi0zaXoyR1dZVzJPOU1Mb0E1ZXFwVVBiSEcxRXZvTVl2LTlyWk5OX2VLRmd0SzRuRlhTYVdwMm9PR01kYkF0Y0FCaGF2czg5T2pqS0Y4Z2tseTUwWFJIQURKd1IwYnFR?oc=5",
-      "description": "GTA 6: Estes são os 89 carros já confirmados no jogo&nbsp;&nbsp;Eurogamer.pt",
-      "date": "2026-09-28",
-      "source": "Eurogamer.pt • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 confirma sistema meteorológico avançado e promete uma Flórida para lá do sol - OtakuPT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkpNa19tUVZVcWdxN010dGJHTTRTM00xOTM4QVhIa1h2WmdjeFJhRFpHa3M2dTJ5bk94SmNBWmNPZkF3VEtqNGNXdGpIY3dvc1NiUHZQOVdCRjljYlktUl9GancxLWc0Wk85ZDRNdjRkR2R5ZjZ3VFNfU1N0NkVKcw?oc=5",
-      "description": "GTA 6 confirma sistema meteorológico avançado e promete uma Flórida para lá do sol&nbsp;&nbsp;OtakuPT",
-      "date": "2026-09-28",
-      "source": "OtakuPT • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6: Rockstar detalha como redes sociais interativas vão mudar a exploração no jogo - TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkh4WkJlVl80ajR0X3R6cXNfZHlBeE5NRHhXMVQzc2VoU2hPNUs5Q3FSUm5kQi1ucTlmdzZvdVV0Vnc4WTdzblZyUEN3cHlDVXhnREVvaXZyRElFdHpYRGN6RTdkczNMSzg5Vi1TeDdMQUE2MnlHaDZPX0lwaHllNkNuM2pCdUF1ajhjUnNVdFdtODR5WUVWeUFGaVhzQmEzUThzT29Bd3p0OVd4ZUNJUUh3?oc=5",
-      "description": "GTA 6: Rockstar detalha como redes sociais interativas vão mudar a exploração no jogo&nbsp;&nbsp;TudoCelular.com",
-      "date": "2026-09-28",
-      "source": "TudoCelular • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 terá redes sociais em tempo real que se conectam ao mapa do jogo; veja como vai funcionar - Exame",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXdBNG0xSFNTbEo2dnh2UlBId2RNYmhqekZqUE5vSlJULWdBTHRWV1BtT3I5ajR5d0RkVWVsVWM4NkIyVmowcWczMV9GcFVCUTRKSGdWbVQ1cEpEOW8yekRxQUdyc2RzeDhzMExYM2dMazc1a081VXhjS1RhOTVVLVpSTkNvaXJzdE5acXJsWHozX0VQNFM1WDFLb2JMQU5zLWgxa3VzbmhnWUQyd1kyRUI4S0xtT0Z2?oc=5",
-      "description": "GTA 6 terá redes sociais em tempo real que se conectam ao mapa do jogo; veja como vai funcionar&nbsp;&nbsp;Exame",
-      "date": "2026-09-28",
-      "source": "Exame • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA VI já soma 5,6 milhões de pré-vendas, aponta tracker - DOL",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0xtRUpWeGVsRWhqSW5LMWM5Ui03OUxzeGlKeDR6TE1FU1JzbG1LUlJPSWZudlUyZUdTMWZyeFNNNnhPcnpZMnQ1MHpHdVV0dTZtejlOa1dvdWplN2E1UmFRUHhCWE1mRjlSVUtqamNTakx0ckIxd3MtU2p6cVI0VmFHNlZWWWpXTlJEdWN3ci1NdU9ERU5tS1ZmTWMteU9HREFB0gGrAUFVX3lxTFB1bEIwR09IX3VEd0JhTUZpS3AxS1hqQkxkaTk5Wk0yUHZSZGlVeVExNXRnVHhTeW9YQ29oc3o0SUhEYlgzZGJ5enV4SUhZT05YcklHOTFFTFBaTHBrMUlzRmRYemNkaUZVNWU0WmpxbzRITW1fUm9ob3A2RHVKbi12YjVBVlFmbjBndmNIVl9xQWVCdUtQR2IyV2g3N1JzMkpNVktaNTBYVTMtTQ?oc=5",
-      "description": "GTA VI já soma 5,6 milhões de pré-vendas, aponta tracker&nbsp;&nbsp;DOL",
-      "date": "2026-09-28",
-      "source": "DOL • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Reestruturação do Xbox, caixa de GTA 6 de R$ 2 mil e review de Witcher 3 Remastered - Jornal dos Jogos | Substack",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEFVWHg1eWFOS0tWdUNKTHVZRkEtRmMwSWY5V2lTQkUyTm5PZjJVSUszVUFuX3hiNU96eDBpUWg0UGdKcGRnZmE5ekJzM0lwZWxtZV9GTjVhcDlWaENfOHVzcmN3UndIVXJWMmlLQTZGRThCT0QyVXViVFlpQ1c2ME05R3M?oc=5",
-      "description": "Reestruturação do Xbox, caixa de GTA 6 de R$ 2 mil e review de Witcher 3 Remastered&nbsp;&nbsp;Jornal dos Jogos | Substack",
-      "date": "2026-09-28",
-      "source": "Jornal dos Jogos | Substack • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Dead Cells se torna o primeiro jogo de PS5 a rodar nativamente no Windows via emulador - Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVpmdzZfSWFIYkNyOEZ1b19BWVlLYzZDOENCUzJEYlA0SnJFYlVpbmZIdmdrLXRUbm1ZeTlGNTFHdV9HbW4xenBuVC14VVpzYTJTbVRBRnBGcWRhT2ZJYktGZDNIc01vdHJrTDNENUx6TlR6RGVTeldaempnY3oyN3dicVdkV0tKV2VHSVY3d1F6dDJUZjZtYXY4Rk13MTU1enlqUlBQTmUzbjFubEcycjNYWjBILWlnV0hydUdZWHA?oc=5",
-      "description": "Dead Cells se torna o primeiro jogo de PS5 a rodar nativamente no Windows via emulador&nbsp;&nbsp;Adrenaline",
-      "date": "2026-09-28",
-      "source": "Adrenaline • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Caixa de colecionador do GTA 6 cara demais? Fã oferece figura do Macca para impressão 3D - Notebookcheck.info",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1pGeWlpSWRTQlJGY0ZJcVV3RlZTN19mRktCUnhqRzVOQXBXYnE1djZJR3lkQzNuYUxLbGQ0dDl6M09lX3NNUlE2UUgwdEVrV0RvSkV2bjMwWUJPR2pDZE1SU0Q4WmxVb01PYmNwSTNlbWZYaTZjS2EtQ19Mc0lWS1BjLVB4Q3ZVYWNJMjBtN1FXbFZQTWs3b2RLNk5OODBZbUVtOWhBek1VU1FpSWRQWl9maUk0NUtwMlYtNUcxeFBzNGFPYkFxZjQwOVB6QQ?oc=5",
-      "description": "Caixa de colecionador do GTA 6 cara demais? Fã oferece figura do Macca para impressão 3D&nbsp;&nbsp;Notebookcheck.info",
-      "date": "2026-09-28",
-      "source": "Notebook Check • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "PS5 com GTA 6, TV Samsung com soundbar e mais kits promocionais na Amazon - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGZyR2s2TldoUm9kc08wVGY4WUkxQUVPb0RnQVItVnIxWVRXanFDYjJHQUxoMjIwN1ZUTWNuUm9QTXk1NGNHUHZfS3RURm16NXNsNDdLUkhMZVJPYjJiSTVOc2RmOTJQbW9YWVBSUlRLMHREU0ZjbDJxMDdNb1VpNE9iQ1hwc2U3S2FFbTZKSlZtVWhjUW9FQWNlMG5hUkJHd3kxSHdUaU12YjlMZVJlYkZWZExxdEhUaHdfUlNKQTlfSUHSAcgBQVVfeXFMT3dsSHNWLVpRN0dnaVNQdmk5aEtpMkQ1S0QyekxlXzZBTFNaT1BtTG5FM1FDZklMZ0RfUVRDbXQxZGV3b0hwQ3R3TGZuNG9pTG9iSlRCMG1JS2wzMWxVcXNMTjIxektMeWttZEEtQ081S3dCQW15Z1lTWFd1aFlqMk9SOVg0LXpjYWtpM2tFMDRGSENGNVBLcERGdWhOY2FTNkJwLV9DdXZTenRQTGpkaWowZGRjaFhWOWFPQVphc3ZVcVMzcnVoZS0?oc=5",
-      "description": "PS5 com GTA 6, TV Samsung com soundbar e mais kits promocionais na Amazon&nbsp;&nbsp;Estadão",
-      "date": "2026-09-28",
-      "source": "Estadão • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Pré-venda de Persona 4 Revival para PlayStation 5 começa no Brasil - TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3Npc0xfYTc0WTNUVFVSX0NHdGNwZVdSZTJjejFZUjlFU0NWMWJidWRETnhlOUR0STdPdEtEajFfU2dQVjZMb2JlcFJGNi1XdUs0NzlWRURvTW02Z09YeXRlN0k4QTlKT0lTOS1vUHJhS0hGei1MSHFjMC14d3Q3QkJxQXdnOFY0cnoySmh2cHd6Z2x3ZWlCZm05enpCSUxDUFN2U3pHYk9vWXFWa0x3emNFWQ?oc=5",
-      "description": "Pré-venda de Persona 4 Revival para PlayStation 5 começa no Brasil&nbsp;&nbsp;TudoCelular.com",
-      "date": "2026-09-28",
-      "source": "TudoCelular • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Lisa, do Blackpink, ganhou um controle de PS5 com a franja e os olhos dela: como é o DualSense de edição limitada - Corr",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWkzRVV1dzlreFlkRnNkZlBSbkExQU5FT2QzSzdrNHlFNmZTMV9wNVVrV0U5TjNWTHV5eGtGVHppMlJ0cTRDXzhIN3RQR1A0Vk14ME5pQ1hFOVNzUi1la1MzbHRjbTJJOW1DajlKOTVHMGlNSmcwVzVDNllqSmQ4SjZVTFlsTmpMSnBWY1lYbmx0aHp1aVZvSnpnMlpaOVVsRGxiMnZkMEF0ODhTa29sYjhyTUVJbF9tWFpNZnNNZ1RoUXo1RGdBTnlPeVU5WjdWYndId3JUdEd3ZXFaOFgxQVJHOW44VmZjMjFZb09n?oc=5",
-      "description": "Lisa, do Blackpink, ganhou um controle de PS5 com a franja e os olhos dela: como é o DualSense de edição limitada&nbsp;&nbsp;Correio Braziliense",
-      "date": "2026-09-28",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "CEO da NIS America diz que Sony pode estar ouvindo feedback sobre o fim da mídia física - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFlMemVDV2drS21pRDFkR2xxTFpsWHpRdEEwWnN5TXF5c1JDb1RPNXNPWk9MWG9QWjNxUDZWaV9DRERMY095UGpYZURTSEJZYXplSkpyTWJyUTBiWTlfclc2d0dBNWt6V1F5Skc4NkdOQzlMQXpRaDZSWjVLcUlRZzJsU1gzNDl0VjYzMGZSWUhYMnBtSkRoZDZ2SElOVjdJWnU4cGJZU1JydDM2WVp2dnlPQQ?oc=5",
-      "description": "CEO da NIS America diz que Sony pode estar ouvindo feedback sobre o fim da mídia física&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-09-28",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Dark Souls Trilogy de PS4 recebe oferta e parcelamento sem juros na Amazon!",
-      "link": "https://meups.com.br/promocoes/dark-souls-trilogy-oferta-sem-juros-amazon/",
-      "description": "Trilogia da FromSoftware recebeu 16% de desconto na loja online",
-      "date": "2026-09-28",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/Dark-Souls-Trilogy.jpg"
-    },
-    {
-      "title": "Sony não estará na CES 2027 pela primeira vez em 60 anos",
-      "link": "https://meups.com.br/noticias/sony-nao-estara-na-ces-2027-1a-vez-60-anos/",
-      "description": "Sony esteve presente no evento desde a primeira edição, em 1967",
-      "date": "2026-09-28",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/Sony.jpg"
-    },
-    {
-      "title": "Alcance a verdade! Persona 4 Revival está em pré-venda na Amazon",
-      "link": "https://meups.com.br/promocoes/persona-4-revival-esta-em-pre-venda-amazon/",
-      "description": "Remake já tem a sua mídia física de PS5 disponível para reserva na Amazon Brasil",
-      "date": "2026-09-28",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/Persona-4-Revival-4.jpg"
-    },
-    {
-      "title": "Pré-venda de God of War: Laufey começa nesta terça-feira (29)",
-      "link": "https://meups.com.br/noticias/pre-venda-god-of-war-laufey-comeca-terca-29/",
-      "description": "Sony divulga os bônus que estarão disponíveis ao efetuar a reserva do game",
-      "date": "2026-09-28",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/God-of-War-Laufey-1.jpg"
-    },
-    {
-      "title": "NIS America diz que Sony estaria ouvindo feedback sobre fim da mídia física",
-      "link": "https://meups.com.br/noticias/nis-america-sony-ouvir-feedback-midia-fisica/",
-      "description": "NIS America é conhecida por vender versões físicas de seus games e está otimista com mudança na decisão da Sony",
-      "date": "2026-09-28",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/Sony-PS5.webp"
-    },
-    {
-      "title": "The Witcher 3: Wild Hunt – Remastered é um patch de 45 GB no PS5",
-      "link": "https://meups.com.br/noticias/the-witcher-3-wild-hunt-remastered-45-gb-ps5/",
-      "description": "CDPR divulga quanto a versão remasterizada pesará em cada plataforma",
-      "date": "2026-09-28",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/The-Witcher-3-Wild-Hunt-Remastered.jpg"
-    },
-    {
-      "title": "Rockstar cobra sigilo após ator revelar papel em GTA 6 - einerd.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTUR3M01KVFFSeHhUNlJ3cW1fV1YxbjJpakxpX0RkcTNBcU5WajBLaW8xVEpkaGR0VEtQRGM0RjhGNUlIa05ROUhMYUVvMlhDN19RV2ktQzBTX0RJTmk5WWt1dTVZT1JpbFE?oc=5",
-      "description": "Rockstar cobra sigilo após ator revelar papel em GTA 6&nbsp;&nbsp;einerd.com",
-      "date": "2026-09-27",
-      "source": "einerd.com • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 ganha coleção de US$ 399,99 com óculos Oakley e mapa de Leonida - rapdab.com.br",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMVi1KZXA1UXgwYllwdllKNTlGbDI2V0Z0Z2pGSDBsX296amV6Wkl3LUlNZXV2aEdueHhwQUFZTHVKcVduV21kYVhUWEcycF9Md3lrc0RiOThIOHZEVE15VmpoeE1JOE5jbW9zVl8tWDhCRHdV0gF0QVVfeXFMUExWLUplcDVReDBiWXB2WUo1OUZsMjZXRnRnakZIMGxfb3pqZXpaSXctSU1ldXZoR254eHBBQVlMdUpxV25XbWRhWFRYRzJwX0x3eWtzRGI5OEg4dkRUTXlWamh4TUk4TmNtb3NWXy1YOEJEd1U?oc=5",
-      "description": "GTA 6 ganha coleção de US$ 399,99 com óculos Oakley e mapa de Leonida&nbsp;&nbsp;rapdab.com.br",
-      "date": "2026-09-27",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA VI, EA FC 27 e mais: jogos imperdíveis para PS5 em promoção na Amazon - Olhar Digital",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckVzYks4eHN3TkxyLUJ6SjAxbEhjMmxwcXlnWGR1WmxVZG5kajZzTlNVazEtZmtlOWdKb2FGX3BxdEFnRjNEUWh3WGI2RS1yVnhwMS1Yby1veWNrbFJYZFFfbnZhNXpDZ0dTUC1CSXdzelVpTFVNelJnTTlxNjY5ZTFESzZLUGpKQnF4cEtmODVnRU9RMzYzTllfMGVFbkNxYUdBaGd4VmRwRXI1V0lwYmw3X0dYem9kVTI0?oc=5",
-      "description": "GTA VI, EA FC 27 e mais: jogos imperdíveis para PS5 em promoção na Amazon&nbsp;&nbsp;Olhar Digital",
-      "date": "2026-09-27",
-      "source": "Olhar Digital • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 ganha caixa de colecionador de R$ 2 mil, mas jogo fica de fora - Isso É Notícia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzl6a21rYUVqUnJkZFpyOFlqcmlmNzcyR212NUxwdWJhc0x3YWhpSjZocFU3bkF5TWRaMEpjMjc0QkRZcnBOamh1THFIQTVBWC1RN3FFNlJCWGM0ajRSU3luM1VSUzZHZlZiREYzd0cxNldGVGkyREtIOGJ6ZUthM2NLeHE4UkF6dG1OYi16QklLc2NXbVBDOEM3Z01CM0xNNGp3S1YxekFRbkEwYVRuaXdKWkpBSU0?oc=5",
-      "description": "GTA 6 ganha caixa de colecionador de R$ 2 mil, mas jogo fica de fora&nbsp;&nbsp;Isso É Notícia",
-      "date": "2026-09-27",
-      "source": "Isso É Notícia • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Controle Arcade FlexStrike do PS5 é adiado pela Sony - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlJSZVJuWmZ1c3psblozbktzdlpESk1DSkd2ZzNsQUxVamdJVmxCTmVxOEcxQUNQZDZoemhCZ0NRN2F0QWlYMHhNYlhXZjE2N3haNHNORlV2WUZHdVIxWko4N29YSDdMbDVzS1Z0WjJWWU1xTWVteWR6S2ExQXc3cXhqTEw?oc=5",
-      "description": "Controle Arcade FlexStrike do PS5 é adiado pela Sony&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-09-27",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Black Friday da Xbox Brasil com descontos em jogos e consoles - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWU92RTdqRnVJSWpaVkQxQ0Zsby1fcy1nQy1zalA0OUJpSXNiM0dOZFhjYmdCcnZaTkI3WWVCSm9hYmFVVXd0S283Yi1jbzBZNGIyVk5Ba3ZhS3A5LWY1V2JRcGpEXzBxa2l5Y2c0NWRxZFF3c25haUd4Rm1WZTRlWTFSSTRGS3lFclRRMTJoV2RQbWZsYnRjeXVCaW9ncEpP0gGmAUFVX3lxTE1GRnd2VG9lSTh0LTh6Y1V0UzN6V2syWWs3WTM5OHBDMzdtZ0F2MEI4TE1kaWxDd3piZGtFaGx4MDRodkJwZll6SC1mLU9uVVhLUzhYd0FFZWZiSTdmZ1ctdUU4eElzNjhaS1V0eVMyZUNXZFFKd25mVXUwaFg5cldLbWZqSWN0dm16T2M2V19hTm5ocC01ZG1xS0puQmRtaGp0emhsdVE?oc=5",
-      "description": "Black Friday da Xbox Brasil com descontos em jogos e consoles&nbsp;&nbsp;Estadão",
-      "date": "2026-09-27",
-      "source": "Estadão • Xbox",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "“Reestruturação” da Xbox é elogiada pelo CEO da Microsoft",
-      "link": "https://meups.com.br/noticias/microsoft-elogia-reestruturacao-da-xbox/",
-      "description": "Satya Nadella, CEO da Microsoft, elogiou o processo de reestruturação conduzido pela divisão Xbox.",
-      "date": "2026-09-27",
-      "source": "MeuPS • Xbox",
-      "image": "https://meups.com.br/wp-content/uploads/2026/05/Xbox.webp"
-    },
-    {
-      "title": "Deu ruim pra Guiana-Brasileira: GTA VI afirma que só terá versão português do Brasil. Gamers lusitanos se revoltam - Jor",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcDV1STlfLTNSNFhtb1ktZjM1MU5PMjJXQ2FtenNDVEFra1VOcHlpQldrTlpNWmJ3MkEyRnNBOW9GaGw4eVd2YmJoRmp5NkZsYU5DbF8wemNaRmlwclNySkVhZkxYZTN1Tm9Za2hlcHVTSXBPTHM5OFFFdElSVC1mVXIwT2QwQkF4cXZxUVM3YjhvZ1Q3aFU0aUlxS3lmZFQwZVFjOURjSnJ0cWdkVVJsSDIxYjNYVEhlQW5jbjlpWG52NTJEZ2tOdkpVSi1KRWtZQlRsNm1qeDNRTE1KUXVUWVBzWEQ1NmttMFE4Nk9ZOTJqNmxO?oc=5",
-      "description": "Deu ruim pra Guiana-Brasileira: GTA VI afirma que só terá versão português do Brasil. Gamers lusitanos se revoltam&nbsp;&nbsp;Jornal Correio",
-      "date": "2026-09-26",
-      "source": "Jornal Correio • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Rockstar abre pré-venda de coleção de GTA 6 por US$ 399,99 com 11 itens de Vice City, mas deixa o jogo fora da caixa e t",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObDZRUk5tY1g4VVU2RjBRWnNyMXhCc2VDT3I5U3drc3ZtMDh2aDRJVG1ORU5FYnV1TlFkd2FWVmxBZGdYZGtDZjl1R0Q4RWl1SDJxX1RsMXFRT0Z5UnJ0MFhBVC1sd29GNWliX1Z2dHE4SXp1YXRvaFAwc0o2NjV2bFNTYjRsUWtURUF2WkotbzFjSnJ3NktvYVFJZk4zdGxlbk95dmhTOG9YZjN1TFVPa3FrdENDQTZOWE85c2JGRnZwZEs1N19KWXhDWTdXNy11Q0JJVmhGbmhwZWVvZjhDb3AtWWpycU1FSVIydVRyNXZFS2FmYlhIcXpqRlVia2E4QVZJal9NZF9XU1ZmeHpzZG41WnljX2xHeURWSzhuNGN6YlpqZHJkTGZuMWU?oc=5",
-      "description": "Rockstar abre pré-venda de coleção de GTA 6 por US$ 399,99 com 11 itens de Vice City, mas deixa o jogo fora da caixa e transforma a estreia em duas compras separadas&nbsp;&nbsp;Folha BV",
-      "date": "2026-09-26",
-      "source": "Folha BV • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 fora do GOTY 2026? Entenda as regras das premiações - Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVTlFyMC1zRVlGMS1uX2pBVVg5bjB4MTUtd1JRWlpDVmhoVjdGM3I4OThlTmJQeWZCcUs1ZTlkQ2ozaFhCQXpKOGRBdUZGeXVyYWZ5NTk2MXMtaHhveWlkc3VmOE5QOW1Va0EtakdyX0p6Ni1waWVFc3NrRV8?oc=5",
-      "description": "GTA 6 fora do GOTY 2026? Entenda as regras das premiações&nbsp;&nbsp;Última Ficha",
-      "date": "2026-09-26",
+      "title": "GTA 6: Sistema de clima terá furacões e tempestades reais - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YTGR3ZTVJRmZVeWh3MjZKQ3QyWXF5T28yTGROVG1QV1FIeThOMTlyOGFWcTFjaEt4dUhQMGJERUF0SGhhMEFhRG56ZUJtZDNsSFg4ajhqMEZ5bEwzdUJzS1lBeHI5WkZCVXc?oc=5",
+      "description": "GTA 6: Sistema de clima terá furacões e tempestades reais&nbsp;&nbsp;Última Ficha",
+      "date": "2026-09-29",
       "source": "Última Ficha • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Rockstar revela a polícia de GTA 6, que se lembra do carro e da roupa - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0hjcFFRbUJsVmM5YlNBV3B3alppeUpaVjV5N2FsSGF0czgyTXRFdF96WW5uZWx0SW1ORFpvMFFyUnlta1g4c2tLbjZ1bHpNaHBIMy1FWXh6U1FqQURSU0RYMjNlQkFBN2l1Tk1IcXRmQ2hmdjNzNE9kclFqbDFPS2N0TkF1NmpFbE43VC1oYlJZTHJVS2hMRQ?oc=5",
-      "description": "Rockstar revela a polícia de GTA 6, que se lembra do carro e da roupa&nbsp;&nbsp;Pasquale Pillitteri",
-      "date": "2026-09-26",
-      "source": "Pasquale Pillitteri • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "PlayStation Plus: 5 jogos de sucesso que você não pode deixar passar - Fast Company Brasil",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUg4ZGxfZWhvOFdmbWxfV3Fhc1Y2cGdLMUNsREUtQkUxTDdsZUZSU25tYnRLTzJjR0NuWncyZVZqRnBQemlVaEt0akpDNHo3Z2lPT3R4emhjNG1QTnVHbnZsSUZYdFJhb3p5eHpHYV9veDl0cjQ4ZWtZbFJ6cGc0RU01cjhqS0ZZUGFRLUE1R3dpWmJCd1Y4Q1lRN0FvUQ?oc=5",
-      "description": "PlayStation Plus: 5 jogos de sucesso que você não pode deixar passar&nbsp;&nbsp;Fast Company Brasil",
-      "date": "2026-09-26",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Hub de Boas-Vindas do PS5 recebe novo tipo de fundo de The Last of Us - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTBRTWh0dDV3SVIwSnctUlpFaGtaakwxcHBRaFFIYlRBNEFMcmI0S1cxaERBTjBTcXg2S0VqOU5hWGlNLThadmo3bW03b25xWnU0Q0NJTzVjMlRyQmhhLVQyVGs0ellVaVVlMFpSMVdkY3BYRHBqcWUyWFpzVlU4S0Q0X05oSGpFbHpsUHpVUzByLXlPM0ZNQkNzZw?oc=5",
-      "description": "Hub de Boas-Vindas do PS5 recebe novo tipo de fundo de The Last of Us&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-09-26",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Veja os lançamentos da PlayStation Store entre 27 de setembro e 3 de outubro de 2026 - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGw1OE9HT01tTDJOa1NWdEZ1V0JOLXFpeGdOMUNhQ0pqc0p0OWQza2xVZXFuZ3Z2RTRzdWpiRzB0bThjSWYtTDdCTXRFTU9EdzdvMDQ0am8wVktnZEEzOEY1VUE5WkUtYXBDY2hnZWtuNS1FMG5hLVFWeHh3a21hSV9HaTg4UDdhWkE2MHdEbE5lNW1mM3RtUlUyTFFkSDBlckJIMjE4cVlkWEVMSlpv?oc=5",
-      "description": "Veja os lançamentos da PlayStation Store entre 27 de setembro e 3 de outubro de 2026&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-09-26",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 já movimentou R$ 2,87 bilhões em receita líquida dois meses antes do lançamento - Times Brasil | CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYkFiUEhTMC1kZWNRR0c3QTd6WkxqdldiYlFwbGdleWxKa0s1OFNBZUZ1RnJxbmRPaDVETXNvUkFpRldNdWdtVXZ0XzF4M2pBcWE2UDZfWW5WZk95Zm81b1NTQVp6U2c5anFaQ05rYUJrbXQ4aFdpWldNQzYzSV9mLUdaVjdTbWJ3T21LNTNMR25oZGVZZEY1SmZnQ0VKanJkOWxmTFZ6bVFLUHYyVmVNLWR1TUk5Vk5USkhuS1pYZjdOUEo0?oc=5",
-      "description": "GTA 6 já movimentou R$ 2,87 bilhões em receita líquida dois meses antes do lançamento&nbsp;&nbsp;Times Brasil | CNBC",
-      "date": "2026-09-25",
-      "source": "IGN BR • GTA 6",
-      "image": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/09/87262e9d-gta-6-bate-311-milhoes-de-visualizacoes-na-netflix-em-quatro-dias-e1790365590153.webp"
-    },
-    {
-      "title": "Caixa de Colecionador de ‘GTA VI’ traz jacaré, Oakleys e chaveiro com lâmina de barbear - hypebeast.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa01ERE1XUkczNHdueUhSXzFncFlERGFqT0pSaGlUZ2x0bXFEdHluajFlNkU4ellKM2ZBUjE2VzNVajRXektDbG12Vy1QMmJwNnQ5eEZMY2lKOURPMXVDX0tmRXdFY2U4cWE4QTMxTnRWbkJRRTZIdUhrV1B3aXRkVHpRVXNyM21yNGpkTVZZcloyNnlDWWQzUnBsWU16R3hSR3ZObWdzNkVfckROSDVFa0RDWWNHUF9aSEhmeUFtNGhtSGxkSEdnVnV1aGxpd3lqOE1xQS12X2NPZw?oc=5",
-      "description": "Caixa de Colecionador de ‘GTA VI’ traz jacaré, Oakleys e chaveiro com lâmina de barbear&nbsp;&nbsp;hypebeast.com",
-      "date": "2026-09-25",
-      "source": "hypebeast.com • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 quebra recordes de vendas no XBOX, diz executivo - TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmNXM0Rkb0RvRkEydzAtTkdPM3N5QmcxcWs1UXlSYlRUUVRuV3VTZ0t6T3RKVDRVZU1LdUhSYUxYRU5rWHJHblk2RWVsX29QU3lHMzJwcThPcjNjUTkwTXJlbkpUVDd3SVpackRBZ1lXdHZjWTZpU0FoYkdpXzRKR0huRXNiU01PS0N6Qy1JZDNWSFFfZFJ6ZjJuUUdFZw?oc=5",
-      "description": "GTA 6 quebra recordes de vendas no XBOX, diz executivo&nbsp;&nbsp;TudoCelular.com",
-      "date": "2026-09-25",
-      "source": "TudoCelular • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Sem o jogo, brindes fracos e por US$ 400: fãs detonam edição de colecionador de GTA 6 - TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkZyQ21LZzd6c2VtRURMR2pIWXF5WERNb2syVjAyMlN2elJvSEFKM21tOTNJMDR1WnlvNjVwdlo1eHZrTmp5WkVLbG12bk5YX2dtZG1BOGhCb09DVGIxX1loenBlbUxOUW9qWkZIWm5MZ3o5aVMyX2lGUFE5Y0JUb0U1cDIzVlB1aDZhYXZZQjhEb2RBaGo4MlJiX2hmYlg0RGh3M0VzNHA0R3BWN2E2YXp3?oc=5",
-      "description": "Sem o jogo, brindes fracos e por US$ 400: fãs detonam edição de colecionador de GTA 6&nbsp;&nbsp;TudoCelular.com",
-      "date": "2026-09-25",
-      "source": "TudoCelular • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Coleção GTA 6: Rockstar lança edição de luxo sem o jogo - ISTOÉ Independente",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wcUJtdXZzWDRjTmdPbk43Vkk0UVRRZDkxdF82aGFSTGZGZDNpUUFrTTlvdWtCS1gzSGtDZ3FTakZMZEFLSXJRWVVkOV9BTm5nd0NhM3J3WjFMekdTR016elBMWFpPck5SZXpMbTUxMVhOdw?oc=5",
-      "description": "Coleção GTA 6: Rockstar lança edição de luxo sem o jogo&nbsp;&nbsp;ISTOÉ Independente",
-      "date": "2026-09-25",
-      "source": "ISTOÉ Independente • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
   "videos": [
+    {
+      "title": "ANIMAIS LENDÁRIOS E MUDANÇA DE CLIMA NO GTA 6 😱😱😱",
+      "link": "https://youtube.com/watch?v=dvRrVJQBv0o",
+      "thumbnail": "https://i.ytimg.com/vi/dvRrVJQBv0o/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "🚨 GTA 6, MUITAS NOVIDADES, NOVAS IMAGENS E MAIS",
+      "link": "https://youtube.com/watch?v=fb4hqX-VVXA",
+      "thumbnail": "https://i.ytimg.com/vi/fb4hqX-VVXA/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "NOVOS The Last of Us ANUNCIADOS",
+      "link": "https://youtube.com/watch?v=V2RFJ4KXN6g",
+      "thumbnail": "https://i.ytimg.com/vi/V2RFJ4KXN6g/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-09-29"
+    },
     {
       "title": "31 PlayStation 5 na PROMOÇÃO! Aperte o Play!",
       "link": "https://youtube.com/watch?v=K8AIqGu05tQ",
@@ -398,25 +419,18 @@
       "date": "2026-09-28"
     },
     {
-      "title": "Pokémon + Mc Donald&#39;s = APOCALIPSE 😱",
-      "link": "https://youtube.com/watch?v=rgPmTj06uSI",
-      "thumbnail": "https://i.ytimg.com/vi/rgPmTj06uSI/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-09-28"
+      "title": "PLANTÃO GTA 6, NOVAS IMAGENS, NOVAS MECÂNICAS E TUDO O QUE SAIU - #flowgames",
+      "link": "https://youtube.com/watch?v=ukQAvGYKpkM",
+      "thumbnail": "https://i.ytimg.com/vi/ukQAvGYKpkM/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-09-29"
     },
     {
-      "title": "Esse é o Balatro + Pokémon? JOGUINHO VICIANTE",
-      "link": "https://youtube.com/watch?v=RyhPkFbw1gg",
-      "thumbnail": "https://i.ytimg.com/vi/RyhPkFbw1gg/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-09-27"
-    },
-    {
-      "title": "GTA 6 TINHA QUE SER MAIS CARO KKKKKKKKKKKKKKKKKKK",
-      "link": "https://youtube.com/watch?v=_h_wokpIxYI",
-      "thumbnail": "https://i.ytimg.com/vi/_h_wokpIxYI/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-09-27"
+      "title": "UNBOXING da STEAM MACHINE do PHOENIX! #flowgames",
+      "link": "https://youtube.com/watch?v=TXO9_Z_HjHA",
+      "thumbnail": "https://i.ytimg.com/vi/TXO9_Z_HjHA/hqdefault.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-09-29"
     },
     {
       "title": "O QUE ACHAMOS DO FILME DE RESIDENT EVIL - #flowgames #205",
@@ -461,20 +475,6 @@
       "date": "2026-09-26"
     },
     {
-      "title": "Hora do REFRESH com MENTOS!",
-      "link": "https://youtube.com/watch?v=sI85cJMDtlQ",
-      "thumbnail": "https://i.ytimg.com/vi/sI85cJMDtlQ/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "Os melhores periféricos do mundo é com a LOGITECH G!",
-      "link": "https://youtube.com/watch?v=9YXKsRI5RYQ",
-      "thumbnail": "https://i.ytimg.com/vi/9YXKsRI5RYQ/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-09-26"
-    },
-    {
       "title": "Aventuras no Japão, Edição Bizarra de GTA, Kojima Exclusivo de Xbox e Mais! | Ep. 134",
       "link": "https://youtube.com/watch?v=kWNsYcscoFM",
       "thumbnail": "https://i.ytimg.com/vi/kWNsYcscoFM/hqdefault.jpg",
@@ -482,54 +482,54 @@
       "date": "2026-09-28"
     },
     {
-      "title": "DeByte no Japão, Tokyo Game Show, Diferenças Culturais &amp; Mais! | Ep. 133",
-      "link": "https://youtube.com/watch?v=epjsILWf5iY",
-      "thumbnail": "https://i.ytimg.com/vi/epjsILWf5iY/hqdefault.jpg",
+      "title": "Catfish Gamer, EA vira Saudita, GTA na Netflix, Story Milionário &amp; Mais! | Ep. 127",
+      "link": "https://youtube.com/watch?v=SBIntN6bP5Q",
+      "thumbnail": "https://i.ytimg.com/vi/SBIntN6bP5Q/hqdefault.jpg",
       "channel": "DebYte",
-      "date": "2026-09-21"
+      "date": "2026-08-10"
     },
     {
-      "title": "PlayStation Cancela Kojima, Comunidade Salva Filme, Nintendo Direct e Mais! | Ep.132",
-      "link": "https://youtube.com/watch?v=PKQqzBjpDyQ",
-      "thumbnail": "https://i.ytimg.com/vi/PKQqzBjpDyQ/hqdefault.jpg",
+      "title": "Monark VACILOU ao sair do Flow? BRKsEDU comenta! #brksedu #flow #monark",
+      "link": "https://youtube.com/watch?v=k8AS5feTW2s",
+      "thumbnail": "https://i.ytimg.com/vi/k8AS5feTW2s/hqdefault.jpg",
       "channel": "DebYte",
-      "date": "2026-09-14"
+      "date": "2026-07-09"
     },
     {
-      "title": "Isadora Basile conta detalhes do SUSTO que levou durante a Gamescom 2026 #gamescom #eventodegames",
-      "link": "https://youtube.com/watch?v=pU233vvGS5Q",
-      "thumbnail": "https://i.ytimg.com/vi/pU233vvGS5Q/hqdefault.jpg",
+      "title": "GTA VI vale a pena na Pré-venda? BRKsEDU opina! #gta #gta6 #bkrsedu",
+      "link": "https://youtube.com/watch?v=DsWBkhxua2c",
+      "thumbnail": "https://i.ytimg.com/vi/DsWBkhxua2c/hqdefault.jpg",
       "channel": "DebYte",
-      "date": "2026-09-07"
+      "date": "2026-06-29"
     },
     {
-      "title": "Caos e Polêmicas da Gamescom, Edu Abre Substack, DeByte Indica &amp; Mais! | Ep.131 feat @IsadoraBasile​",
-      "link": "https://youtube.com/watch?v=Uh9g3N9p3rs",
-      "thumbnail": "https://i.ytimg.com/vi/Uh9g3N9p3rs/hqdefault.jpg",
+      "title": "Console Clássico Volta, Documentários Excelentes, Influencers Lavam 1 Bilhão &amp; Mais! | Ep. 113",
+      "link": "https://youtube.com/watch?v=C885VImBFRI",
+      "thumbnail": "https://i.ytimg.com/vi/C885VImBFRI/hqdefault.jpg",
       "channel": "DebYte",
-      "date": "2026-09-07"
+      "date": "2026-04-20"
     },
     {
-      "title": "BRKsEDU e Funky comentam bastidores da chegada de GTA VI: “Não posso FICAR DOENTE!” #brksedu #funky",
-      "link": "https://youtube.com/watch?v=Tf1fdQfsWZQ",
-      "thumbnail": "https://i.ytimg.com/vi/Tf1fdQfsWZQ/hqdefault.jpg",
+      "title": "❌🇧🇷Jogo Brasileiro REMOVIDO pela dona de Fortnite! BRKsEDU e Isadora Basile opinam!",
+      "link": "https://youtube.com/watch?v=RlrA_v3GDRc",
+      "thumbnail": "https://i.ytimg.com/vi/RlrA_v3GDRc/hqdefault.jpg",
       "channel": "DebYte",
-      "date": "2026-09-04"
+      "date": "2026-04-10"
     },
     {
-      "title": "BRKsEDU e Funky comentam o Marketing de GTA VI #brksedu #funkyblackcat #gta6",
-      "link": "https://youtube.com/watch?v=fLoDCR4JvKI",
-      "thumbnail": "https://i.ytimg.com/vi/fLoDCR4JvKI/hqdefault.jpg",
+      "title": "Epic Abandona Fortnite, Globo Sofre Exposed, DeByte Recomenda &amp; Mais! | Ep. 111 feat. Isadora Basile",
+      "link": "https://youtube.com/watch?v=BoNx3AoCJQI",
+      "thumbnail": "https://i.ytimg.com/vi/BoNx3AoCJQI/hqdefault.jpg",
       "channel": "DebYte",
-      "date": "2026-09-02"
+      "date": "2026-03-30"
     },
     {
-      "title": "Tudo sobre GTA VI Com @funkyblackcat | Ep. 130",
-      "link": "https://youtube.com/watch?v=PuBV1taeCqA",
-      "thumbnail": "https://i.ytimg.com/vi/PuBV1taeCqA/hqdefault.jpg",
+      "title": "Felca Sob Pressão, NVIDIA Anti-Arte,, Neymar Abre Canal &amp; Mais! | Ep. 110",
+      "link": "https://youtube.com/watch?v=KtYbxPpex9k",
+      "thumbnail": "https://i.ytimg.com/vi/KtYbxPpex9k/hqdefault.jpg",
       "channel": "DebYte",
-      "date": "2026-08-31"
+      "date": "2026-03-23"
     }
   ],
-  "updated_at": "2026-09-29T12:01:04.152910+00:00"
+  "updated_at": "2026-09-29T21:49:13.146125+00:00"
 }
