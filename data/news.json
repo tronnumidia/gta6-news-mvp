@@ -1,11 +1,331 @@
 {
   "news": [
     {
+      "title": "CYBERLEEK anuncia fim dos vazamentos do GTA 6 - Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNE1zWHFOOHhNYXpQaXlDR25jcE5nQl93SWk4TVB6SnVrTmZZREo5MTFPc3Q5UmJvc2hBQ0tkODd1dUpndFpRd2k4Z2VSUU9Ed1N2TkhKWTJST2FfaTR6UU9PYVRDM1RTb1gxVXFSdWN0ekNjemlPR2xsVUh2Yi1zX09n?oc=5",
+      "description": "CYBERLEEK anuncia fim dos vazamentos do GTA 6&nbsp;&nbsp;Insider Gaming",
+      "date": "2026-10-14",
+      "source": "Insider Gaming • GTA 6",
+      "image": "https://secure.gravatar.com/avatar/3435aaf41f9d09a61430d2250c2260b2572255b892f3ed20e56af18f7fd46dd0?s=96&d=mm&r=g"
+    },
+    {
+      "title": "Rumor: Grand Theft Auto VI pode ser lançado para PC no primeiro trimestre de 2027 - GameBlast",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDBwNWhtVUJ4Z185OWtOejA0YnJsM1NxTmJjSGFVbVlaTnpHbzVfNHpmOGJIaHRwWVVFV1gxTG1sa0N6UHV0bGtaSXl0MG9NLXF6YnJJSWExOVk4OVhGZE9CTXdTUzJyY25iQVJsdHF6alNOVDdzSjFPQWRvTnhhYzdnVENiUkhFT2FSdThyUG5GbW1vOUdGSktGTE0yNV9TUG9uY05WZVJ5MGY2SS1OZGk1UmNBdUcyY2c?oc=5",
+      "description": "Rumor: Grand Theft Auto VI pode ser lançado para PC no primeiro trimestre de 2027&nbsp;&nbsp;GameBlast",
+      "date": "2026-10-14",
+      "source": "GameBlast • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Após lançamento do GTA 6, Rockstar diz que novos jogos não levarão mais de 8 anos para sair - Exame",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJ6dVNCS2xJRmtkSGQ1TW01MVZncHdCaXB3aXI1czRIYU9sZ01yenJnT1EzMUQ4ZlBHdGx3ZXkzemprNlhVUzdOTnpiY1JjamFzQ25YelQ1Y2NwX3JRUlFLa3Z0NlJnbVRld3dCd2ppWVJCSVpzaHlOLUItYXpwVWFoV1UtVmszdklkTVR2aUZodGh6Y1MzX0NodGZpV3dyWmhXX2FhaGpWRXB3V2RNcDdTOA?oc=5",
+      "description": "Após lançamento do GTA 6, Rockstar diz que novos jogos não levarão mais de 8 anos para sair&nbsp;&nbsp;Exame",
+      "date": "2026-10-14",
+      "source": "Exame • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar, desenvolvedora de GTA 6, insiste que seu próximo jogo não levará mais 8 anos para ser produzido - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUxDMl9WSXdxaUdmRXVvaFhUM2J2UzI0S1BOTjlhbUVtcXhTbnBxTDQyT3NLVWt6QUI3OGlDQmc2bVdiZ0JiOFNuTUZUaHNCQkEyYUFDZFNUSTN0Q3lLZjhRb2NlUVlSaDdOY1lWLXM1MDUtakd2N1Y0UXI1cmIxdjZFZXM0Y2pGWldEZzFqbUswbThiNW04U1lqWk9NNnpkdU84dURmTDVqeEVNTm9aVldlUHFZOWlVQUR3bTZUamd6OWNyZkQyX2dYN0otbnZFS3hNZ0N2X250bjgxaGRB?oc=5",
+      "description": "Rockstar, desenvolvedora de GTA 6, insiste que seu próximo jogo não levará mais 8 anos para ser produzido&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-10-14",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Cyberleek divulga ‘vazamento final’ de GTA 6 e promete parar com vídeos do jogo - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXN2aGw2ckMtbWVzalo2Q2h5bTVDTno1Z25HZnIwMVpyRGdMZTVrcFBLQWo0SDNWdGJ6Y0FEM19vSjNIZjZzd1FXT1dReE1fMnJTdEZ3YWl6TThWdzZ0NjhUZkIxT0dqZHdlYjItaUppeldWcGJvUGZITGtFOVV2Yk90SGw5c3ZlQWd6NWdjUnRiU3laUmh2OWRnRlZWRUg2WDVCWlFqOVVWV3FvZ1RqZmtMYWVGMk9VS1V1dzJLVE5QMXBZcVZF0gHMAUFVX3lxTE5iZHJzcklncnRtSUFuOGxUWFBBVnQtUDFXa0d0MFgwWnhfd3p0WllBWVNwcFpyMkYxNy1Fc0FqY0diYUVTM2FwN3Fjc0VQLW1qSncxSVZwWkQ5TERBdjRSR3dNdi10RkpVaTJOUTFVWXFjd0Ftd2tycksxb0gzdjJ6TjRjNGdESlRTRXNsS2JZZHI4M2p5NDN1RWVDYnA4MlVzMnREMXlyeUZpZnQxODZuX2xEVVVGUURjYUlGdjVNMWYxOVlWbW5zeFRwMw?oc=5",
+      "description": "Cyberleek divulga ‘vazamento final’ de GTA 6 e promete parar com vídeos do jogo&nbsp;&nbsp;Estadão",
+      "date": "2026-10-14",
+      "source": "Estadão • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA VI: Rockstar quase dobra de tamanho - Arkade",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWUFrQUV0ejFxYU1Xa0d1RU82NlhYbjluUEpxY3dlVUQzWXQyZnA3SzE0dGJoTHdGNjVxdkFUN1NILWIyOW9jTlZraEJRb1J0NmdUaTdENmdXNm5jQ01kYTNWUllGU1ZwQ1JET3JYNFh1VFAzV1RjM09jT3ZLd3VRY3RoNnNCR3JCaEFmNXBibTNXQXh0VFJuQlRMQ2pBb2lxVHhYQXN6UHZ6UU9YeE9TT1JvSk10MFN5VWt5MGloYWs1SUxjZFNSVG9iOTNyTGZueUx0anE3YVByeU9MdVE?oc=5",
+      "description": "GTA VI: Rockstar quase dobra de tamanho&nbsp;&nbsp;Arkade",
+      "date": "2026-10-14",
+      "source": "Arkade • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6: Reviews serão publicadas antes do lançamento - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkZaS0thRHNYd3lKZTl4MTV0VjJZeTlUaDl2ZGtUWU82eDFrVVA0NHZxREV3UmFXTTF0VFB4R3o2WXI1eThzYnFPendCSmI1dmdlRTRhUHJGMXR2WFpMU1pMczVGZkdTUG5ZYXRydjRiT19meHRZOFh1NVVRQmdMVVQtdkpkWVU?oc=5",
+      "description": "GTA 6: Reviews serão publicadas antes do lançamento&nbsp;&nbsp;Última Ficha",
+      "date": "2026-10-14",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 levou oito anos; Bloomberg revela os bastidores - Game Overdrive",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LN3ZnQTZ3MkhNd3hqVnJqV3kwMWZpNzJHcTdHNXV5UEFqNFo5UEVUTGNXdnlkVU11ZjVoY3dQUGdPY0N6bFNtVnN4UzRFY0ozUXZtU1A5b3Fna0stQkVodWEwdE5uaDRObXNKNENMcldRSHlXUnh6bWNocWQ?oc=5",
+      "description": "GTA 6 levou oito anos; Bloomberg revela os bastidores&nbsp;&nbsp;Game Overdrive",
+      "date": "2026-10-14",
+      "source": "Game Overdrive • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6: novo vazamento mostra opções de personalização no visual de Lucia - TudoCelular.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUdaZFdKTTh0X2VBQXFyR1dCMkR4S2lWMHRTTTY4Y2V2YlY4ZUhlVTJZOEhRdXQwMkFISVNCZlRjZTFuMFhVQW5ycEZScGRKZlpnWmxlQmZvUDR5UWI1TTRpeDdSNVJ3RzBpbmFDTnpBWG94OUx6aXpLOXFxcWRQQnNsWExLZlVHMnh1TmxkdDlSWFpYSkJuamxFTEhGSWs?oc=5",
+      "description": "GTA 6: novo vazamento mostra opções de personalização no visual de Lucia&nbsp;&nbsp;TudoCelular.com",
+      "date": "2026-10-14",
+      "source": "TudoCelular • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Frustrado, leaker de GTA 6 encerra vazamentos após não bater meta de \"arrecadação\" - Canaltech",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFBhWGNwNEZBSWdtUWZqTTJXelNCNGtDdDRnV1IydjFlVllaaVNZY0FPOHhELWZmM29FTWRmam1OdmZRSF9SYks4c3FoTEVHWlZiSnYzZ25HMldxTk9RTHZEU01BWG5Pb2hyMmhnb2hIMTh5Mi1OUllYZEl1Wm1abjRGeVR5bXdqNzZFSWVUdkh4clBaZWVQc1dOVHRBRFdYNTVUNGtpNHhjYV85YzZNWg?oc=5",
+      "description": "Frustrado, leaker de GTA 6 encerra vazamentos após não bater meta de \"arrecadação\"&nbsp;&nbsp;Canaltech",
+      "date": "2026-10-14",
+      "source": "Canaltech • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
       "title": "'GTA VI' deve ganhar versão para PC no primeiro trimestre de 2027 - Hypebeast",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0VmMGRfM3d2QUR3dHNHUXVWVk1IRlZxY2h4bTNjNjFIWkkxbHo0aGdfYlA2clNqZUgxUlkwZlV6U2haa2ZxMVRIYmtPLVB3LU9oSEtoOFN3Z0trOEdtMFVkRWxCVW5Dazc2ZWRhN0RITUlPWlRyVkNxc29nOVlySUhvNE9icUtjSXlyVWNGeVk2Z2hkN0E?oc=5",
       "description": "'GTA VI' deve ganhar versão para PC no primeiro trimestre de 2027&nbsp;&nbsp;Hypebeast",
       "date": "2026-10-14",
       "source": "Hypebeast • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 foi originalmente planejado para ser lançado muito mais cedo do que imaginávamos - IGN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQTZZUEZNVENrUDVlempfQTlHalZ3RnNDakluRUdWUk14YjF4WTdOa09WQzB0aG5GSXNMb2U2WU1rcHoxWi1pNnlBLWxZaEhWUXF3QU9UR0tlTTM5c09TLVFOTzJZVHNmRVlyOGo5YWhjYU1ocWRqTDJVQnR4UFhiRWpGQ0FwOVNnUy02d3J5OTgyMVp6cUowY0pjWmZwOUZLTjhEUkVuQkxoSmFocUlhal8wTTlLNjZpaWJIQ0pIU1RVZ3hmNmFhSXl2Q0c?oc=5",
+      "description": "GTA 6 foi originalmente planejado para ser lançado muito mais cedo do que imaginávamos&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-10-14",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 seria muito maior: Rockstar revela plano de explorar duas Américas - Game Overdrive",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcFp3bG53S3c4OEo0RzRPWWFWbXRuRGlUdTJKdjBXLUhjeE01TVhCS3VUNFFsaGF3MkY2bjgzcVliekpvNjJ5T2dKVnI1cEFGT0hXSlNOdC1mb3RHZVFjc19YMnhZRE5EcjFDMmV1czJsYW5Odm96ZHhkYmxKREswaw?oc=5",
+      "description": "GTA 6 seria muito maior: Rockstar revela plano de explorar duas Américas&nbsp;&nbsp;Game Overdrive",
+      "date": "2026-10-14",
+      "source": "Game Overdrive • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rumor: GTA VI pode chegar ao PC já no primeiro trimestre de 2027, segundo “fontes confiáveis” - Arkade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjRZcXBNaVJWRUY0eHZ6bjJETlVXM0p6cUhMdjh3YmRjMDNLQVNUd21iTzNJQ3BsSnNrWkQxS2taMXN2X21nWm10NnFZTXNDbGdmV05ZMlMzMFdHcWZXOWlCZFZfMnNPcEZvMjczWlM2ak44cmN2emZYVHhvSzZqZ2JXWWRLSTB5NDhpcTNrcDVJaWtQcU9jUnRORTh4a2Z6alFRQ05Wc2tUZzdIOWt5MjJ3?oc=5",
+      "description": "Rumor: GTA VI pode chegar ao PC já no primeiro trimestre de 2027, segundo “fontes confiáveis”&nbsp;&nbsp;Arkade",
+      "date": "2026-10-14",
+      "source": "Arkade • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar desmente boato de que GTA 6 custou mais de US$ 1,5 bilhão, mas o jogo provavelmente ainda é o videogame mais ca",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlpaSGZBamMzaVRyMGhXekxpZ2VmYW1HWk9vOHBjVk5GUHlmVzBuYnI2TDZ1MHlQMVBiYVd0RmlQZW5oMWFURlBtTF9ka0I1UVZmUnN1V3lnbEV0eFNIYkhhd0YtUDRsUU1iNDZEQm1lMzl3dkFzMXpVT1ZYeTBBWjFxVG5JcjVfTmFHRnpDZkVHa2FXMWxtNV92SExkcEQ0c1M1Wm45SWxSd1VfaEJBWUlwQnBYc1h6MW9qMHlJcU9RSEl1MDVvLTZUVHFxLWxZT3VsT3pkdGdMSnRtTUE?oc=5",
+      "description": "Rockstar desmente boato de que GTA 6 custou mais de US$ 1,5 bilhão, mas o jogo provavelmente ainda é o videogame mais caro de todos os tempos&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-10-14",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Leaker de GTA 6 divulga novo vídeo de gameplay com trechos das missões finais e anuncia \"o fim da linha\" após colapso de",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXBKSFJUbUdkOFBRSnJiaVlJSkR4YmNBSzdjOUw2Q3JGaTZUTFdBN2dHbzQwSVFxbThXV1IxZGRsaDZLX3QxVFZ1NEFDd2lSdU1oVTFnaVpCcjh0SVhEQjhFby1zSWtEQ1czWkVOcTgwSmZ1TW1WNEpXellNa05QVDF5OFptZ2JaR0JYUGNzY0pyNGhrVE9KcXJtS0Q5aldYOWJfbDB1UUZkdmlGcGNYWnd3eXRRREtNcGx3bHhEblYzdVkwdlo4Z3RYQllDeTAzSGtrMFVkaHN1bEdmZzJj?oc=5",
+      "description": "Leaker de GTA 6 divulga novo vídeo de gameplay com trechos das missões finais e anuncia \"o fim da linha\" após colapso de esquema com criptomoedas&nbsp;&nbsp;IGN Brasil",
+      "date": "2026-10-14",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar garante que o jogo a seguir a GTA 6 não demorará tanto tempo - IGN Portugal",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0pTZlNxcmdfRWJYdlVZNTlScGo2S0xNdVdFS0NPcnl4UFU0MmlPWHprV1IxQjc4MjRTMHV5MjRjdUloLWczWW12ZUM4Y1FvN0RIUzBIdlNHZ1NRd2Z5NWNNVGN3V0JTSmpFWkRRM1p3WkZpUmV2akJMRDhmeGU1UDBiS2lrVjV0RXZ6eUdvdVB6T1JIS2dPanZVVUNaR3RMX2JVUzRzWVVDYU15QXdLLUdoeG5kUQ?oc=5",
+      "description": "Rockstar garante que o jogo a seguir a GTA 6 não demorará tanto tempo&nbsp;&nbsp;IGN Portugal",
+      "date": "2026-10-14",
+      "source": "IGN Portugal • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar confirma ciclos de produção mais rápidos após GTA 6 - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1ZVSHk4ZzBlZ3FNT3hKeHVUVGtvbF9rWmdXdDk0Y19UbExEeEV6MUNzRGNkbnh0UFkwM3ljOEJYVGdzT00wZ29YVlBGU0h1SDhtOTFiam5XejVmYVN4aktkdEFsZjhMOHhtUVA4LV9lUlV6bnBCTC1TVnotTjNGUA?oc=5",
+      "description": "Rockstar confirma ciclos de produção mais rápidos após GTA 6&nbsp;&nbsp;Última Ficha",
+      "date": "2026-10-14",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Grand Theft Auto 6 recebe detalhe técnico de realismo inédito - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzBiX080cUhiUDdrWGZuM1hOV2Z2Vlhyazh5WVhpYVZ3d2xmTFdLNDVFUnpwQmFpbG9xa0xPa0t3ZEVrR2JocDl2MlkyZFVwbEpjQkZwVUd2NEYzSGN6aHZwQWoxTHlCejBlZzZEQUdsV0dQQVFURWVBNjV6bHZjcTlZRjhPZw?oc=5",
+      "description": "Grand Theft Auto 6 recebe detalhe técnico de realismo inédito&nbsp;&nbsp;Última Ficha",
+      "date": "2026-10-14",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 Online chega em 2027 - Eurogamer.pt",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tR2h5VjFtU3I3ZW5yYnFrTjJWY2tWS2FhNnpUZDFvakJmUmJwQl9Dd1FCM1lCbjEyOXljUUVHR2owRlp4Y0s1R28yM0FORFpzLS1FdzZ5Z3FFaDlfeGwxZg?oc=5",
+      "description": "GTA 6 Online chega em 2027&nbsp;&nbsp;Eurogamer.pt",
+      "date": "2026-10-14",
+      "source": "Eurogamer.pt • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6: CEO da Take-Two reagiu com choque a novos adiamentos - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcFlPbHFueko4dTRYalN6NDg5R1NoZkdkVERQLWN5VDYtOHc0LVZoV3lMaE9YZlY5OC1oZXNkMGZQLTNEUTdpUGV5bU1qQzNzNjVEUmoxT3NFNkpyY0drdHl3V013bHd4OGwtaXRvbmwwQmFid3g0bEhaWEtXUmVlRg?oc=5",
+      "description": "GTA 6: CEO da Take-Two reagiu com choque a novos adiamentos&nbsp;&nbsp;Última Ficha",
+      "date": "2026-10-14",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 garante entrada gratuita em atração de Miami até 2028 - ncnews.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTm9ISUpFVmhEUkxic2stOENBZE9CR2xEUTgtUjV6Y0dVcnIxNTZZWmpnUS1sdXlsV0NBN01hcjJsbEF5ZG1SN1Nrb3lZaDdrem9RUFFCemRBc0NxTnBtRVdndGxYTVVMeTZ3Q1oxSExCVmRjSmVqdC1PNGZ3bXBOdU1sMXB2NXFzRVl1TGlObURwWks2V1M4RA?oc=5",
+      "description": "GTA 6 garante entrada gratuita em atração de Miami até 2028&nbsp;&nbsp;ncnews.com.br",
+      "date": "2026-10-14",
+      "source": "Games BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6, da Rockstar Games, chega a PC mais cedo do que o esperado - Magazine.HD",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1BKOHJFYXFpalMxV01zTE5WVjQyYkstYkhzV2dEWks2N1psZjNSX1NaTy1kN2laOTRxLTQteW8tMlVEV2d3ZGtUTXRrVC1qMWEtbG13MnJWSVhwVUJZcWtYSi11YkpaQlhwTDVYTmExcVZIQ3Y0WHhjX19TRlhCUWR3MTdyYXpuSHY2ejZoODNndXVqNFdURQ?oc=5",
+      "description": "GTA 6, da Rockstar Games, chega a PC mais cedo do que o esperado&nbsp;&nbsp;Magazine.HD",
+      "date": "2026-10-14",
+      "source": "Magazine.HD • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 não custou mais de 1,5 mil milhões de dólares, garante Rockstar - IGN Portugal",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkhyNXJ5amVvLUR1azAtQ2NlVEVEWFNLWTIyVDVwM3oxakdBRWQxeEl2Z2E0WGp1SG1HWGVIWHUzek1JbWVIS21xVHdxdlB6cEpJZ1NwVXNscW9YVlBLZXV3Z0FmajB2ZVFmTTllTVVtbG1rWnRxRTZ2NTgyYVpEMDZUZHQ3SXRLeFY0V1hGSXdTVlFWLVNvU0hob2J4d19oREZLZWxWRWM1TnE3UENMTGd5Zw?oc=5",
+      "description": "GTA 6 não custou mais de 1,5 mil milhões de dólares, garante Rockstar&nbsp;&nbsp;IGN Portugal",
+      "date": "2026-10-14",
+      "source": "IGN Portugal • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Orçamento de GTA 6, Rockstar desmente 1,5 mil milhões mas cala o valor - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnRuRlBFckg4MmpXTVRpTkxDWXM4QzhWRkpTZF80c2JxakU0RnFsUkxUSkhNRk92TXljMWJPbTgzbkNCU0RsTlgxcGNYVk9QdEhrTHJZSHoyZlhJYjVNTWVvOWl3elIzOEVVQXNYbDlKNkJFNjhsbzBTSVBrM1E4VUNWQQ?oc=5",
+      "description": "Orçamento de GTA 6, Rockstar desmente 1,5 mil milhões mas cala o valor&nbsp;&nbsp;Pasquale Pillitteri",
+      "date": "2026-10-14",
+      "source": "Pasquale Pillitteri • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Leaker de GTA 6 trava publicações após queda a pique da sua memecoin - IGN Portugal",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1B6dGhBQVd4cTdHSGJ4ek5Ea2ZJY1ZoUnBzMk9VN1Bfd0haQ3FWVDlJM0tCbDBsSkJNakJUZEkzRU9qdDl5azk4V2w4QTlHU1QwaDlTOVJ2WFVudHVWZTFvUHFFYkZ1em9XVjVjdDl5V2V5bkNLVnkwUUdxYzVTVTNFYlk5YzJiOXZHbkRiTGo3eENhdlRncFRpR0xlLXNOcnpwRV9oMEFHU0p5S09rc0FIR1Y?oc=5",
+      "description": "Leaker de GTA 6 trava publicações após queda a pique da sua memecoin&nbsp;&nbsp;IGN Portugal",
+      "date": "2026-10-14",
+      "source": "IGN Portugal • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 será lançado sem modo online, que deve chegar apenas em 2027 - Hardware.com.br",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05bFBBV3BWdnlmOGhmVjFrVk9xcFRaS0lCal9YZVQ2STkyOUZROHV4SXVSVnFWSlUyVlc0Rzd3b0tnYXphS3M1VUU2N2tCYkRZSTF3UzVha1YtM0Rray1VQ3dURGRaS2RmSGN2aVN2QUNGLVFfbVBxaQ?oc=5",
+      "description": "GTA 6 será lançado sem modo online, que deve chegar apenas em 2027&nbsp;&nbsp;Hardware.com.br",
+      "date": "2026-10-14",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Red Dead 3? Próximo jogo da Rockstar após GTA 6 não vai demorar anos - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXMzSXRxX3dqQXBhNm91WUhGN29qUE91OFk1c3VOVUgxaTN0X2p5dXpQZ3REM0Z4MXcxQXE2VnhBZlpQaWpsMGVPYVROSFVnZXNlQnEwZjNIaGtzWUZzZ0w5VWFvYTV4TFZ3TVJTU0d0OV8tRHU1MXlKLVQzSE9fT0NibkN6ZUhodDVMX0trUzYwZzAzN2huUDhjOFVjQkh2Y1p3SF9WT2pkX2l4dGJv0gG0AUFVX3lxTE5fRW1IOEdLSWVEVGpyTFlCYmNtbGEwUHpEdlVnbjI0b1RIQ2ZIcVczRENYTUN2WFdEblZmcnZiYjl4b3NMQzBKX0UyZ01lbjlEZ2MyQ1hZeFUyUG1KX0lWWW1kOC1PUkdzX2JpRmNZU2dyeUxHeldLSElrc1lDbVZpUFAwTmhZaGhyb29WV1Y1Nnk3YTN1a3hfMFhSblE2NE12aXRnS0x3VWk2NE8wSmVWMmJKVg?oc=5",
+      "description": "Red Dead 3? Próximo jogo da Rockstar após GTA 6 não vai demorar anos&nbsp;&nbsp;Estadão",
+      "date": "2026-10-14",
+      "source": "Estadão • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA VI ganha novas imagens em reportagem que revela bastidores da Rockstar - Combo Infinito",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0h1aVR0cGFOYnB6WlhoR0staTI5OHpfTG1nY3VrcmxDR1RwNjg1c2YxU3YzQ2JqYkxER0dOeHhDZWxVWVRLSVpBLTg3UWZpcFFDVDNIcXNMZnlzakY3UDQ2SWJXQ0lyc21EX19MV0xzXzRsM2xpd3BjQWYtUHlrUmU2VEJiVGhfTTFuNXdyaEZrS2cxNF9hSFl3?oc=5",
+      "description": "GTA VI ganha novas imagens em reportagem que revela bastidores da Rockstar&nbsp;&nbsp;Combo Infinito",
+      "date": "2026-10-14",
+      "source": "Combo Infinito • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Come to Brasil? GTA VI quase teve cidades da América Latina - MeuPlayStation",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yZ21VTmltdDllZGdWOFYydTBnbG1RUWtpSXVKTmVScjY4bVY0YnpLcFUtTDVIVEtTT3ZtZDN6aHRhZEpHRnBVT0hRN3dNY09ialRZbGl1NDZtUnhtT09PaWpXdXoyZDFiYU02VXNObFE0X2M?oc=5",
+      "description": "Come to Brasil? GTA VI quase teve cidades da América Latina&nbsp;&nbsp;MeuPlayStation",
+      "date": "2026-10-14",
+      "source": "MeuPlayStation • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 | Cyberleek vaza novo vídeo com Lucia, anuncia o fim dos vazamentos, mas deixa ameaça - Portal Viciados",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMDN0Tllmc3dJQk04SXdhb2RkbHRIbFo0YlhkODRoaEE2YmlKdnVoSWJBdnJHUGxCWFFJZlZtZy0tQkpfbERmcnhZU2JyWGo2bzNZX2ZPUjI2dThoUXRxb3I5WlV3T284MExfSGdyLTYxcTFfbWxrNy1FSm9VSGs?oc=5",
+      "description": "GTA 6 | Cyberleek vaza novo vídeo com Lucia, anuncia o fim dos vazamentos, mas deixa ameaça&nbsp;&nbsp;Portal Viciados",
+      "date": "2026-10-14",
+      "source": "Portal BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "‘GTA 6’ quase teve cenários inspirados na América do Sul - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG90SHc3LXlRVng4TzJaVXVkdERPSHAyMHhmUC10TGZIWk9rUkYyOE1UZ2RUSE5xNGk1NTJ1bFRmTHRaWFNWZDZ2Zy1EM1IzR2wyekRvVFY0b0RVeHJGQUxQdndQdnVHOUVZVi1tSWx3eXdndnlfV1pXazFtUy1KbVVSUWF4NTBOcUR0NlZDcFdBWFozWVJv?oc=5",
+      "description": "‘GTA 6’ quase teve cenários inspirados na América do Sul&nbsp;&nbsp;VEJA",
+      "date": "2026-10-14",
+      "source": "VEJA • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 para PC pode chegar já em março de 2027, segundo fontes ligadas à indústria - Proddigital POP",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUdLbDZJRUUzRzJPUE8tUnQyODBlTFpXalZuV2dKUy04bExSUnBHeS1kM004N0FkRWxmZ2RIMTc5Uk02RHU2eHpQV0dUNHpOSzlPQlFWcW9XZE0ySVAwa0JmdWhadmFkMUNCUFA2VEFFVkF6T3pJdzJUSkpIWWhaMTRIOXladzU5ZldvOHRLTmF5SDdNUDF4RFVKTDc1UlVXT0NUYVM2c05BdE03VDJSdXRPazg5T3p1WDRvUWVWNHRCT0lvcXBhSF9B?oc=5",
+      "description": "GTA 6 para PC pode chegar já em março de 2027, segundo fontes ligadas à indústria&nbsp;&nbsp;Proddigital POP",
+      "date": "2026-10-14",
+      "source": "Proddigital POP • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6 pode permitir mudar cabelo, roupas e visual de Lucia; veja o que mostra o vazamento - Espaço do Povo -",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmdxV1ZQd3UtS3p3Q2VfMzZEay10TWMxSHJYVW1tZ1Q2ZmJsU0JuSV9KR1Zyenc5bmNvTzNWREducGwtdkVWNFJnRnZpR1hra1ZHUGFWU2F0M1BWeXNfZzFlVlBCT0VYa0VKd1NRSU93dktIQmtTMUZBRGpZcUJGVjBVWTlDSFp6TU44cnNzNW9HdkwtWmZTNEpqaEk2ZVFJYVl0RmI3WXJGWFpxNy1fVHdMVElOZVU?oc=5",
+      "description": "GTA 6 pode permitir mudar cabelo, roupas e visual de Lucia; veja o que mostra o vazamento&nbsp;&nbsp;Espaço do Povo -",
+      "date": "2026-10-14",
+      "source": "Espaço do Povo - • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA VI quase teve cidades da América do Sul antes de mudanças no desenvolvimento - Combo Infinito",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHpGNG1UcXozSThLeUFNTW5uSnFzanNfcWVKc01ienhFNWIxaGM2X1hJLS1kakRCVEVtV1B0VUpUbE1MSUhnb0JKdjkzeEc1Z1RxMFNQOWVxRTBlS1BQRl9QTW53R3BYU0ZLMGlqZ3VSS2tiWFd4MlNpT1NZc3E5aGZXak5ISk4wWWF0RzEwRFdEZUtCTlZ4TkZ6TzFidnpLY0tr?oc=5",
+      "description": "GTA VI quase teve cidades da América do Sul antes de mudanças no desenvolvimento&nbsp;&nbsp;Combo Infinito",
+      "date": "2026-10-14",
+      "source": "Combo Infinito • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "GTA 6: Planos originais previam dois continentes no mapa - Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHhCZVpIUWdEaHp6aWZUQlk2d0hKMm9qdFk2V05nUXZDSU1yQzlpOGp1b2tLcWZSSUJYa25wdnRaX1BZSllxUUQtcUcydVQ2S0dkZ2JZdEFDcGJTRVZDY3o5WE1RN01oSFRVUHZBT1VVX3dZX0tQYjM2clR6UXp5VHF2WS0?oc=5",
+      "description": "GTA 6: Planos originais previam dois continentes no mapa&nbsp;&nbsp;Última Ficha",
+      "date": "2026-10-14",
+      "source": "Última Ficha • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Depois de GTA 6, novo projeto da Rockstar terá desenvolvimento mais ágil com novas tecnologias - Gamer Point",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb2xEZW5xWTAwZ25rb0VVeVZHU2FBbVZBX2lXYnFZSTlkTEdxYXB5RzExa1AtejFKX1FUaEZ3NzBVUzhrWGJOX0sxbmdhTmFub19VUG5KVjc4WGk0RGlFYXg2cEFTNWZ3bjgwS3lQSWIxYkNhbUFpN1NHVmV1OUFTMHFmTUthT2cwZEFNOGtfcFpCNEdBcTVkQkNZdGhLdVJkX1JhRVZ1cTB0eDdXaXY1T3FfZzJDaFlWS09HXzhWSXhheE1lR2R2QXdEVmFkQQ?oc=5",
+      "description": "Depois de GTA 6, novo projeto da Rockstar terá desenvolvimento mais ágil com novas tecnologias&nbsp;&nbsp;Gamer Point",
+      "date": "2026-10-14",
+      "source": "Gamer Point • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Por que GTA 6 demorou tanto? Rockstar revela os bastidores - DOL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWY5MjZuMW5kSll1bGRWaW1zNTJmX1BVcXF1WkdyZTVUUjFmaGsyMnNYQ2FEc0xVOEpMR1FNbjJRTDlhdVFjZGJ4dnZmSUoxSkExVWZwdEppZEE1QXdncGhWbW1uLWdfejVfMFJXR1VMV2JTc1huZTlsd2FPaTM5UzhGSlBHNFZ1a19xYnBBZDF0VU0xMUM5aHFLZC1zVXBreUltT1hSUdIBrwFBVV95cUxPRUlBaHNGTmg2WlphQ0lFYzNLbHB0T1l2NFNPamtfLTZFRWlwSl9rMkVCLWw4VEt3RTJOUGNuRlhZQjV5Qlpib19tbl9BaG9iSzl5d2x2OE1rR1pNOUo1ZUF2UWlZUGlicU82WGd5dzcwMi1HNzhFbGg0T2YwZG1NZU1GUWRhdXlTRlV4R1M5aldOZFlQS0l3a01uVjVjWGhhSnhjWWROcW5icWl3OG9v?oc=5",
+      "description": "Por que GTA 6 demorou tanto? Rockstar revela os bastidores&nbsp;&nbsp;DOL",
+      "date": "2026-10-14",
+      "source": "DOL • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Grand Theft Auto VI: América do Sul foi considerada, próximo jogo não demorará e mais - PSX Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORE52R04yRDZBZmlzRktieXlrSXF1bEcwN0FwX044SldkTXhKZ2NtZnZiQXQ0NnkzWlVvM0djVFRkNWdGSFkwRm5MV1VOcEpscmQ3dW5vMUhqUFpmNnpCdk9vQlZFT192Vy0xbkxrSG9nbkYwRXpCaTdheE85NG9TM3dxYTRYVGpRcWk2Rm8zMHVPc05RMTZvYnliWnlqYmhod3dJWngwNDRZd0dQVlE?oc=5",
+      "description": "Grand Theft Auto VI: América do Sul foi considerada, próximo jogo não demorará e mais&nbsp;&nbsp;PSX Brasil",
+      "date": "2026-10-14",
+      "source": "IGN BR • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Rockstar diz que GTA VI não está completamente definido: “Fizemos mudanças nos últimos meses” - O Vício",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUVZZ1piaWxBVWJVZkZrYmNaYVBpWml4UDJDZ3dKZ2ExeFc2ZkdjMVI3LUVrSF85THY1bi1UUTVvRTBKMG9BT1Byd0FFbEZlQkwtc1ZuemZhYTdiWS1NTDdaanlJOU0ycE1fSU1HTHVzSXc4cThWejJCX191RklWZFRxbmhqTU5lMHEzZXdHLVpDblBXRk1QUVZHVFpNZkZlRldheTZZdFlYTk84VTU1YlNCTdIBuAFBVV95cUxOQ3kwVkFfbElvNW83NGF0V2RzNW90bl9NM1ZFTy1JRWo1Uy0tVGJLWk1YdDQ5aGtlX1JTRndocjNkVlctcDg1T2pkSVpjaV85TnkzMzF1MEYtYjZ3Z2MwRnpKcUZZcURycFBxVkhYYS1EQlItaF9KWVU2MkZIMFAyeTY1VHdqdG5zT3lqVmdJcFNJbThYejVicGRzTG9PZDktdVRnZW1rMlR1V0FQU3dMMU1yMUE2eUdZ?oc=5",
+      "description": "Rockstar diz que GTA VI não está completamente definido: “Fizemos mudanças nos últimos meses”&nbsp;&nbsp;O Vício",
+      "date": "2026-10-14",
+      "source": "O Vício • GTA 6",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "title": "Cyberleek ameaça vazar o final de GTA 6 se a Take-Two não o deixar em paz - Adrenaline",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDZmdmNmZmVuVnFqZjJmSlU4bHpMOUtqQUd6UHBwWTVXWXgweUpPei1yV3E4MTA3WVBaaDdLM1NLNFFpWHpqRzJrTEhmYks1V2FyX0ZkS2xkTjdCXzhDM3NDY3BhWGlLM0p3SFJnTVlqa1pHRkFmcXBmQmpJb1F4bTRpSGxFS3A4QmVkeHZNSE5PVEhJU0xUczlwSUVOZ3U5Yi1EQld5Q0VmRVd0eTRJ?oc=5",
+      "description": "Cyberleek ameaça vazar o final de GTA 6 se a Take-Two não o deixar em paz&nbsp;&nbsp;Adrenaline",
+      "date": "2026-10-14",
+      "source": "Adrenaline • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
@@ -17,364 +337,72 @@
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "A Rockstar está prestes a tornar o sonho de GTA 6 realidade para os jogadores de PC. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZTdyRWttWU84ejA3UVVFcHdUVE81bjZUb2dKTEVydFluQzJQTG1WdHZHMDNidEVLMjVFLW5XclJpOENPX3RQSUFVRzAtay1lT3dxb0NuZk5mQU1uT1A2NGpBZ1dVMkZTYUhUNXVaWHJJYVBBZjlaRV9OS2djb094MHlGbkFsSkZVSGc?oc=5",
-      "description": "A Rockstar está prestes a tornar o sonho de GTA 6 realidade para os jogadores de PC.&nbsp;&nbsp;Vietnam.vn",
+      "title": "GTA VI oferece entrada gratuita em famoso ponto turístico de Miami até 2028 - Combo Infinito",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWRPWWpWZElMMG5GTTdPVzRCZlZoV3paaWRQeFRlVzEyQkoxRjNsTGhmX1hSWl9LLUFVLUR6R2FEOEloZHhsQ2VtZkkzdjdtMi11cnFjbG44WGhZX3pBS3NGZTktdVF0Y3F4VHhfQ3Vra0VQVm5zRWcyOEFkMWRKdDVfamFaRkc0VkMyNTdpalM2cDNSbkU0?oc=5",
+      "description": "GTA VI oferece entrada gratuita em famoso ponto turístico de Miami até 2028&nbsp;&nbsp;Combo Infinito",
       "date": "2026-10-14",
-      "source": "Vietnam.vn • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Vazamento de GTA 6: Novas Imagens de Lucia Nua e Suposta Versão Completa de 200GB Vazam - MMOEXP",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc240SzNma2RHTFpSNmh6SmhVc1lpY0FycWNCeU1vSzdDcHdxRmpMTzBBMVdkYW9BNXVodC1RS1JQRFB6QVUzSmQ1cVpLanFJSmdkMmtmWkxhc2UyTEdCcXJPdVVjalA5N0U5REdUdUJQV3RIZ25rRTUwRzRQNGFhZ05PQTd0SGRlMktJRXQzZFFsT3lHVmhUV2xNVU1ybmlKOE5lOW52aW5tQnlDaDJqWnVmSGFrTlFUc053?oc=5",
-      "description": "Vazamento de GTA 6: Novas Imagens de Lucia Nua e Suposta Versão Completa de 200GB Vazam&nbsp;&nbsp;MMOEXP",
-      "date": "2026-10-14",
-      "source": "MMOEXP • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "ANTONBLAST será lançado em 15 de outubro para PS4 e PS5 - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0hyR2x6OXRRcUI2VlJUZVdUdHlxdUNpcGxXakpVNHNLMFBhbWlVWVQ2QUFLZExJRjBRMkZGYnEwR1pKMFJFYWZxVHIwX3h4UU5vYm9iTllSc2hQUVROT0hDcHFXT0xKSmVmMFd5QTVRbkZLMGo2Q0stUE9ndWdZZXZldVpiOGFW?oc=5",
-      "description": "ANTONBLAST será lançado em 15 de outubro para PS4 e PS5&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-10-14",
-      "source": "IGN BR • PlayStation",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "E AGORA? XBOX ESTÁ FORA DO BRASIL! - Xboxers",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nSTB2ODZLbmhVVjNXTkZlaWNzOXd0V1BqSWduejFfbTQxRTF0NG1UNWhSV0V4ODctR3J1NGNvWWpXODVBX2VHWWVGMi11LWtMcERYbnJOdEljZEtFS3hNSjJEQ1ZGMDg?oc=5",
-      "description": "E AGORA? XBOX ESTÁ FORA DO BRASIL!&nbsp;&nbsp;Xboxers",
-      "date": "2026-10-14",
-      "source": "Xboxers • Xbox",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Presente e Futuro: GTA VI é base para próximos games da Rockstar",
-      "link": "https://meups.com.br/news/presente-e-futuro-gta-vi-e-base-futuro/",
-      "description": "A Rockstar continua sem revelar oficialmente quanto gastou na produção de GTA VI, mas admite que o jogo mudou o estúdio.",
-      "date": "2026-10-14",
-      "source": "MeuPS • GTA 6",
-      "image": "https://meups.com.br/wp-content/uploads/2026/08/GTA-VI-1-2.jpg"
-    },
-    {
-      "title": "GTA VI fez Rockstar “dobrar de tamanho” em oito anos",
-      "link": "https://meups.com.br/noticias/gta-vi-fez-rockstar-dobrar/",
-      "description": "Desde Red Dead Redemption II, a Rockstar passou de 2.441 para 4.711 funcionários distribuídos por 12 escritórios com GTA VI.",
-      "date": "2026-10-14",
-      "source": "MeuPS • GTA 6",
-      "image": "https://meups.com.br/wp-content/uploads/2026/08/GTA-VI-1920x1080.jpeg"
-    },
-    {
-      "title": "GTA VI “é um jogo sobre um casal”, diz diretor",
-      "link": "https://meups.com.br/news/gta-vi-e-um-jogo-sobre-um-casal-diz-diretor/",
-      "description": "Jason e Lucia mudaram a estrutura de GTA VI e fizeram com que o mundo aberto fosse totalmente diferente de tudo que já vimos.",
-      "date": "2026-10-14",
-      "source": "MeuPS • GTA 6",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/Jason_and_Lucia_03-1920x1080.jpg"
-    },
-    {
-      "title": "GTA VI: conheça os bastidores de oito anos de desenvolvimento",
-      "link": "https://meups.com.br/news/gta-vi-conheca-os-bastidores/",
-      "description": "GTA VI: conheça os bastidores de oito anos de desenvolvimento",
-      "date": "2026-10-14",
-      "source": "MeuPS • GTA 6",
-      "image": "https://meups.com.br/wp-content/uploads/2026/10/HUlUVkGXcAATJrb.jpeg"
-    },
-    {
-      "title": "FreeStyle Football 2 chega em dezembro ao PS5",
-      "link": "https://meups.com.br/news/freestyle-football-2-chega-em-dezembro/",
-      "description": "Desenvolvido pela WOORE e publicado pela JOYCITY, FreeStyle Football 2 aposta em partidas online de futebol 5 contra 5.",
-      "date": "2026-10-14",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/10/Freestyle-Football-2.jpg"
-    },
-    {
-      "title": "ANTONBLAST ganha data de lançamento para PS5 e PS4",
-      "link": "https://meups.com.br/news/antonblast-ganha-data-para-ps5-e-ps4/",
-      "description": "ANTONBLAST chegou primeiro ao PC, via Steam, em 3 de dezembro de 2024, e será disponibilizado para PS5 em breve.",
-      "date": "2026-10-14",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/10/antonblast.jpg"
-    },
-    {
-      "title": "Microsoft anuncia Xbox Labs para explorar novas tecnologias nos games",
-      "link": "https://meups.com.br/news/microsoft-anuncia-xbox-labs/",
-      "description": "A Microsoft anunciou o Xbox Labs, uma nova iniciativa interna criada para buscar inovação.",
-      "date": "2026-10-14",
-      "source": "MeuPS • Xbox",
-      "image": "https://meups.com.br/wp-content/uploads/2026/10/Xbox-Labs-1920x1080.jpg"
-    },
-    {
-      "title": "Skyrim recebe três novos conteúdos pagos no PS5; veja quais",
-      "link": "https://meups.com.br/news/skyrim-recebe-tres-novos-conteudos-pagos-no-ps5-veja-quais/",
-      "description": "The Elder Scrolls V: Skyrim recebeu três novas Creations pagas, que já estavam em outras plataformas, no PS5.",
-      "date": "2026-10-14",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/10/Skyrim.jpg"
-    },
-    {
-      "title": "Modern Warfare 4 deve chegar ao PS5 sem Platina",
-      "link": "https://meups.com.br/news/modern-warfare-4-sem-platina/",
-      "description": "Call of Duty: Modern Warfare 4 será lançado em 23 de outubro para PS5, Xbox Series X&#124;S, PC e Nintendo Switch 2.",
-      "date": "2026-10-14",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/08/Call-of-Duty-Modern-Warfare-4.webp"
-    },
-    {
-      "title": "Metro 2039 abre pré-venda no PS5 e confirma expansão de história para 2027",
-      "link": "https://meups.com.br/news/metro-2039-abre-pre-venda-no-ps5/",
-      "description": "A Deep Silver abriu oficialmente as pré-vendas de Metro 2039, que será lançado em 4 de fevereiro de 2027.",
-      "date": "2026-10-14",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/09/Metro-2039.jpg"
-    },
-    {
-      "title": "ARC Raiders libera teste de modo PvE no PS5; veja como funciona",
-      "link": "https://meups.com.br/news/arc-raiders-libera-teste-de-modo-pve/",
-      "description": "A Embark Studios, de ARC Raiders, anunciou o início de um teste temporário de uma nova opção de matchmaking PvE para o game.",
-      "date": "2026-10-14",
-      "source": "MeuPS • PlayStation",
-      "image": "https://meups.com.br/wp-content/uploads/2026/02/ARC-RAIDERS-1.jpg"
-    },
-    {
-      "title": "Peladões em GTA 6, PS5 desbloqueado e BGS 2026 criticada - Jornal dos Jogos | Substack",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFBCb3VqRktKcnM2RkRzVDU2bER2V1lkNkF3RS1sY3JWck96MVBKeXl6ZDRIYzh2cGd1MWVvdy1pRFZzdm1TVTZRWXRGazlIYlU4cEdMUXZwMG5Gek82UDRjZEJZT1ZMa0xsdzZFUTFNcEZ1bjBHR2xpWHRlbGYycEpFVQ?oc=5",
-      "description": "Peladões em GTA 6, PS5 desbloqueado e BGS 2026 criticada&nbsp;&nbsp;Jornal dos Jogos | Substack",
-      "date": "2026-10-13",
-      "source": "Jornal dos Jogos | Substack • GTA 6",
-      "image": "https://substackcdn.com/image/fetch/$s_!6rHb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e101141-19c3-4f1d-9164-57276e9b4455_1200x675.jpeg"
-    },
-    {
-      "title": "GTA 6 pode chegar ao PC já no primeiro trimestre de 2027, indica relatório - Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nazdibVl1MFNKaHpSWUNHTjNWamVQOFEzX3ZOUDFhZm9zUWZoY0NveFdyVEducnBQYTUyUGhzck9CZjBoZjBmdDR2dHRQWG9JUHhBaEF1emFGaVhIVXFDanZBaXJaTEUyeUQ0MjJ3?oc=5",
-      "description": "GTA 6 pode chegar ao PC já no primeiro trimestre de 2027, indica relatório&nbsp;&nbsp;Adrenaline",
-      "date": "2026-10-13",
-      "source": "Adrenaline • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Rumor: Grand Theft Auto VI será lançado para PC antes de março de 2027 - PSX Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVQtZjluR1hwejBTMlNvdTgxZFNLbFJHQlpDc1ZLTzc4OXRXcXE4RGlfelp5M29TbkJPc2I4SDNBUElDWDB1N3RnRDl2N0JwOGRveVRYNFFVT0hHQW5HeE1tYTNENjVTZkE2ay1leVVBTk1lTTV5TnpMWXEyS3NzR01NWW5RSTRtbEtONU1WTFJRanVDT0p2Z3RMZw?oc=5",
-      "description": "Rumor: Grand Theft Auto VI será lançado para PC antes de março de 2027&nbsp;&nbsp;PSX Brasil",
-      "date": "2026-10-13",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 deve chegar ao PC no primeiro trimestre de 2027, segundo relatos - IGN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUh3SlluNzVVVEs5U25UVUYxekh0NU4tNDhEQ1pOUmdLSnFLQkJyTVFjMGFTbk5aZjZoNXlZcTRDQnlsX2tpRlBWamwxd2EybS02dDVTV0tCNUNCSzFjWjJ5ZkNXV3F4U3VGME50eXNIYXNYeTNqalRpV0NRLUNvc3MwNTVGWUx6am1Cejk3dDA3Ul92UjFId2JSTjVGMnlNeUQxNGhLSW51RExfX2R3QVplQUl1QQ?oc=5",
-      "description": "GTA 6 deve chegar ao PC no primeiro trimestre de 2027, segundo relatos&nbsp;&nbsp;IGN Brasil",
-      "date": "2026-10-13",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6: versão de PC finalmente ganha previsão de lançamento - TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUcwNkxtMlFUT3I0aWViMk9ZdVJXNnF5QkxOaVdDaEFhemRPS0hIZHJBUTZQVGRFV3NLR3BLdWdSTHBraElMdVJGSlJIZVdHTEV0VDhHblBMbURWZkJKQThUOURLcXBqa281UjhRcjJ5Q3RqRDA0enlYVmR1b0VNXzh4ZUJYNEp3VHZ4WU10MXNaUHZkN19BTHJoNFBFZw?oc=5",
-      "description": "GTA 6: versão de PC finalmente ganha previsão de lançamento&nbsp;&nbsp;TudoCelular.com",
-      "date": "2026-10-13",
-      "source": "TudoCelular • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 | Previsão de lançamento da versão de PC pode ter sido revelada, veja - Omelete",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEJDejN3OVBqaTBKVDl2QkNCRERlallrcURYRE5qQU9jUC1oY2dsa0dxR2xJWEtKaURyYmMxZ3VHMlVYYW9MOVRET3UzOVBuWmNlZ1ZLSGFhWlNtTHBlajVKOTdqczdubFl4OGNjRGZyUllvc0h5ZEV0amZBdDJWNnJMSFBtWXo1am9QSjZyRTFOREVlelczV3VsdlBrRHN5?oc=5",
-      "description": "GTA 6 | Previsão de lançamento da versão de PC pode ter sido revelada, veja&nbsp;&nbsp;Omelete",
-      "date": "2026-10-13",
-      "source": "Omelete • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 pode chegar ao PC em 2027; veja quando - Pichau Arena",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iSHpVNzlhU3VoNHZnVElSNjM2OExQdXo3TnRLRHRNUjd6djBNcGwxbWZuUEd3ZUZGUUgtcF9DNmdFQVNmOGM2aEVwdjNPMmVMZTRHSDd4WjlyZXREeVlNVVI4Z2JOLU5NVXA1RFlkWnlWU3M?oc=5",
-      "description": "GTA 6 pode chegar ao PC em 2027; veja quando&nbsp;&nbsp;Pichau Arena",
-      "date": "2026-10-13",
-      "source": "Pichau Arena • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 no PC até março de 2027? Reportagem aponta janela - Game Overdrive",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4S1JrSk9OV2owU1MxRlNjS3pwRjEteDA3d0M2VHhGU1BLcUFnWWhuV1pVY203ZnYzSlcwdFQwcjFGUHVsVTh1ZjFIMWIzYVp3aVBTSF9SUEk4OGcyNFE?oc=5",
-      "description": "GTA 6 no PC até março de 2027? Reportagem aponta janela&nbsp;&nbsp;Game Overdrive",
-      "date": "2026-10-13",
-      "source": "Game Overdrive • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA VI: Rumor indica janela de lançamento para PC - O Vício",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0ejZqSGVKXzZwTjJjTDlmMHNEa3FXbTFZSUloY1lVa3RjV3dFbXVUcWVPd1V6cUpoOTlpcDFWZzl5TUdOZ3hfR2hneXZHTUFGX0E3NVJydXlxSTFQMFZhenRXdEhmTmoxTUtoLVROM0R4X25RVzJPMGJQc9IBgAFBVV95cUxNendtU1Nha1F1a01yQ0k5SkVLRm92eTJnNkNFUEd5eE5SenpBdEtVVHVlNDFTa2FTUmlEMjJXMHE4Z3hOdERjb0pzX05wWXhLOVZrU3J2d0o4VFA2ODRGOWxJMmNXSHdKYWhPUlAyU3RMV1Fzc1FIRU9EM3RzTzVfcQ?oc=5",
-      "description": "GTA VI: Rumor indica janela de lançamento para PC&nbsp;&nbsp;O Vício",
-      "date": "2026-10-13",
-      "source": "O Vício • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 para PS5 despenca de preço com cupom de desconto na Shopee - TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDNCTlZ2Q2NDM2p6MkJMMXY5dDdiNkdOY1JkaVRheDhuWWJuTFJxQlBLSDE1aDM0dEtUMmFOWmtIam9rQ204NWFZSGdja3EyVEVoejd6eGczS2xGRlJJVnV1V3QyVHNpLTdvaGRsTUIxU0tRRHVuVTBtV0FlTlRFX0hMb2JvajRfVUNpQU1WQjZPZw?oc=5",
-      "description": "GTA 6 para PS5 despenca de preço com cupom de desconto na Shopee&nbsp;&nbsp;TudoCelular.com",
-      "date": "2026-10-13",
-      "source": "TudoCelular • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "PC barato para GTA 6: peças, preços e o que evitar - Game Overdrive",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PT2ZCb25KRlktSkU3ZVRnbTZaeHdURC11OG5kamJWZ1pKSmh0WjlheWptQ3MycWw1WDhQdWpDREgtNzJnRXhyMW5zc204Q0RkSkpFekJEdVYyaDFLMW40?oc=5",
-      "description": "PC barato para GTA 6: peças, preços e o que evitar&nbsp;&nbsp;Game Overdrive",
-      "date": "2026-10-13",
-      "source": "Game Overdrive • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 terá retorno da Flash FM e podcasts que poderão ser ouvidos fora dos veículos - Diário da Manhã",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV3F2UGx3eFlQLURaWWFVcDZSeDBTM0xyTXN6bF93QWF6WG9LbzNOWVMxcVFMazRuSjRtV2s3Z3RwSjVocnVhWnI2RXNoeUR6SmNxRUs2eThMY2ZLZXE4QnVQNWw4VWFfa3dySzhMMXJlWHZmWUNQZ19BZDhYOTRmTmlLd0RvNzJ6cmJaSUc4S2Rta3NfS3pSZE9CcnM3TzY2b0hXalMwZjN1WXRxU0Z4R3I3Qm1IbVdNbEdmT3h3?oc=5",
-      "description": "GTA 6 terá retorno da Flash FM e podcasts que poderão ser ouvidos fora dos veículos&nbsp;&nbsp;Diário da Manhã",
-      "date": "2026-10-13",
-      "source": "Diário da Manhã • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 no PC: Vazamento indica lançamento no início de 2027 - Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lN3JqNEVlLURsbXU2TkhOaHB0MVdXaEpVSzZtdUo3M0pvc3BZQ2xJZzlzZVRHX0ZNN0RfcU1PM1p4NWd2eXloM0c0UUhzLVFzbHd0Q01ibmh2bVJjVVpUMXhxU3RuTVluZVRGX3hUa3pvQQ?oc=5",
-      "description": "GTA 6 no PC: Vazamento indica lançamento no início de 2027&nbsp;&nbsp;Última Ficha",
-      "date": "2026-10-13",
-      "source": "Última Ficha • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Versão PC de GTA 6 pode chegar no primeiro trimestre de 2027 - Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE5ySWk4OUJGbWF5bHBXRXFEWkp0TzVoU2R2YndKVEZfQTlKVE9WXzhjaXNjMVpVeE5YUXdvdktYenBWQVFibi15NFpnbW9IakhQd3BsbE90d291RFIwdlJ1cm5OaGZjT3d1OF9Rbm15NlBrMW9Rd3VxQUZTd2kxaVQ1SjFHUWhKVkJ5TWtn?oc=5",
-      "description": "Versão PC de GTA 6 pode chegar no primeiro trimestre de 2027&nbsp;&nbsp;Eurogamer.pt",
-      "date": "2026-10-13",
-      "source": "Eurogamer.pt • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 pode passar de 200 GB? Veja o novo vazamento - ncnews.com.br",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9raUpTOHNGTEpTeHVqZXppaGN5eERCenV0amJsczF4UUtqbGJCSlJuNlJaR0JIUlVnOHRHRmNZQS00cTZLNGJMWWVaYklHUjlGOXFyUHNnZEFDQjR0d3NnRUN4NGUxbnktcE5Wb1RrZ19OaE4yQjh4eHBGZVlfZw?oc=5",
-      "description": "GTA 6 pode passar de 200 GB? Veja o novo vazamento&nbsp;&nbsp;ncnews.com.br",
-      "date": "2026-10-13",
-      "source": "Games BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 poderá chegar ao PC no primeiro trimestre de 2027, segundo fontes não-oficiais - IGN Portugal",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmFHTmx2Snl1cGctb083dWNGLWxMV2xRbHI5ZHNIcHowRHQyRjRodUVLcFBEeXJpY20wSDZoWVJuQjhJcEpzbmF5N1NUekdTaFdNQlIxZVVjRm53azc3NG01VFNSZVJWV0hLR1pBZ24yWUdDU2ZaRFg0YVh2MERhdXdlTWM1NFV3Y0I3NFlQN2J1ZkFneE1fYy1MOGRTMUxkdWk2VjlfSnNNdTJwUjNET2IyQTdqUQ?oc=5",
-      "description": "GTA 6 poderá chegar ao PC no primeiro trimestre de 2027, segundo fontes não-oficiais&nbsp;&nbsp;IGN Portugal",
-      "date": "2026-10-13",
-      "source": "IGN Portugal • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Campanha de Vice City com GTA VI em Miami pode ser barrada por comissários do condado - Arkade",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0dZSFV5SlJMS3k4VDV6VHh3eDg3UVd2MV84Q0REVkNBako1TURSSFBEY2JBZDA4REp1S3l1YWpKXzJpNHg1UzFJNkU3VUxXaXJqRWdScGtORm5sd2xrd3dIMFRKdjhDLUhiZGF0bWlrR1A0VXBNU1oxdEkxaHlaUVBJZDJucERzUE8wSnBldmdCTm1MN0F1U19HVWxwdm56aDNVQllxWkJmNmM?oc=5",
-      "description": "Campanha de Vice City com GTA VI em Miami pode ser barrada por comissários do condado&nbsp;&nbsp;Arkade",
-      "date": "2026-10-13",
-      "source": "Arkade • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Rockstar deve lançar versão de PC de GTA VI no início de 2027 - GameFoxHub",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qNURzelpsS1psNDlvVk0wWjNFUDB1YngyV3I5ZkZGSnFzSy1UMmtOeFRUUG9WSHl4VVlKR3pBQVYxZGhhVlFzbG9pcndoQlYzZ0R6WlJOSTNLNG9mcVZka2tsUlBLLVRNVUNLUTZtQnVndmc?oc=5",
-      "description": "Rockstar deve lançar versão de PC de GTA VI no início de 2027&nbsp;&nbsp;GameFoxHub",
-      "date": "2026-10-13",
-      "source": "GameFoxHub • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 no PC no início de 2027, rumor da GamesBeat sem confirmação - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzB3YkM5c21GYXNoT3NScDBLcHVVLXNnSTRtQWxUNHlqSjVhdWpna1R4c0N1aVhYVGk3cm96c1NKZllTb0J6RHNLczltTWcybEZIN1JlSllCWjVNYjFwUFRkZWZvWXJiY0JjQ0RvYngzRGo0NGRhRm5PeGExc0dnTGQ1eTRENjZFbHVlWVBwdVFVZG8?oc=5",
-      "description": "GTA 6 no PC no início de 2027, rumor da GamesBeat sem confirmação&nbsp;&nbsp;Pasquale Pillitteri",
-      "date": "2026-10-13",
-      "source": "Pasquale Pillitteri • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 pode chegar ao PC apenas 4 meses após lançamento nos consoles - Hardware.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2xvLUUyekJ6MmctVlcyUTZGcnAwNjRleUZRbmcxc2x6TXlPdUFERG5BUHdTVzVJdjhUZmNZRGtZV1Fkc1NlZjVIcUpybXFneURQS21vY0NLRzdjRC1IbFVleDhHbzYtemR5NTBEQ0lkYjZ0ckxISDBVdTZRcnRTMnQ0RkhUU1hYa2hkV0d1d3Zxc2NvZjNQY1FFbVNpWXk1bm95dQ?oc=5",
-      "description": "GTA 6 pode chegar ao PC apenas 4 meses após lançamento nos consoles&nbsp;&nbsp;Hardware.com.br",
-      "date": "2026-10-13",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA VI ganha músicas inéditas de Cardi B e Fuerza Regida - jwave.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT21hdm9Qd3hTdjlWMnY1dk81dXJYekdodEpnRWtkV0Y5ekU5YVpmb2xVdkpQMi1oUUxiY3Z0S2R2M2xNOFlDZVJkV2RJV2xZRTdjYUNQRWFaY1lVSkl2aHFlY3QzUk1lYVlpdWxlZ3daRUttNVptb3g1aDdWOUN0Ymo1VWJMbEhiMlhCT2NPMjJVek5l?oc=5",
-      "description": "GTA VI ganha músicas inéditas de Cardi B e Fuerza Regida&nbsp;&nbsp;jwave.com.br",
-      "date": "2026-10-13",
-      "source": "IGN BR • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6: grupo ameaça divulgar jogo completo por cripto - MaisTecnologia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGtEWUZoM3hPQkI4SFMyRk5ZREtjTERpSHFUZHgzdzY1Z01xYUw0b3NsblhxYjgwRENkSFhNaVQ1T0t2eHc4c3F0c3RRSGpmTFVwdWNieXVtUndhWHgwVC1xSXozLVRNcjZwRGM1c1JDUXFVNjVMdE9EWUJpSVR3LXRJeE1BU1pmSUdYaA?oc=5",
-      "description": "GTA 6: grupo ameaça divulgar jogo completo por cripto&nbsp;&nbsp;MaisTecnologia",
-      "date": "2026-10-13",
-      "source": "MaisTecnologia • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6: Criptomoeda de 'leaker' colapsa e fãs celebram fim de esquema de chantagem - IGN Portugal",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXBUV1lmaGhFbUpKYk9GZ0V1YzN2cm5JcjdZSnVFNDZWOUVUb1VQaVhzZUxEcVdBYTdDLU0yNzk0ZmJpWWVrVVYyMllyWHlLeG1jWXFPNHEtU1ViblZIX0xLYlB6RDVMNXQ4SkJrUzdpMjlKX3hvY2Y0enVJNW4zVlZqZjV0TS11YXZjMHNqaE16WU02cEVsS3g0amlFRVF2TXNnQVQ0N093S2lnT2RtSnRSWURya0RqMHJKdHNRWEt4UQ?oc=5",
-      "description": "GTA 6: Criptomoeda de 'leaker' colapsa e fãs celebram fim de esquema de chantagem&nbsp;&nbsp;IGN Portugal",
-      "date": "2026-10-13",
-      "source": "IGN Portugal • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA 6 será lançado no PC em 2027, poucos meses após estreia no Xbox e PS5 - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVhIVGFORGVzbVdheXpHLTdUczRkSjU3aE11WURSNEQ2T1pBNTlXS2Jpb3hFZjZIazFia1NKUHNEcXVJdTNOdTF1OFdBd0NIV01nWXBsVnJETDNGWGxwTjJkYmQ3c3VlSUlEQ0NBX3RUbFp6WUZTTEtjdkZFM3k4Y1FzWnF3bzUzRXN3ajN5bGJ6MHFpakZJRTJGeklCNndic1N5WDRyOEJsUGIxb3FqZU91QTF5d9IBuwFBVV95cUxNZXRKQlhnd1ZWdFUwTERDRUg4a25tcmYzcTYwd0JRSDZiRUItZTNpMmY0RHNmSXZNRUNJenptS3BLZDlZU0JnbThOVDJXRUplS1lfVlpPLVdhQlZNMjJnUWRLTl9adzY1VnIxWGUtUXFnNGIwVlhscXZYWkQ5bjRlSksyRk1uaWlHTkJzN0pmbzBMMEhLbVQ3Ujd1Q2kxelNwenZUUkdQVmZKX1hQLThENGJsWldTSldPRndv?oc=5",
-      "description": "GTA 6 será lançado no PC em 2027, poucos meses após estreia no Xbox e PS5&nbsp;&nbsp;Estadão",
-      "date": "2026-10-13",
-      "source": "Estadão • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "Novo vazamento de GTA 6: clipe mostra Lucia pelada; veja detalhes - TechTudo",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVm0tbU5fajVZZVlFaWtYbVFST0c2c2tYM25uVXpfQmM5eUVseDlxZXBQSjhPMjJIZkdoVTA2LVhHNGFiSkQwZnpzQkxPS3hzd2llb2xvUkFRekdhMzVkcmh3M1VZQXB2MnFzUVV1Q0ZQVFUyM0VtNFNTZGxmYUMxZHJDeW9EUGNFVjE2bUxSVmM5Z2xUR0ZyZlBXd3dvdlZYeTFuMEVQd3BWM3ZMc3pRTXZiWUJXd1Nyb2tEbndaWdIBzgFBVV95cUxQRlRYNTBiYVN1d0ctR3A5ZEdLbldNQzZ0QlNWa0ZfWlhGektfanBwcVRKTHF2UXZtSEdBV0ptQVBkeXRGTXNCNUNhZ2ZuT0JEYU9XMkpLUDJaN1JJV2FzLV9uem1EaWpVcmR3UUlvUDBqMDdEbTAxU0M4WFljM3kxdmM5OVBwTk1oSnNYRGRWYm0yZXlkYTNfTmg5cXFna1pSeDJSN0hhTm9Ea21KYmRGcmRSV3praFBoQW01V3ZfYmFYT1dZY2tGc1o0Ri1WQQ?oc=5",
-      "description": "Novo vazamento de GTA 6: clipe mostra Lucia pelada; veja detalhes&nbsp;&nbsp;TechTudo",
-      "date": "2026-10-13",
-      "source": "TechTudo • GTA 6",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "title": "GTA VI pode chegar ao PC poucos meses após lançamento nos consoles, aponta rumor - Combo Infinito",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXFNOE8tTjRJZ0tDMEV1UmI1eFJFTmx4RXU1UDdSOFJuYVpqX1o0QVRxS1UxM3REdWlrR3JicVNELTZWVWlQOThPYThTZEk5QmZBeE5qT1JYSWQ2RUVZdHdKVF9GUEVDWnVrNHU2bjNNa3ZWMmJlUUNSeUZhbUJkb09nNGxKT1RTTWpBcGVEWm1qZkFOeEo1XzFB?oc=5",
-      "description": "GTA VI pode chegar ao PC poucos meses após lançamento nos consoles, aponta rumor&nbsp;&nbsp;Combo Infinito",
-      "date": "2026-10-13",
       "source": "Combo Infinito • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GTA 6 pode chegar ao PC no início de 2027, diz site - Tecnoblog",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNei1QZDJ3NHlzdzlSc045SmtKOG56RVdPdUpfMXA2dG5NTG9FZmctVXRCZFlYX3Z0XzBuX1NtQ21ZWWl4djZ2czVqcEN4eU9nQmRjai00NmZ3VVJ1WDlPN3Z1T0xvUXljTHBYWVBsNWptNzY5VkFXbjM4U2xWT1NRUlprZUdQRVZhNHc?oc=5",
-      "description": "GTA 6 pode chegar ao PC no início de 2027, diz site&nbsp;&nbsp;Tecnoblog",
-      "date": "2026-10-13",
-      "source": "Tecnoblog • GTA 6",
+      "title": "Rockstar Games planeja lançamentos mais rápidos após estreia de GTA 6 - Combo Infinito",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1VLaUhsSXRENU1LV19ndWlWdjFpWm9LRWlNVnloNUp2cGh3TnMwQ2pWSTB1R05VZWVBRFdPRGVIOFRBQUhxNTh5c0JfTW90M21wT1c0ODZzU0ZDbjY3OVNWcVN2c0QyWjIydzdxcG5EYTRYYVhlb0tLR3dMTnY2RQ?oc=5",
+      "description": "Rockstar Games planeja lançamentos mais rápidos após estreia de GTA 6&nbsp;&nbsp;Combo Infinito",
+      "date": "2026-10-14",
+      "source": "Combo Infinito • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "title": "GTA 6 deve chegar ao PC no primeiro trimestre de 2027, diz reportagem - R7 Entretenimento",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdldzQksza2MwUUNrS3JBR3FpTnVqVmo4WC1PQnJ1NlUyNUNVdDdsa2JIRzBqYVhZZUI2Wmd4Z2Z1N2g0TmVCUE9FWktUSXlpYjRfaUtGRFdiUC1aNU9jbmJNSGZVRjJDSGFjeGwxTzBHR3BEdXJLcFhwN0l4aV9Oam1QSG5tekZiM2t6NGdTVXVRVlBnY2VUVTVudFpkUEFZNTduN25yN1dUOUpfNXpyZm1Ja1hRZGxFRkVhX1Q5dVduaWlRTlFzRVhDeEU?oc=5",
-      "description": "GTA 6 deve chegar ao PC no primeiro trimestre de 2027, diz reportagem&nbsp;&nbsp;R7 Entretenimento",
-      "date": "2026-10-13",
-      "source": "R7 Entretenimento • GTA 6",
+      "title": "Rockstar Games fala sobre ataque hacker de GTA 6: ‘Parece que entraram na sua cabeça’ - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWDhqN0ZRZE1LRnc3YkVaR3FFUFl5MGo1VG1DMV8xczU5bVhrU09oeTFFRm5fYnFSUjMxOVhCdjMwSHdRNzIyR3lRNmpFUjBpdnhWOUZ2a0ViZ2VqLVE4eDVjYUdvS01vM2FucnNJR080RzlCc21PQ2g3eDVGcV9HU1ZLVWpZclNSYlo1b21OQUIwQy1SSlIyVmRzTloxd0t4M2RLVW1WUlRvVkxhQURNd1lYU3NvWksyX2pQb3VrbkxFaEXSAcgBQVVfeXFMTXZnOEM4cElGYnJFY3hoS3pyeDUxVHJDWHJ4VWRxUDFQUmFfUWxhZTRGajF6THJIQnJqTVl5aFVSTWFoNUtyaE5IS0lHRWtNWVZfUGdIenZYUmxuOEdYOTZCS1NobVQzZ3ZSV3RKQVpCUjlZbXRGOWJZMWZoWU8walRKdV9tZHVRSmctS24tVWlOYlJhQ2J6LUxhb3lsUEtzdmNyYVhhUWlTZktwc1pIQWstVjEyTTRVYTkyNU1nZkZEVGZ4Z2Jjb18?oc=5",
+      "description": "Rockstar Games fala sobre ataque hacker de GTA 6: ‘Parece que entraram na sua cabeça’&nbsp;&nbsp;Estadão",
+      "date": "2026-10-14",
+      "source": "Estadão • GTA 6",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ],
   "videos": [
+    {
+      "title": "Abrindo cartinhas, Pixar chegou e mais Pokemon 30 anos",
+      "link": "https://youtube.com/watch?v=aLsGUoFE3Ns",
+      "thumbnail": "https://i.ytimg.com/vi/aLsGUoFE3Ns/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "CONFERINDO END OF ABYSS",
+      "link": "https://youtube.com/watch?v=bWl6cJ4PUNA",
+      "thumbnail": "https://i.ytimg.com/vi/bWl6cJ4PUNA/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "PLAYSTATION 5 DESBLOQUEADO e a Sony DERRUBA lojas piratas",
+      "link": "https://youtube.com/watch?v=dbM8FSD_HY0",
+      "thumbnail": "https://i.ytimg.com/vi/dbM8FSD_HY0/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "OFICIAL: Rockstar revela QUANTO FOI o CUSTO TOTAL do GTA 6",
+      "link": "https://youtube.com/watch?v=yI0HYs2_nT4",
+      "thumbnail": "https://i.ytimg.com/vi/yI0HYs2_nT4/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "GTA 6 SAI PRA PC NO COMEÇO DE 2027? #gta6 #davyjones",
+      "link": "https://youtube.com/watch?v=IRZsXFqbqoQ",
+      "thumbnail": "https://i.ytimg.com/vi/IRZsXFqbqoQ/hqdefault.jpg",
+      "channel": "GamplayRJ",
+      "date": "2026-10-14"
+    },
     {
       "title": "O FIM DA BGS",
       "link": "https://youtube.com/watch?v=eZxWLBnjpNQ",
       "thumbnail": "https://i.ytimg.com/vi/eZxWLBnjpNQ/hqdefault.jpg",
       "channel": "GamplayRJ",
       "date": "2026-10-14"
-    },
-    {
-      "title": "A BIZARRA EDIÇÃO DE COLECIONADOR DE GOW LAUFEY! #godofwar #playstation #davyjones",
-      "link": "https://youtube.com/watch?v=PrMduxZIfBQ",
-      "thumbnail": "https://i.ytimg.com/vi/PrMduxZIfBQ/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-10-13"
     },
     {
       "title": "Naughty Dog SÓ EXISTE para VENDER Playstation",
@@ -391,32 +419,11 @@
       "date": "2026-10-13"
     },
     {
-      "title": "SERÁ QUE O GTA 6 VAI TER O PEYOTE?",
-      "link": "https://youtube.com/watch?v=eTf9ukgB9_8",
-      "thumbnail": "https://i.ytimg.com/vi/eTf9ukgB9_8/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "VAZOU GTA 6 EM PRIMEIRA PESSOA !",
-      "link": "https://youtube.com/watch?v=7H09hUpMa0c",
-      "thumbnail": "https://i.ytimg.com/vi/7H09hUpMa0c/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "GTA 6 vai ter muito NPC na rua",
-      "link": "https://youtube.com/watch?v=sAedk78unHk",
-      "thumbnail": "https://i.ytimg.com/vi/sAedk78unHk/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "E a BGS heim...",
-      "link": "https://youtube.com/watch?v=rbdEfZoAXE8",
-      "thumbnail": "https://i.ytimg.com/vi/rbdEfZoAXE8/hqdefault.jpg",
-      "channel": "GamplayRJ",
-      "date": "2026-10-12"
+      "title": "ESPECIAL SPEEDRUN BRAT 2026 ft SAVE MANUAL e THEDARKNESS - #flowgames #208",
+      "link": "https://youtube.com/watch?v=2xnzuA4eoAg",
+      "thumbnail": "https://i.ytimg.com/vi/2xnzuA4eoAg/hqdefault_live.jpg",
+      "channel": "FLOW GAMES",
+      "date": "2026-10-14"
     },
     {
       "title": "O HACKER TRABALHA NA ROCKSTAR 😭😭",
@@ -466,13 +473,6 @@
       "thumbnail": "https://i.ytimg.com/vi/O3pRHF8lYQ4/hqdefault.jpg",
       "channel": "FLOW GAMES",
       "date": "2026-10-12"
-    },
-    {
-      "title": "19 de novembro o MUNDO VAI PARAR 😱😱😱",
-      "link": "https://youtube.com/watch?v=sF0fZtIgpdQ",
-      "thumbnail": "https://i.ytimg.com/vi/sF0fZtIgpdQ/hqdefault.jpg",
-      "channel": "FLOW GAMES",
-      "date": "2026-10-11"
     },
     {
       "title": "Novidades GTA VI, Bets Proibidas, Político Rouba Creator, Resumo Tokyo &amp; Mais! | Ep. 135",
@@ -531,5 +531,5 @@
       "date": "2026-09-02"
     }
   ],
-  "updated_at": "2026-10-14T11:03:25.604444+00:00"
+  "updated_at": "2026-10-14T21:20:06.143997+00:00"
 }
